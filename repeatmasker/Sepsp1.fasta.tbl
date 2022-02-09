@@ -1,0 +1,51 @@
+==================================================
+file name: Sepsp1.fasta             
+sequences:           236
+total length:   27514649 bp  (26807206 bp excl N/X-runs)
+GC level:         58.09 %
+bases masked:    1572734 bp ( 5.72 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               15         6414 bp    0.02 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       161       124113 bp    0.45 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI     30         5768 bp    0.02 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:         0            0 bp    0.00 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      2650      1193886 bp    4.34 %
+
+Total interspersed repeats:  1324413 bp    4.81 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:    4190       197533 bp    0.72 %
+Low complexity:     959        54987 bp    0.20 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Sepsp1-families.fa"
+

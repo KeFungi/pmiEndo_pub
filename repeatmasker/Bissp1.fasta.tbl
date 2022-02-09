@@ -1,0 +1,51 @@
+==================================================
+file name: Bissp1.fasta             
+sequences:           479
+total length:   56472170 bp  (56472170 bp excl N/X-runs)
+GC level:         45.49 %
+bases masked:    5387700 bp ( 9.54 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:              559       551676 bp    0.98 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:      1643      1182725 bp    2.09 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:      1529       957181 bp    1.69 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:     10872      2322058 bp    4.11 %
+
+Total interspersed repeats:  5013640 bp    8.88 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:    5842       225014 bp    0.40 %
+Low complexity:     836        39396 bp    0.07 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Bissp1-families.fa"
+

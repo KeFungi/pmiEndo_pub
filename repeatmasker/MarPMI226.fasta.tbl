@@ -1,0 +1,51 @@
+==================================================
+file name: MarPMI226.fasta          
+sequences:            35
+total length:   42252145 bp  (42252145 bp excl N/X-runs)
+GC level:         48.56 %
+bases masked:    1480984 bp ( 3.51 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               71        58597 bp    0.14 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       267       257236 bp    0.61 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:       176       176782 bp    0.42 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      1469       393219 bp    0.93 %
+
+Total interspersed repeats:   885834 bp    2.10 %
+
+
+Small RNA:          115        13391 bp    0.03 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:   12477       479090 bp    1.13 %
+Low complexity:    2159       103357 bp    0.24 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../MarPMI226-families.fa"
+

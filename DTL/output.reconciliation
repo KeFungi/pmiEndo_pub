@@ -1,0 +1,223 @@
+
+
+ ------------ Reconciliation for Gene Tree 1 (rooted) -------------
+Species Tree: 
+(((Umbra1,Umbelo1)n3,Hesve2finisherSC)n2,((Lobtra1,Morel2)n5,((((Sepsp1,Pucst1)n9,(Atrsp2,Phlfa1)n10)n8,((Niavib1,FlaPMI526)n12,((ClaPMI390,Sisrad1)n14,Botbo1)n13)n11)n7,(((XylPMI703,(Botci1,(((Glalo1,(Zalva1,Hymvar1)n22)n21,((Chalo1,(Hyafin1,MelPMI1271)n25)n24,(Lorju1,(Cadsp1,(Rhesp1,(Lepor2,Leptod1)n29)n28)n27)n26)n23)n20,((Amore1,Oidma1)n31,(Atrpi1,(Calmar1,Bissp1)n33)n32)n30)n19)n18)n17,((Apimo1,(XylPMI506,(Pestal1,Truan1)n37)n36)n35,((((Pilidi1,(Diaam1,DiaPMI573)n42)n41,(OphPMI507,(Ophnu1,Ophpic1)n44)n43)n40,(((Conlig1,ConPMI546)n47,LecAK0013)n46,(Chagl,(CodFL1790,ThoPMI491)n49)n48)n45)n39,((Acrchr1,(Neobo1,(((Ilyrob1,Ilysp1)n55,Neodi1)n54,MarPMI226)n53)n52)n51,((Sodal1,Veral1)n57,((Gloac1,Colfi1)n59,Gloci1)n58)n56)n50)n38)n34)n16,((((Ampqui1,Stasp1)n63,Stano2)n62,PhaPMI808)n61,(Talpro1,Talst1)n64)n60)n15)n6)n4)n1;
+
+Gene Tree: 
+(((((((Neodi1_10293,(Ilyrob1_508849,Ilysp1_1731935)m9)m7,(Veral1_3583,(Gloci1_1833860,(Gloac1_1311212,Colfi1_285290)m16)m14)m12)m6,((((Leptod1_504042,Lepor2_671989)m22,(Zalva1_622231,Hymvar1_467718)m25)m21,(((Bissp1_685835,Glalo1_2421)m30,(Chalo1_485200,(Hyafin1_941533,MelPMI1271_427828)m35)m33)m29,XylPMI703_821369)m28)m20,Cadsp1_605747)m19)m5,(((Pestal1_615305,(XylPMI506_428780,Truan1_664006)m44)m42,(OphPMI507_349520,(Diaam1_1747,DiaPMI573_694391)m49)m47)m41,((CodFL1790_628647,ThoPMI491_812707)m53,Neobo1_700434)m52)m40)m4,(Oidma1_43397,Talpro1_422275)m57)m3,((((Bissp1_650714,(PhaPMI808_739854,(Stasp1_380740,(Stano2_12241,Ampqui1_591006)m69)m67)m65)m63,((XylPMI703_897789,(Lorju1_477199,(Chalo1_483305,(MelPMI1271_306300,Hyafin1_943784)m79)m77)m75)m73,(Chalo1_360782,((Hymvar1_385215,Zalva1_373164)m85,(Atrpi1_333508,(Cadsp1_431250,(Rhesp1_411552,(Leptod1_371464,Lepor2_630816)m94)m92)m90)m88)m84)m82)m72)m62,((Oidma1_52971,Talpro1_439833)m98,(Oidma1_166683,(OphPMI507_404871,(Conlig1_613502,ConPMI546_942804)m105)m103)m101)m97)m61,(((((ThoPMI491_94618,Neobo1_722336)m112,(((Ilyrob1_341358,Ilysp1_1493718)m117,((ThoPMI491_876643,Neobo1_672647)m121,Gloci1_1752635)m120)m116,OphPMI507_373923)m115)m111,((ThoPMI491_698323,(OphPMI507_138625,(Ophnu1_1983315,Ophpic1_4110)m131)m129)m127,(((XylPMI506_383690,Truan1_512516)m136,(Neodi1_4269,(Ilyrob1_485062,Ilysp1_1731618)m141)m139)m135,(Neobo1_703866,(Neobo1_518698,(Veral1_3022,((Colfi1_280014,Gloac1_932016)m151,Gloci1_43294)m150)m148)m146)m144)m134)m126)m110,(Oidma1_44344,Talpro1_327009)m155)m109,((((Lepor2_445256,Leptod1_441475)m161,Cadsp1_632898)m160,((XylPMI703_690809,(Zalva1_358519,Hymvar1_337690)m168)m166,(Leptod1_426893,Lepor2_689362)m171)m165)m159,(((ThoPMI491_641230,((Veral1_6029,(MarPMI226_358310,(Ilysp1_1466512,Ilyrob1_535043)m183)m181)m179,(Neobo1_536019,(Gloci1_1847154,(Colfi1_288661,Gloac1_1394757)m190)m188)m186)m178)m176,Veral1_4114)m175,(ConPMI546_992286,((Truan1_594002,Pestal1_489854)m197,((Bissp1_524680,(ThoPMI491_792164,Neodi1_9678)m203)m201,Acrchr1_8698)m200)m196)m194)m174)m158)m108)m60)m2,(Neobo1_753083,MarPMI226_394965)m207)m1;
+
+Reconciliation:
+Neodi1_10293: Leaf Node
+Ilyrob1_508849: Leaf Node
+Ilysp1_1731935: Leaf Node
+m9 = LCA[Ilyrob1_508849, Ilysp1_1731935]: Speciation, Mapping --> n55
+m7 = LCA[Neodi1_10293, Ilysp1_1731935]: Speciation, Mapping --> n54
+Veral1_3583: Leaf Node
+Gloci1_1833860: Leaf Node
+Gloac1_1311212: Leaf Node
+Colfi1_285290: Leaf Node
+m16 = LCA[Gloac1_1311212, Colfi1_285290]: Speciation, Mapping --> n59
+m14 = LCA[Gloci1_1833860, Colfi1_285290]: Speciation, Mapping --> n58
+m12 = LCA[Veral1_3583, Colfi1_285290]: Speciation, Mapping --> n56
+m6 = LCA[Neodi1_10293, Colfi1_285290]: Speciation, Mapping --> n50
+Leptod1_504042: Leaf Node
+Lepor2_671989: Leaf Node
+m22 = LCA[Leptod1_504042, Lepor2_671989]: Speciation, Mapping --> n29
+Zalva1_622231: Leaf Node
+Hymvar1_467718: Leaf Node
+m25 = LCA[Zalva1_622231, Hymvar1_467718]: Speciation, Mapping --> n22
+m21 = LCA[Leptod1_504042, Hymvar1_467718]: Transfer, Mapping --> n29, Recipient --> n22
+Bissp1_685835: Leaf Node
+Glalo1_2421: Leaf Node
+m30 = LCA[Bissp1_685835, Glalo1_2421]: Transfer, Mapping --> n21, Recipient --> Bissp1
+Chalo1_485200: Leaf Node
+Hyafin1_941533: Leaf Node
+MelPMI1271_427828: Leaf Node
+m35 = LCA[Hyafin1_941533, MelPMI1271_427828]: Speciation, Mapping --> n25
+m33 = LCA[Chalo1_485200, MelPMI1271_427828]: Speciation, Mapping --> n24
+m29 = LCA[Bissp1_685835, MelPMI1271_427828]: Speciation, Mapping --> n20
+XylPMI703_821369: Leaf Node
+m28 = LCA[Bissp1_685835, XylPMI703_821369]: Transfer, Mapping --> XylPMI703, Recipient --> n20
+m20 = LCA[Leptod1_504042, XylPMI703_821369]: Transfer, Mapping --> n28, Recipient --> XylPMI703
+Cadsp1_605747: Leaf Node
+m19 = LCA[Leptod1_504042, Cadsp1_605747]: Speciation, Mapping --> n27
+m5 = LCA[Neodi1_10293, Cadsp1_605747]: Transfer, Mapping --> n50, Recipient --> n27
+Pestal1_615305: Leaf Node
+XylPMI506_428780: Leaf Node
+Truan1_664006: Leaf Node
+m44 = LCA[XylPMI506_428780, Truan1_664006]: Transfer, Mapping --> Truan1, Recipient --> XylPMI506
+m42 = LCA[Pestal1_615305, Truan1_664006]: Speciation, Mapping --> n37
+OphPMI507_349520: Leaf Node
+Diaam1_1747: Leaf Node
+DiaPMI573_694391: Leaf Node
+m49 = LCA[Diaam1_1747, DiaPMI573_694391]: Speciation, Mapping --> n42
+m47 = LCA[OphPMI507_349520, DiaPMI573_694391]: Speciation, Mapping --> n40
+m41 = LCA[Pestal1_615305, DiaPMI573_694391]: Transfer, Mapping --> n40, Recipient --> n37
+CodFL1790_628647: Leaf Node
+ThoPMI491_812707: Leaf Node
+m53 = LCA[CodFL1790_628647, ThoPMI491_812707]: Speciation, Mapping --> n49
+Neobo1_700434: Leaf Node
+m52 = LCA[CodFL1790_628647, Neobo1_700434]: Transfer, Mapping --> n45, Recipient --> Neobo1
+m40 = LCA[Pestal1_615305, Neobo1_700434]: Speciation, Mapping --> n39
+m4 = LCA[Neodi1_10293, Neobo1_700434]: Speciation, Mapping --> n38
+Oidma1_43397: Leaf Node
+Talpro1_422275: Leaf Node
+m57 = LCA[Oidma1_43397, Talpro1_422275]: Transfer, Mapping --> Oidma1, Recipient --> Talpro1
+m3 = LCA[Neodi1_10293, Talpro1_422275]: Transfer, Mapping --> n38, Recipient --> Oidma1
+Bissp1_650714: Leaf Node
+PhaPMI808_739854: Leaf Node
+Stasp1_380740: Leaf Node
+Stano2_12241: Leaf Node
+Ampqui1_591006: Leaf Node
+m69 = LCA[Stano2_12241, Ampqui1_591006]: Transfer, Mapping --> Ampqui1, Recipient --> Stano2
+m67 = LCA[Stasp1_380740, Ampqui1_591006]: Speciation, Mapping --> n63
+m65 = LCA[PhaPMI808_739854, Ampqui1_591006]: Speciation, Mapping --> n61
+m63 = LCA[Bissp1_650714, Ampqui1_591006]: Transfer, Mapping --> n33, Recipient --> n61
+XylPMI703_897789: Leaf Node
+Lorju1_477199: Leaf Node
+Chalo1_483305: Leaf Node
+MelPMI1271_306300: Leaf Node
+Hyafin1_943784: Leaf Node
+m79 = LCA[MelPMI1271_306300, Hyafin1_943784]: Speciation, Mapping --> n25
+m77 = LCA[Chalo1_483305, Hyafin1_943784]: Speciation, Mapping --> n24
+m75 = LCA[Lorju1_477199, Hyafin1_943784]: Speciation, Mapping --> n23
+m73 = LCA[XylPMI703_897789, Hyafin1_943784]: Transfer, Mapping --> n23, Recipient --> XylPMI703
+Chalo1_360782: Leaf Node
+Hymvar1_385215: Leaf Node
+Zalva1_373164: Leaf Node
+m85 = LCA[Hymvar1_385215, Zalva1_373164]: Speciation, Mapping --> n22
+Atrpi1_333508: Leaf Node
+Cadsp1_431250: Leaf Node
+Rhesp1_411552: Leaf Node
+Leptod1_371464: Leaf Node
+Lepor2_630816: Leaf Node
+m94 = LCA[Leptod1_371464, Lepor2_630816]: Speciation, Mapping --> n29
+m92 = LCA[Rhesp1_411552, Lepor2_630816]: Speciation, Mapping --> n28
+m90 = LCA[Cadsp1_431250, Lepor2_630816]: Speciation, Mapping --> n27
+m88 = LCA[Atrpi1_333508, Lepor2_630816]: Transfer, Mapping --> Atrpi1, Recipient --> n27
+m84 = LCA[Hymvar1_385215, Lepor2_630816]: Transfer, Mapping --> Atrpi1, Recipient --> n22
+m82 = LCA[Chalo1_360782, Lepor2_630816]: Transfer, Mapping --> Atrpi1, Recipient --> Chalo1
+m72 = LCA[XylPMI703_897789, Lepor2_630816]: Transfer, Mapping --> Atrpi1, Recipient --> n23
+m62 = LCA[Bissp1_650714, Lepor2_630816]: Speciation, Mapping --> n32
+Oidma1_52971: Leaf Node
+Talpro1_439833: Leaf Node
+m98 = LCA[Oidma1_52971, Talpro1_439833]: Transfer, Mapping --> Oidma1, Recipient --> Talpro1
+Oidma1_166683: Leaf Node
+OphPMI507_404871: Leaf Node
+Conlig1_613502: Leaf Node
+ConPMI546_942804: Leaf Node
+m105 = LCA[Conlig1_613502, ConPMI546_942804]: Speciation, Mapping --> n47
+m103 = LCA[OphPMI507_404871, ConPMI546_942804]: Transfer, Mapping --> n47, Recipient --> OphPMI507
+m101 = LCA[Oidma1_166683, ConPMI546_942804]: Transfer, Mapping --> Oidma1, Recipient --> n47
+m97 = LCA[Oidma1_52971, ConPMI546_942804]: Duplication, Mapping --> Oidma1
+m61 = LCA[Bissp1_650714, ConPMI546_942804]: Speciation, Mapping --> n30
+ThoPMI491_94618: Leaf Node
+Neobo1_722336: Leaf Node
+m112 = LCA[ThoPMI491_94618, Neobo1_722336]: Transfer, Mapping --> Neobo1, Recipient --> ThoPMI491
+Ilyrob1_341358: Leaf Node
+Ilysp1_1493718: Leaf Node
+m117 = LCA[Ilyrob1_341358, Ilysp1_1493718]: Speciation, Mapping --> n55
+ThoPMI491_876643: Leaf Node
+Neobo1_672647: Leaf Node
+m121 = LCA[ThoPMI491_876643, Neobo1_672647]: Transfer, Mapping --> ThoPMI491, Recipient --> Neobo1
+Gloci1_1752635: Leaf Node
+m120 = LCA[ThoPMI491_876643, Gloci1_1752635]: Transfer, Mapping --> Gloci1, Recipient --> ThoPMI491
+m116 = LCA[Ilyrob1_341358, Gloci1_1752635]: Transfer, Mapping --> n55, Recipient --> Gloci1
+OphPMI507_373923: Leaf Node
+m115 = LCA[Ilyrob1_341358, OphPMI507_373923]: Transfer, Mapping --> n53, Recipient --> OphPMI507
+m111 = LCA[ThoPMI491_94618, OphPMI507_373923]: Speciation, Mapping --> n52
+ThoPMI491_698323: Leaf Node
+OphPMI507_138625: Leaf Node
+Ophnu1_1983315: Leaf Node
+Ophpic1_4110: Leaf Node
+m131 = LCA[Ophnu1_1983315, Ophpic1_4110]: Speciation, Mapping --> n44
+m129 = LCA[OphPMI507_138625, Ophpic1_4110]: Speciation, Mapping --> n43
+m127 = LCA[ThoPMI491_698323, Ophpic1_4110]: Transfer, Mapping --> ThoPMI491, Recipient --> n43
+XylPMI506_383690: Leaf Node
+Truan1_512516: Leaf Node
+m136 = LCA[XylPMI506_383690, Truan1_512516]: Speciation, Mapping --> n36
+Neodi1_4269: Leaf Node
+Ilyrob1_485062: Leaf Node
+Ilysp1_1731618: Leaf Node
+m141 = LCA[Ilyrob1_485062, Ilysp1_1731618]: Speciation, Mapping --> n55
+m139 = LCA[Neodi1_4269, Ilysp1_1731618]: Speciation, Mapping --> n54
+m135 = LCA[XylPMI506_383690, Ilysp1_1731618]: Transfer, Mapping --> n53, Recipient --> n36
+Neobo1_703866: Leaf Node
+Neobo1_518698: Leaf Node
+Veral1_3022: Leaf Node
+Colfi1_280014: Leaf Node
+Gloac1_932016: Leaf Node
+m151 = LCA[Colfi1_280014, Gloac1_932016]: Speciation, Mapping --> n59
+Gloci1_43294: Leaf Node
+m150 = LCA[Colfi1_280014, Gloci1_43294]: Speciation, Mapping --> n58
+m148 = LCA[Veral1_3022, Gloci1_43294]: Speciation, Mapping --> n56
+m146 = LCA[Neobo1_518698, Gloci1_43294]: Transfer, Mapping --> Neobo1, Recipient --> n56
+m144 = LCA[Neobo1_703866, Gloci1_43294]: Duplication, Mapping --> Neobo1
+m134 = LCA[XylPMI506_383690, Gloci1_43294]: Speciation, Mapping --> n52
+m126 = LCA[ThoPMI491_698323, Gloci1_43294]: Transfer, Mapping --> n52, Recipient --> ThoPMI491
+m110 = LCA[ThoPMI491_94618, Gloci1_43294]: Duplication, Mapping --> n52
+Oidma1_44344: Leaf Node
+Talpro1_327009: Leaf Node
+m155 = LCA[Oidma1_44344, Talpro1_327009]: Transfer, Mapping --> Talpro1, Recipient --> Oidma1
+m109 = LCA[ThoPMI491_94618, Talpro1_327009]: Transfer, Mapping --> Talpro1, Recipient --> n52
+Lepor2_445256: Leaf Node
+Leptod1_441475: Leaf Node
+m161 = LCA[Lepor2_445256, Leptod1_441475]: Speciation, Mapping --> n29
+Cadsp1_632898: Leaf Node
+m160 = LCA[Lepor2_445256, Cadsp1_632898]: Speciation, Mapping --> n27
+XylPMI703_690809: Leaf Node
+Zalva1_358519: Leaf Node
+Hymvar1_337690: Leaf Node
+m168 = LCA[Zalva1_358519, Hymvar1_337690]: Speciation, Mapping --> n22
+m166 = LCA[XylPMI703_690809, Hymvar1_337690]: Transfer, Mapping --> n21, Recipient --> XylPMI703
+Leptod1_426893: Leaf Node
+Lepor2_689362: Leaf Node
+m171 = LCA[Leptod1_426893, Lepor2_689362]: Speciation, Mapping --> n29
+m165 = LCA[XylPMI703_690809, Lepor2_689362]: Transfer, Mapping --> n21, Recipient --> n29
+m159 = LCA[Lepor2_445256, Lepor2_689362]: Speciation, Mapping --> n20
+ThoPMI491_641230: Leaf Node
+Veral1_6029: Leaf Node
+MarPMI226_358310: Leaf Node
+Ilysp1_1466512: Leaf Node
+Ilyrob1_535043: Leaf Node
+m183 = LCA[Ilysp1_1466512, Ilyrob1_535043]: Speciation, Mapping --> n55
+m181 = LCA[MarPMI226_358310, Ilyrob1_535043]: Speciation, Mapping --> n53
+m179 = LCA[Veral1_6029, Ilyrob1_535043]: Transfer, Mapping --> n53, Recipient --> Veral1
+Neobo1_536019: Leaf Node
+Gloci1_1847154: Leaf Node
+Colfi1_288661: Leaf Node
+Gloac1_1394757: Leaf Node
+m190 = LCA[Colfi1_288661, Gloac1_1394757]: Speciation, Mapping --> n59
+m188 = LCA[Gloci1_1847154, Gloac1_1394757]: Speciation, Mapping --> n58
+m186 = LCA[Neobo1_536019, Gloac1_1394757]: Transfer, Mapping --> Neobo1, Recipient --> n58
+m178 = LCA[Veral1_6029, Gloac1_1394757]: Speciation, Mapping --> n52
+m176 = LCA[ThoPMI491_641230, Gloac1_1394757]: Transfer, Mapping --> n52, Recipient --> ThoPMI491
+Veral1_4114: Leaf Node
+m175 = LCA[ThoPMI491_641230, Veral1_4114]: Transfer, Mapping --> n52, Recipient --> Veral1
+ConPMI546_992286: Leaf Node
+Truan1_594002: Leaf Node
+Pestal1_489854: Leaf Node
+m197 = LCA[Truan1_594002, Pestal1_489854]: Speciation, Mapping --> n37
+Bissp1_524680: Leaf Node
+ThoPMI491_792164: Leaf Node
+Neodi1_9678: Leaf Node
+m203 = LCA[ThoPMI491_792164, Neodi1_9678]: Transfer, Mapping --> Neodi1, Recipient --> ThoPMI491
+m201 = LCA[Bissp1_524680, Neodi1_9678]: Transfer, Mapping --> Neodi1, Recipient --> Bissp1
+Acrchr1_8698: Leaf Node
+m200 = LCA[Bissp1_524680, Acrchr1_8698]: Transfer, Mapping --> Acrchr1, Recipient --> Neodi1
+m196 = LCA[Truan1_594002, Acrchr1_8698]: Transfer, Mapping --> Acrchr1, Recipient --> n37
+m194 = LCA[ConPMI546_992286, Acrchr1_8698]: Transfer, Mapping --> Acrchr1, Recipient --> ConPMI546
+m174 = LCA[ThoPMI491_641230, Acrchr1_8698]: Speciation, Mapping --> n51
+m158 = LCA[Lepor2_445256, Acrchr1_8698]: Transfer, Mapping --> n20, Recipient --> n51
+m108 = LCA[ThoPMI491_94618, Acrchr1_8698]: Transfer, Mapping --> n20, Recipient --> Talpro1
+m60 = LCA[Bissp1_650714, Acrchr1_8698]: Speciation, Mapping --> n19
+m2 = LCA[Neodi1_10293, Acrchr1_8698]: Transfer, Mapping --> n19, Recipient --> n38
+Neobo1_753083: Leaf Node
+MarPMI226_394965: Leaf Node
+m207 = LCA[Neobo1_753083, MarPMI226_394965]: Speciation, Mapping --> n52
+m1 = LCA[Neodi1_10293, MarPMI226_394965]: Transfer, Mapping --> n52, Recipient --> n19
+
+The minimum reconciliation cost is: 170 (Duplications: 3, Transfers: 46, Losses: 26)
+Total number of optimal solutions: 18911232
+Total number of candidates for gene birth: 3

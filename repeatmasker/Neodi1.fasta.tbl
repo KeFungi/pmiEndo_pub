@@ -1,0 +1,51 @@
+==================================================
+file name: Neodi1.fasta             
+sequences:           677
+total length:   45719213 bp  (45719213 bp excl N/X-runs)
+GC level:         50.84 %
+bases masked:    5762496 bp ( 12.60 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:              174       389299 bp    0.85 %
+      LINE1          44        45586 bp    0.10 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:      1535      2784338 bp    6.09 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:       175       183530 bp    0.40 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      2626      1822226 bp    3.99 %
+
+Total interspersed repeats:  5179393 bp   11.33 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:   12517       546284 bp    1.19 %
+Low complexity:    1300        67021 bp    0.15 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Neodi1-families.fa"
+

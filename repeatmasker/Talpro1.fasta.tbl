@@ -1,0 +1,51 @@
+==================================================
+file name: Talpro1.fasta            
+sequences:            30
+total length:   37611490 bp  (37611490 bp excl N/X-runs)
+GC level:         45.62 %
+bases masked:    1446479 bp ( 3.85 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               96       146606 bp    0.39 %
+      LINE1           9          352 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       200       219919 bp    0.58 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:       104        48405 bp    0.13 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      2404       812759 bp    2.16 %
+
+Total interspersed repeats:  1227689 bp    3.26 %
+
+
+Small RNA:           29         3181 bp    0.01 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:    4646       190507 bp    0.51 %
+Low complexity:     641        31270 bp    0.08 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Talpro1-families.fa"
+

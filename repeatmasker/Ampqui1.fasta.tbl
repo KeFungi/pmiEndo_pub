@@ -1,0 +1,51 @@
+==================================================
+file name: Ampqui1.fasta            
+sequences:            73
+total length:   36811257 bp  (36452227 bp excl N/X-runs)
+GC level:         46.45 %
+bases masked:    9600378 bp ( 26.08 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               67        68569 bp    0.19 %
+      LINE1          45         9004 bp    0.02 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:      2675      7307528 bp   19.85 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:       143        91557 bp    0.25 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      2815      1684829 bp    4.58 %
+
+Total interspersed repeats:  9152483 bp   24.86 %
+
+
+Small RNA:          111       195232 bp    0.53 %
+
+Satellites:           2          153 bp    0.00 %
+Simple repeats:    4073       187781 bp    0.51 %
+Low complexity:     457        24210 bp    0.07 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Ampqui1-families.fa"
+

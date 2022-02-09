@@ -1,0 +1,51 @@
+==================================================
+file name: Pestal1.fasta            
+sequences:            24
+total length:   46406735 bp  (46406735 bp excl N/X-runs)
+GC level:         52.01 %
+bases masked:     772733 bp ( 1.67 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               19        36914 bp    0.08 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:        46       150558 bp    0.32 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:        48        17507 bp    0.04 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      1321       228207 bp    0.49 %
+
+Total interspersed repeats:   433186 bp    0.93 %
+
+
+Small RNA:           96        10154 bp    0.02 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:    7415       297440 bp    0.64 %
+Low complexity:     740        33312 bp    0.07 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Pestal1-families.fa"
+

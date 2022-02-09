@@ -1,0 +1,775 @@
+# BUSCO version is: 4.1.1 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of species: 549, number of BUSCOs: 758)
+# Busco id	Status	Sequence	Score	Length	OrthoDB url	Description
+494at4751	Complete	jgi|Phlfa1|689586|e_gw1.30.157.1	2064.4	1594	https://www.orthodb.org/v10?query=494at4751	Midasin
+771at4751	Fragmented	jgi|Phlfa1|703411|estExt_Genewise1.C_370120	976.8	1422	https://www.orthodb.org/v10?query=771at4751	PIK-related kinase
+1866at4751	Complete	jgi|Phlfa1|817824|MIX11967_41197_99	2988.0	1770	https://www.orthodb.org/v10?query=1866at4751	Glutamate synthase
+3534at4751	Complete	jgi|Phlfa1|701039|estExt_Genewise1.C_220254	1430.9	1141	https://www.orthodb.org/v10?query=3534at4751	SNF2-related, N-terminal domain
+4409at4751	Complete	jgi|Phlfa1|319218|CE318989_12967	1057.0	1573	https://www.orthodb.org/v10?query=4409at4751	Armadillo-type fold
+4466at4751	Complete	jgi|Phlfa1|168513|CE168284_18389	1971.1	1680	https://www.orthodb.org/v10?query=4466at4751	Ribosomal protein L19
+4523at4751	Complete	jgi|Phlfa1|326178|CE325949_28337	3099.6	1900	https://www.orthodb.org/v10?query=4523at4751	Pre-mRNA-processing-splicing factor 8
+5995at4751	Complete	jgi|Phlfa1|794943|gm1.4261_g	558.0	863	https://www.orthodb.org/v10?query=5995at4751	Protein kinase domain
+6186at4751	Fragmented	jgi|Phlfa1|530568|CE530339_11643	278.6	684	https://www.orthodb.org/v10?query=6186at4751	Armadillo-type fold
+6272at4751	Complete	jgi|Phlfa1|522487|CE522258_11052	693.5	748	https://www.orthodb.org/v10?query=6272at4751	WD40-repeat-containing domain
+6377at4751	Complete	jgi|Phlfa1|709133|estExt_Genewise1Plus.C_70226	1132.9	873	https://www.orthodb.org/v10?query=6377at4751	L-aminoadipate-semialdehyde dehydrogenase
+6592at4751	Complete	jgi|Phlfa1|767042|fgenesh1_kg.53_#_186_#_TRINITY_DN7252_c0_g2_i2	675.6	815	https://www.orthodb.org/v10?query=6592at4751	Sec7 domain
+6812at4751	Complete	jgi|Phlfa1|739354|fgenesh1_kg.7_#_1016_#_TRINITY_DN1893_c0_g3_i1	1914.0	1395	https://www.orthodb.org/v10?query=6812at4751	DNA polymerase epsilon catalytic subunit
+7423at4751	Complete	jgi|Phlfa1|686900|e_gw1.19.104.1	885.4	1246	https://www.orthodb.org/v10?query=7423at4751	CCR4-NOT transcription complex subunit 1, CAF1-binding domain
+7545at4751	Complete	jgi|Phlfa1|705127|estExt_Genewise1.C_540039	484.1	831	https://www.orthodb.org/v10?query=7545at4751	Anaphase-promoting complex subunit 1
+8406at4751	Complete	jgi|Phlfa1|713480|estExt_Genewise1Plus.C_260040	561.5	644	https://www.orthodb.org/v10?query=8406at4751	Transcription initiation factor TFIID subunit 2
+8818at4751	Complete	jgi|Phlfa1|604728|CE604499_40173	2274.1	1409	https://www.orthodb.org/v10?query=8818at4751	Clathrin heavy chain
+10168at4751	Complete	jgi|Phlfa1|564762|CE564533_62299	1389.6	932	https://www.orthodb.org/v10?query=10168at4751	Nitrite/Sulfite reductase ferredoxin-like domain
+10531at4751	Complete	jgi|Phlfa1|757415|fgenesh1_kg.30_#_110_#_TRINITY_DN5141_c0_g1_i3	670.2	775	https://www.orthodb.org/v10?query=10531at4751	Rapamycin-insensitive companion of mTOR, domain 4
+11140at4751	Complete	jgi|Phlfa1|754876|fgenesh1_kg.26_#_20_#_TRINITY_DN1824_c0_g1_i2	972.7	1134	https://www.orthodb.org/v10?query=11140at4751	Protein dopey
+11636at4751	Complete	jgi|Phlfa1|852406|estExt_Genemark1.C_280068	443.4	729	https://www.orthodb.org/v10?query=11636at4751	Tetratricopeptide repeat
+11879at4751	Complete	jgi|Phlfa1|686039|e_gw1.16.209.1	961.2	1013	https://www.orthodb.org/v10?query=11879at4751	HECT domain
+12258at4751	Complete	jgi|Phlfa1|238269|CE238040_14658	1250.3	982	https://www.orthodb.org/v10?query=12258at4751	Phosphoribosylformylglycinamidine synthase
+12812at4751	Complete	jgi|Phlfa1|287347|CE287118_11905	224.0	404	https://www.orthodb.org/v10?query=12812at4751	WD40/YVTN repeat-like-containing domain superfamily
+12959at4751	Complete	jgi|Phlfa1|730518|fgenesh1_kg.1_#_383_#_TRINITY_DN2726_c0_g1_i3	1662.8	1257	https://www.orthodb.org/v10?query=12959at4751	Sec7, C-terminal
+13224at4751	Complete	jgi|Phlfa1|750153|fgenesh1_kg.19_#_430_#_TRINITY_DN1267_c0_g1_i2	459.9	759	https://www.orthodb.org/v10?query=13224at4751	Nucleoporin, Nup133/Nup155-like, N-terminal
+13605at4751	Complete	jgi|Phlfa1|192456|CE192227_9144	1057.4	1234	https://www.orthodb.org/v10?query=13605at4751	clathrin-coated vesicle protein
+14295at4751	Complete	jgi|Phlfa1|801904|gm1.11222_g	1350.1	805	https://www.orthodb.org/v10?query=14295at4751	Carbamoyl-phosphate synthase arginine-specific large chain
+14441at4751	Complete	jgi|Phlfa1|687767|e_gw1.23.30.1	1519.8	1342	https://www.orthodb.org/v10?query=14441at4751	DNA-directed RNA polymerase subunit
+14523at4751	Complete	jgi|Phlfa1|147348|CE147119_20550	1115.8	887	https://www.orthodb.org/v10?query=14523at4751	Exportin-1
+14793at4751	Complete	jgi|Phlfa1|527238|CE527009_12967	413.4	735	https://www.orthodb.org/v10?query=14793at4751	Nucleoporin Pom152
+14986at4751	Complete	jgi|Phlfa1|688026|e_gw1.23.149.1	740.7	641	https://www.orthodb.org/v10?query=14986at4751	DNA-directed RNA polymerase
+17174at4751	Complete	jgi|Phlfa1|752111|fgenesh1_kg.22_#_115_#_TRINITY_DN6788_c1_g1_i3	792.8	642	https://www.orthodb.org/v10?query=17174at4751	DNA polymerase gamma
+18809at4751	Complete	jgi|Phlfa1|727310|fgenesh1_pg.44_#_67	418.6	502	https://www.orthodb.org/v10?query=18809at4751	RIC1-domain-containing protein
+20600at4751	Complete	jgi|Phlfa1|168054|CE167825_26651	1146.0	704	https://www.orthodb.org/v10?query=20600at4751	glycine dehydrogenase
+20952at4751	Complete	jgi|Phlfa1|684554|e_gw1.10.277.1	1085.9	887	https://www.orthodb.org/v10?query=20952at4751	multidrug efflux transporter AcrB transmembrane domain-containing protein
+21651at4751	Complete	jgi|Phlfa1|782347|estExt_fgenesh1_pg.C_130115	848.3	649	https://www.orthodb.org/v10?query=21651at4751	DNA topoisomerase 2
+21689at4751	Complete	jgi|Phlfa1|695426|estExt_Genewise1.C_3_t10119	658.7	660	https://www.orthodb.org/v10?query=21689at4751	WD40 repeat
+22982at4751	Complete	jgi|Phlfa1|755688|fgenesh1_kg.27_#_268_#_TRINITY_DN976_c0_g2_i1	1215.9	832	https://www.orthodb.org/v10?query=22982at4751	isoleucine-tRNA ligase
+22992at4751	Complete	jgi|Phlfa1|736913|fgenesh1_kg.5_#_883_#_TRINITY_DN431_c9_g1_i2	246.4	429	https://www.orthodb.org/v10?query=22992at4751	WD40/YVTN repeat-like-containing domain superfamily
+23198at4751	Complete	jgi|Phlfa1|595229|CE595000_10311	1597.1	1170	https://www.orthodb.org/v10?query=23198at4751	Glycogen debranching enzyme
+23856at4751	Complete	jgi|Phlfa1|210981|CE210752_15245	772.5	927	https://www.orthodb.org/v10?query=23856at4751	Transcription elongation factor Spt6
+24198at4751	Complete	jgi|Phlfa1|550000|CE549771_3605	624.3	834	https://www.orthodb.org/v10?query=24198at4751	Armadillo-type fold
+25020at4751	Complete	jgi|Phlfa1|795701|gm1.5019_g	841.5	734	https://www.orthodb.org/v10?query=25020at4751	Condensin complex subunit 1
+25161at4751	Complete	jgi|Phlfa1|725030|fgenesh1_pg.27_#_146	200.3	575	https://www.orthodb.org/v10?query=25161at4751	Tetratricopeptide repeat
+26329at4751	Complete	jgi|Phlfa1|801972|gm1.11290_g	1309.3	943	https://www.orthodb.org/v10?query=26329at4751	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+27008at4751	Complete	jgi|Phlfa1|833905|MIX28048_2802_23	439.3	460	https://www.orthodb.org/v10?query=27008at4751	PAN2-PAN3 deadenylation complex catalytic subunit PAN2
+29512at4751	Complete	jgi|Phlfa1|688691|e_gw1.27.56.1	570.3	652	https://www.orthodb.org/v10?query=29512at4751	Importin alpha re-exporter
+31256at4751	Missing
+31324at4751	Complete	jgi|Phlfa1|441349|CE441120_8493	458.8	644	https://www.orthodb.org/v10?query=31324at4751	Nrap protein
+32164at4751	Missing
+33984at4751	Complete	jgi|Phlfa1|553912|CE553683_5114	757.6	668	https://www.orthodb.org/v10?query=33984at4751	Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase
+34223at4751	Complete	jgi|Phlfa1|790891|gm1.209_g	266.2	601	https://www.orthodb.org/v10?query=34223at4751	Nucleoporin, Nup133/Nup155-like, C-terminal
+34706at4751	Duplicated	jgi|Phlfa1|777001|fgenesh1_pm.8_#_56	678.0	692	https://www.orthodb.org/v10?query=34706at4751	MIF4G-like domain superfamily
+34706at4751	Duplicated	jgi|Phlfa1|574828|CE574599_17534	676.8	692	https://www.orthodb.org/v10?query=34706at4751	MIF4G-like domain superfamily
+34830at4751	Fragmented	jgi|Phlfa1|711213|estExt_Genewise1Plus.C_140190	536.7	624	https://www.orthodb.org/v10?query=34830at4751	Elongator complex protein 1
+36610at4751	Complete	jgi|Phlfa1|740193|fgenesh1_kg.8_#_633_#_TRINITY_DN8398_c0_g1_i1	354.6	597	https://www.orthodb.org/v10?query=36610at4751	Tubulin-specific chaperone D
+37028at4751	Complete	jgi|Phlfa1|734892|fgenesh1_kg.4_#_302_#_TRINITY_DN919_c0_g1_i1	866.5	606	https://www.orthodb.org/v10?query=37028at4751	Cobalamin-independent methionine synthase
+37573at4751	Complete	jgi|Phlfa1|778821|fgenesh1_pm.51_#_1	867.8	516	https://www.orthodb.org/v10?query=37573at4751	Helicase, C-terminal
+37642at4751	Complete	jgi|Phlfa1|471938|CE471709_4689	185.2	284	https://www.orthodb.org/v10?query=37642at4751	RNB-domain-containing protein
+38031at4751	Complete	jgi|Phlfa1|606738|CE606509_9483	300.9	444	https://www.orthodb.org/v10?query=38031at4751	Cap binding protein
+38184at4751	Missing
+39833at4751	Missing
+43842at4751	Complete	jgi|Phlfa1|757088|fgenesh1_kg.29_#_434_#_TRINITY_DN284_c0_g2_i1	216.9	509	https://www.orthodb.org/v10?query=43842at4751	Armadillo-type fold
+46090at4751	Complete	jgi|Phlfa1|763758|fgenesh1_kg.44_#_88_#_TRINITY_DN4679_c0_g1_i5	479.8	568	https://www.orthodb.org/v10?query=46090at4751	ARM repeat-containing protein
+46098at4751	Complete	jgi|Phlfa1|756467|fgenesh1_kg.28_#_492_#_TRINITY_DN2747_c0_g1_i1	939.7	780	https://www.orthodb.org/v10?query=46098at4751	P-loop containing nucleoside triphosphate hydrolase protein
+46119at4751	Complete	jgi|Phlfa1|688402|e_gw1.25.81.1	745.4	980	https://www.orthodb.org/v10?query=46119at4751	WD40/YVTN repeat-like-containing domain superfamily
+46666at4751	Missing
+46752at4751	Missing
+46918at4751	Complete	jgi|Phlfa1|445411|CE445182_6342	204.1	372	https://www.orthodb.org/v10?query=46918at4751	Tetratricopeptide repeat
+47592at4751	Complete	jgi|Phlfa1|789685|estExt_fgenesh1_pm.C_250007	727.4	649	https://www.orthodb.org/v10?query=47592at4751	Eukaryotic translation initiation factor 3 subunit C
+48708at4751	Complete	jgi|Phlfa1|704475|estExt_Genewise1.C_470141	1139.3	837	https://www.orthodb.org/v10?query=48708at4751	Leucyl-tRNA synthetase
+49476at4751	Complete	jgi|Phlfa1|473989|CE473760_21305	615.4	495	https://www.orthodb.org/v10?query=49476at4751	Dynamin, GTPase domain
+49967at4751	Missing
+50786at4751	Complete	jgi|Phlfa1|715678|estExt_Genewise1Plus.C_400123	511.7	513	https://www.orthodb.org/v10?query=50786at4751	Eukaryotic translation initiation factor 3 subunit B
+50835at4751	Complete	jgi|Phlfa1|754225|fgenesh1_kg.25_#_32_#_TRINITY_DN8524_c0_g1_i1	929.9	637	https://www.orthodb.org/v10?query=50835at4751	Alanine--tRNA ligase
+52541at4751	Complete	jgi|Phlfa1|776289|fgenesh1_pm.2_#_18	522.4	436	https://www.orthodb.org/v10?query=52541at4751	Pre-mRNA 3'-end-processing endonuclease polyadenylation factor C-term
+52909at4751	Complete	jgi|Phlfa1|693812|e_gw1.91.15.1	735.6	668	https://www.orthodb.org/v10?query=52909at4751	26S proteasome regulatory subunit RPN1
+53270at4751	Complete	jgi|Phlfa1|406689|CE406460_10742	729.5	721	https://www.orthodb.org/v10?query=53270at4751	UDP-glucose
+54252at4751	Complete	jgi|Phlfa1|777240|fgenesh1_pm.11_#_6	813.0	650	https://www.orthodb.org/v10?query=54252at4751	26S proteasome regulatory subunit RPN2
+54919at4751	Complete	jgi|Phlfa1|691364|e_gw1.42.90.1	457.8	417	https://www.orthodb.org/v10?query=54919at4751	Cysteinyl-tRNA synthetase
+56395at4751	Complete	jgi|Phlfa1|692510|e_gw1.52.62.1	373.0	408	https://www.orthodb.org/v10?query=56395at4751	Spindle pole body component
+56432at4751	Complete	jgi|Phlfa1|747916|fgenesh1_kg.16_#_819_#_TRINITY_DN2196_c0_g1_i4	342.9	493	https://www.orthodb.org/v10?query=56432at4751	putative exocyst complex component sec8
+56729at4751	Complete	jgi|Phlfa1|759247|fgenesh1_kg.33_#_133_#_TRINITY_DN1103_c4_g1_i3	920.1	778	https://www.orthodb.org/v10?query=56729at4751	Coatomer subunit beta
+57081at4751	Complete	jgi|Phlfa1|851967|estExt_Genemark1.C_250037	1005.8	674	https://www.orthodb.org/v10?query=57081at4751	Splicing factor 3B subunit 1
+58127at4751	Complete	jgi|Phlfa1|738109|fgenesh1_kg.6_#_896_#_TRINITY_DN646_c2_g2_i1	238.8	643	https://www.orthodb.org/v10?query=58127at4751	K Homology domain, type 1
+59795at4751	Fragmented	jgi|Phlfa1|723141|fgenesh1_pg.18_#_30	259.0	313	https://www.orthodb.org/v10?query=59795at4751	Coatomer subunit gamma
+61411at4751	Complete	jgi|Phlfa1|760038|fgenesh1_kg.34_#_415_#_TRINITY_DN10263_c2_g1_i2	221.0	343	https://www.orthodb.org/v10?query=61411at4751	WD40-repeat-containing domain
+61438at4751	Complete	jgi|Phlfa1|421263|CE421034_10788	503.0	576	https://www.orthodb.org/v10?query=61438at4751	Pep3/Vps18/deep orange
+61857at4751	Complete	jgi|Phlfa1|799239|gm1.8557_g	139.5	419	https://www.orthodb.org/v10?query=61857at4751	Exocyst complex protein EXO70
+62846at4751	Missing
+63635at4751	Complete	jgi|Phlfa1|720744|fgenesh1_pg.8_#_135	722.3	679	https://www.orthodb.org/v10?query=63635at4751	AP-2 complex subunit alpha
+63838at4751	Missing
+64002at4751	Complete	jgi|Phlfa1|746487|fgenesh1_kg.15_#_111_#_TRINITY_DN1916_c0_g2_i1	586.0	526	https://www.orthodb.org/v10?query=64002at4751	Transcription initiation factor TFIID subunit 1
+64498at4751	Complete	jgi|Phlfa1|265170|CE264941_57189	790.2	520	https://www.orthodb.org/v10?query=64498at4751	glucosamine-fructose-6-phosphate aminotransferase
+65334at4751	Complete	jgi|Phlfa1|734250|fgenesh1_kg.3_#_1173_#_TRINITY_DN636_c1_g1_i3	447.0	477	https://www.orthodb.org/v10?query=65334at4751	WD40-repeat-containing domain
+65499at4751	Complete	jgi|Phlfa1|760886|fgenesh1_kg.36_#_307_#_TRINITY_DN4428_c0_g2_i2	617.8	521	https://www.orthodb.org/v10?query=65499at4751	AP-1 complex subunit gamma
+66151at4751	Complete	jgi|Phlfa1|726487|fgenesh1_pg.37_#_86	478.9	540	https://www.orthodb.org/v10?query=66151at4751	Tetratricopeptide repeat
+67284at4751	Fragmented	jgi|Phlfa1|851078|estExt_Genemark1.C_190053	162.0	331	https://www.orthodb.org/v10?query=67284at4751	WD40-repeat-containing domain
+67399at4751	Complete	jgi|Phlfa1|714158|estExt_Genewise1Plus.C_290173	608.3	496	https://www.orthodb.org/v10?query=67399at4751	Glutamine-dependent NAD(+) synthetase
+67806at4751	Complete	jgi|Phlfa1|685820|e_gw1.15.184.1	318.1	366	https://www.orthodb.org/v10?query=67806at4751	actin-like ATPase domain-containing protein
+68466at4751	Complete	jgi|Phlfa1|766953|fgenesh1_kg.53_#_97_#_TRINITY_DN10352_c0_g2_i4	951.3	820	https://www.orthodb.org/v10?query=68466at4751	FACT complex subunit SPT16
+68881at4751	Missing
+71039at4751	Complete	jgi|Phlfa1|26553|CE26324_5389	942.3	702	https://www.orthodb.org/v10?query=71039at4751	RNA cytidine acetyltransferase
+71046at4751	Complete	jgi|Phlfa1|734574|fgenesh1_kg.3_#_1497_#_TRINITY_DN2426_c0_g1_i1	826.2	649	https://www.orthodb.org/v10?query=71046at4751	Vacuolar protein sorting-associated protein 35
+73383at4751	Complete	jgi|Phlfa1|776857|fgenesh1_pm.6_#_85	638.7	456	https://www.orthodb.org/v10?query=73383at4751	DNA topoisomerase I
+73477at4751	Complete	jgi|Phlfa1|684522|e_gw1.10.28.1	643.6	401	https://www.orthodb.org/v10?query=73477at4751	Vacuolar protein 8
+73771at4751	Missing
+75033at4751	Missing
+75456at4751	Complete	jgi|Phlfa1|851968|estExt_Genemark1.C_250038	268.2	442	https://www.orthodb.org/v10?query=75456at4751	Vps53-like, N-terminal
+75463at4751	Missing
+75709at4751	Complete	jgi|Phlfa1|691125|e_gw1.40.139.1	965.4	737	https://www.orthodb.org/v10?query=75709at4751	Lysophospholipase NTE1
+75976at4751	Complete	jgi|Phlfa1|684303|e_gw1.9.506.1	636.9	494	https://www.orthodb.org/v10?query=75976at4751	Calcium permease family membrane transporter
+76196at4751	Complete	jgi|Phlfa1|740792|fgenesh1_kg.8_#_1232_#_TRINITY_DN4055_c0_g1_i3	505.0	349	https://www.orthodb.org/v10?query=76196at4751	Histidine biosynthesis trifunctional protein
+76893at4751	Complete	jgi|Phlfa1|712787|estExt_Genewise1Plus.C_220128	848.1	532	https://www.orthodb.org/v10?query=76893at4751	ATPase, AAA-type, conserved site
+76975at4751	Complete	jgi|Phlfa1|696850|estExt_Genewise1.C_60181	358.2	509	https://www.orthodb.org/v10?query=76975at4751	Exocyst complex component Sec5
+78289at4751	Duplicated	jgi|Phlfa1|705815|estExt_Genewise1.C_800028	669.8	487	https://www.orthodb.org/v10?query=78289at4751	Fimbrin
+78289at4751	Duplicated	jgi|Phlfa1|762304|fgenesh1_kg.39_#_471_#_TRINITY_DN6052_c0_g1_i1	604.6	464	https://www.orthodb.org/v10?query=78289at4751	Fimbrin
+78665at4751	Complete	jgi|Phlfa1|683001|e_gw1.7.159.1	424.4	439	https://www.orthodb.org/v10?query=78665at4751	Spindle pole body component
+79262at4751	Complete	jgi|Phlfa1|694930|estExt_Genewise1.C_2_t10108	645.0	497	https://www.orthodb.org/v10?query=79262at4751	Electron transfer flavoprotein-ubiquinone oxidoreductase
+79294at4751	Complete	jgi|Phlfa1|792229|gm1.1547_g	660.0	470	https://www.orthodb.org/v10?query=79294at4751	Bifunctional purine biosynthesis protein ADE17
+79797at4751	Missing
+79988at4751	Complete	jgi|Phlfa1|207778|CE207549_5600	138.5	225	https://www.orthodb.org/v10?query=79988at4751	Polynucleotide 5'-hydroxyl-kinase grc3
+81295at4751	Complete	jgi|Phlfa1|768909|fgenesh1_kg.61_#_155_#_TRINITY_DN1398_c0_g1_i8	699.2	440	https://www.orthodb.org/v10?query=81295at4751	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+81614at4751	Complete	jgi|Phlfa1|342375|CE342146_12330	686.7	1053	https://www.orthodb.org/v10?query=81614at4751	nucleic acid-binding protein
+81687at4751	Complete	jgi|Phlfa1|149371|CE149142_11684	745.8	478	https://www.orthodb.org/v10?query=81687at4751	asparagine synthase (glutamine-hydrolyzing)
+84250at4751	Complete	jgi|Phlfa1|240722|CE240493_5220	370.3	545	https://www.orthodb.org/v10?query=84250at4751	TRAPP II complex, TRAPPC10
+84829at4751	Complete	jgi|Phlfa1|685535|e_gw1.14.141.1	243.8	212	https://www.orthodb.org/v10?query=84829at4751	DUF747-domain-containing protein
+85793at4751	Complete	jgi|Phlfa1|796865|gm1.6183_g	390.4	971	https://www.orthodb.org/v10?query=85793at4751	cohesin complex subunit SA-1/2
+86293at4751	Duplicated	jgi|Phlfa1|562158|CE561929_4223	373.8	345	https://www.orthodb.org/v10?query=86293at4751	Aldehyde dehydrogenase, glutamic acid active site
+86293at4751	Duplicated	jgi|Phlfa1|569904|CE569675_3057	373.6	344	https://www.orthodb.org/v10?query=86293at4751	Aldehyde dehydrogenase, glutamic acid active site
+87251at4751	Fragmented	jgi|Phlfa1|715734|estExt_Genewise1Plus.C_410020	463.9	604	https://www.orthodb.org/v10?query=87251at4751	Ribosomal RNA-processing protein 12
+87313at4751	Complete	jgi|Phlfa1|703537|estExt_Genewise1.C_380087	831.8	445	https://www.orthodb.org/v10?query=87313at4751	Elongator complex protein 3
+90022at4751	Missing
+91135at4751	Complete	jgi|Phlfa1|721331|fgenesh1_pg.10_#_74	299.9	392	https://www.orthodb.org/v10?query=91135at4751	Far11/STRP, C-terminal
+92267at4751	Complete	jgi|Phlfa1|799684|gm1.9002_g	515.0	520	https://www.orthodb.org/v10?query=92267at4751	Phenylalanyl-tRNA synthetase
+93783at4751	Complete	jgi|Phlfa1|521257|CE521028_25660	234.5	368	https://www.orthodb.org/v10?query=93783at4751	ER membrane protein complex subunit 1
+94384at4751	Complete	jgi|Phlfa1|680666|e_gw1.2.635.1	431.9	421	https://www.orthodb.org/v10?query=94384at4751	DNA topoisomerase
+94628at4751	Complete	jgi|Phlfa1|738542|fgenesh1_kg.7_#_204_#_TRINITY_DN40_c11_g1_i1	866.4	525	https://www.orthodb.org/v10?query=94628at4751	DNA helicase
+95253at4751	Complete	jgi|Phlfa1|748303|fgenesh1_kg.17_#_357_#_TRINITY_DN5061_c0_g1_i2	243.2	458	https://www.orthodb.org/v10?query=95253at4751	WD40-repeat-containing domain
+96633at4751	Missing
+97141at4751	Missing
+98519at4751	Complete	jgi|Phlfa1|264992|CE264763_7095	283.6	625	https://www.orthodb.org/v10?query=98519at4751	Symplekin/Pta1
+98733at4751	Complete	jgi|Phlfa1|778994|fgenesh1_pm.69_#_3	820.2	551	https://www.orthodb.org/v10?query=98733at4751	threonyl-tRNA synthetase
+98739at4751	Complete	jgi|Phlfa1|749137|fgenesh1_kg.18_#_193_#_TRINITY_DN4080_c0_g1_i9	571.7	396	https://www.orthodb.org/v10?query=98739at4751	Homoaconitase, mitochondrial
+100957at4751	Missing
+101133at4751	Complete	jgi|Phlfa1|802175|gm1.11493_g	393.2	376	https://www.orthodb.org/v10?query=101133at4751	Phosphoribosylaminoimidazole carboxylase
+103183at4751	Complete	jgi|Phlfa1|838820|MIX32963_73_8	612.7	617	https://www.orthodb.org/v10?query=103183at4751	DNA repair protein
+103461at4751	Complete	jgi|Phlfa1|680734|e_gw1.2.96.1	817.5	604	https://www.orthodb.org/v10?query=103461at4751	P-loop containing nucleoside triphosphate hydrolase protein
+103836at4751	Complete	jgi|Phlfa1|730502|fgenesh1_kg.1_#_367_#_TRINITY_DN1275_c3_g1_i1	316.9	335	https://www.orthodb.org/v10?query=103836at4751	WD40-repeat-containing domain
+104173at4751	Complete	jgi|Phlfa1|706251|estExt_Genewise1Plus.C_1_t10078	286.8	483	https://www.orthodb.org/v10?query=104173at4751	Noc2-domain-containing protein
+104415at4751	Missing
+105401at4751	Complete	jgi|Phlfa1|770007|fgenesh1_kg.69_#_53_#_TRINITY_DN5402_c0_g1_i1	988.5	562	https://www.orthodb.org/v10?query=105401at4751	GroEL-like apical domain superfamily
+106281at4751	Complete	jgi|Phlfa1|793607|gm1.2925_g	627.1	1035	https://www.orthodb.org/v10?query=106281at4751	endosomal peripheral membrane protein
+107136at4751	Complete	jgi|Phlfa1|730270|fgenesh1_kg.1_#_135_#_TRINITY_DN956_c0_g2_i1	681.2	532	https://www.orthodb.org/v10?query=107136at4751	glycoside hydrolase family 31 protein
+107464at4751	Complete	jgi|Phlfa1|738803|fgenesh1_kg.7_#_465_#_TRINITY_DN8393_c0_g1_i1	572.1	406	https://www.orthodb.org/v10?query=107464at4751	Glucose-6-phosphate isomerase
+109276at4751	Complete	jgi|Phlfa1|756668|fgenesh1_kg.29_#_14_#_TRINITY_DN946_c0_g1_i6	337.4	436	https://www.orthodb.org/v10?query=109276at4751	CCAAT-box-binding transcription factor
+111022at4751	Complete	jgi|Phlfa1|223438|CE223209_5904	256.1	286	https://www.orthodb.org/v10?query=111022at4751	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+111189at4751	Missing
+112646at4751	Complete	jgi|Phlfa1|791890|gm1.1208_g	181.7	299	https://www.orthodb.org/v10?query=112646at4751	oligomeric Golgi complex subunit 6
+112937at4751	Complete	jgi|Phlfa1|686538|e_gw1.18.321.1	425.4	412	https://www.orthodb.org/v10?query=112937at4751	P-loop containing nucleoside triphosphate hydrolase protein
+115993at4751	Complete	jgi|Phlfa1|766931|fgenesh1_kg.53_#_75_#_TRINITY_DN879_c9_g2_i2	556.8	457	https://www.orthodb.org/v10?query=115993at4751	Ribosome biogenesis protein ERB1
+117017at4751	Complete	jgi|Phlfa1|840481|MIX34624_18188_87	615.7	458	https://www.orthodb.org/v10?query=117017at4751	Methionyl-tRNA synthetase
+118189at4751	Complete	jgi|Phlfa1|718756|fgenesh1_pg.2_#_366	477.0	495	https://www.orthodb.org/v10?query=118189at4751	WD40-repeat-containing domain
+118701at4751	Complete	jgi|Phlfa1|681381|e_gw1.3.457.1	637.6	631	https://www.orthodb.org/v10?query=118701at4751	Phosphatidylinositol 3-kinase VPS34
+119833at4751	Complete	jgi|Phlfa1|530208|CE529979_5340	393.4	446	https://www.orthodb.org/v10?query=119833at4751	Histone-lysine N-methyltransferase
+122507at4751	Missing
+122824at4751	Complete	jgi|Phlfa1|693499|e_gw1.74.12.1	155.8	213	https://www.orthodb.org/v10?query=122824at4751	WD40-repeat-containing domain
+123228at4751	Complete	jgi|Phlfa1|440894|CE440665_10015	820.3	653	https://www.orthodb.org/v10?query=123228at4751	Ribosome biogenesis protein BMS1
+123277at4751	Complete	jgi|Phlfa1|692201|e_gw1.49.107.1	990.5	1025	https://www.orthodb.org/v10?query=123277at4751	WD40-repeat-containing domain
+123494at4751	Complete	jgi|Phlfa1|807469|MIX1612_1375_47	284.6	298	https://www.orthodb.org/v10?query=123494at4751	Actin family
+125400at4751	Complete	jgi|Phlfa1|112354|CE112125_7699	108.8	385	https://www.orthodb.org/v10?query=125400at4751	RINT-1 family protein
+125935at4751	Complete	jgi|Phlfa1|792799|gm1.2117_g	445.6	373	https://www.orthodb.org/v10?query=125935at4751	tRNA-dihydrouridine(47) synthase 
+126037at4751	Missing
+126249at4751	Complete	jgi|Phlfa1|750181|fgenesh1_kg.19_#_458_#_TRINITY_DN3893_c0_g1_i8	517.0	475	https://www.orthodb.org/v10?query=126249at4751	Multiple RNA-binding domain-containing protein 1
+126256at4751	Complete	jgi|Phlfa1|47434|CE47205_6927	403.2	339	https://www.orthodb.org/v10?query=126256at4751	Non-specific serine/threonine protein kinase
+126519at4751	Complete	jgi|Phlfa1|157307|CE157078_5165	523.2	445	https://www.orthodb.org/v10?query=126519at4751	Imidazole glycerol phosphate synthase hisHF
+127140at4751	Complete	jgi|Phlfa1|683349|e_gw1.8.288.1	355.5	398	https://www.orthodb.org/v10?query=127140at4751	Protein arginine N-methyltransferase
+129160at4751	Complete	jgi|Phlfa1|734768|fgenesh1_kg.4_#_178_#_TRINITY_DN10068_c0_g1_i1	609.1	463	https://www.orthodb.org/v10?query=129160at4751	T-complex protein 1 subunit zeta
+129326at4751	Complete	jgi|Phlfa1|596601|CE596372_8283	401.9	763	https://www.orthodb.org/v10?query=129326at4751	Putative nucleolar complex protein 14
+129520at4751	Complete	jgi|Phlfa1|696130|estExt_Genewise1.C_4_t10347	521.4	427	https://www.orthodb.org/v10?query=129520at4751	Alpha-D-phosphohexomutase, alpha/beta/alpha domain I
+130062at4751	Fragmented	jgi|Phlfa1|725912|fgenesh1_pg.33_#_23	242.8	489	https://www.orthodb.org/v10?query=130062at4751	Importin-beta domain-containing protein
+130930at4751	Complete	jgi|Phlfa1|691318|e_gw1.42.20.1	1117.9	1589	https://www.orthodb.org/v10?query=130930at4751	Nucleoporin Nup186/Nup192/Nup205
+130976at4751	Complete	jgi|Phlfa1|741296|fgenesh1_kg.9_#_369_#_TRINITY_DN1090_c0_g1_i2	320.5	402	https://www.orthodb.org/v10?query=130976at4751	DNA polymerase alpha subunit B
+133954at4751	Complete	jgi|Phlfa1|576159|CE575930_3150	107.4	207	https://www.orthodb.org/v10?query=133954at4751	cop9 signalosome complex subunit 12
+135184at4751	Missing
+135652at4751	Complete	jgi|Phlfa1|742009|fgenesh1_kg.10_#_32_#_TRINITY_DN1552_c0_g2_i5	519.9	379	https://www.orthodb.org/v10?query=135652at4751	Poly(A) polymerase
+137963at4751	Complete	jgi|Phlfa1|770000|fgenesh1_kg.69_#_46_#_TRINITY_DN4909_c0_g1_i3	705.5	438	https://www.orthodb.org/v10?query=137963at4751	Prolyl-tRNA synthetase
+138484at4751	Complete	jgi|Phlfa1|793555|gm1.2873_g	231.9	338	https://www.orthodb.org/v10?query=138484at4751	DNA polymerase epsilon subunit
+138695at4751	Fragmented	jgi|Phlfa1|719779|fgenesh1_pg.5_#_190	523.3	425	https://www.orthodb.org/v10?query=138695at4751	Nucleolar GTP-binding protein 1
+138697at4751	Complete	jgi|Phlfa1|107191|CE106962_19193	497.7	388	https://www.orthodb.org/v10?query=138697at4751	Threonine synthase
+138833at4751	Complete	jgi|Phlfa1|785412|estExt_fgenesh1_pg.C_340001	620.8	487	https://www.orthodb.org/v10?query=138833at4751	Protein phosphatase PP2A regulatory subunit A
+141273at4751	Missing
+142357at4751	Complete	jgi|Phlfa1|778467|fgenesh1_pm.37_#_21	563.4	541	https://www.orthodb.org/v10?query=142357at4751	Ribosomal protein S5 domain 2-type fold
+142965at4751	Fragmented	jgi|Phlfa1|723673|fgenesh1_pg.20_#_99	137.7	195	https://www.orthodb.org/v10?query=142965at4751	GPI transamidase component GPI16
+143414at4751	Complete	jgi|Phlfa1|209819|CE209590_4070	262.9	465	https://www.orthodb.org/v10?query=143414at4751	Transcription factor 25
+145178at4751	Complete	jgi|Phlfa1|759845|fgenesh1_kg.34_#_222_#_TRINITY_DN1381_c0_g1_i1	158.5	328	https://www.orthodb.org/v10?query=145178at4751	Topoisomerase 1-associated factor 1
+145378at4751	Complete	jgi|Phlfa1|758528|fgenesh1_kg.31_#_594_#_TRINITY_DN12127_c0_g4_i1	410.9	417	https://www.orthodb.org/v10?query=145378at4751	Eukaryotic translation initiation factor 2A
+145524at4751	Complete	jgi|Phlfa1|824869|MIX19012_927_12	467.1	298	https://www.orthodb.org/v10?query=145524at4751	Nuclear elongation and deformation protein 1
+147028at4751	Missing
+148293at4751	Complete	jgi|Phlfa1|575176|CE574947_28485	776.5	402	https://www.orthodb.org/v10?query=148293at4751	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+150469at4751	Complete	jgi|Phlfa1|724969|fgenesh1_pg.27_#_85	480.0	362	https://www.orthodb.org/v10?query=150469at4751	T-complex protein 1 subunit beta
+153083at4751	Complete	jgi|Phlfa1|13366|CE13137_17934	614.0	589	https://www.orthodb.org/v10?query=153083at4751	Ubiquitin carboxyl-terminal hydrolase
+154126at4751	Complete	jgi|Phlfa1|518052|CE517823_6496	520.9	398	https://www.orthodb.org/v10?query=154126at4751	Ubiquitin-like modifier-activating enzyme ATG7
+156073at4751	Missing
+160044at4751	Complete	jgi|Phlfa1|769355|fgenesh1_kg.64_#_9_#_TRINITY_DN1087_c1_g2_i1	437.0	354	https://www.orthodb.org/v10?query=160044at4751	Sodium/hydrogen exchanger
+160875at4751	Complete	jgi|Phlfa1|777933|fgenesh1_pm.23_#_28	479.9	435	https://www.orthodb.org/v10?query=160875at4751	RNA helicase
+160940at4751	Complete	jgi|Phlfa1|689418|e_gw1.30.2.1	154.3	226	https://www.orthodb.org/v10?query=160940at4751	Phosphoserine aminotransferase
+160995at4751	Complete	jgi|Phlfa1|794394|gm1.3712_g	641.1	384	https://www.orthodb.org/v10?query=160995at4751	Eukaryotic translation initiation factor 2 subunit gamma
+161113at4751	Complete	jgi|Phlfa1|851706|estExt_Genemark1.C_230090	322.1	301	https://www.orthodb.org/v10?query=161113at4751	Peptidase M16, N-terminal
+163318at4751	Complete	jgi|Phlfa1|769428|fgenesh1_kg.64_#_82_#_TRINITY_DN6696_c0_g1_i2	184.2	282	https://www.orthodb.org/v10?query=163318at4751	Tetratricopeptide-like helical domain superfamily
+165243at4751	Complete	jgi|Phlfa1|19770|CE19541_4296	216.0	258	https://www.orthodb.org/v10?query=165243at4751	General transcription and DNA repair factor IIH
+167290at4751	Missing
+167374at4751	Complete	jgi|Phlfa1|419145|CE418916_2154	85.3	334	https://www.orthodb.org/v10?query=167374at4751	ATP-dependent DNA helicase II subunit 2
+167498at4751	Complete	jgi|Phlfa1|669617|gw1.67.5.1	523.9	374	https://www.orthodb.org/v10?query=167498at4751	Signal recognition particle 54 kDa protein
+168092at4751	Complete	jgi|Phlfa1|118750|CE118521_12077	457.6	376	https://www.orthodb.org/v10?query=168092at4751	P-loop containing nucleoside triphosphate hydrolase protein
+168489at4751	Missing
+169381at4751	Complete	jgi|Phlfa1|848554|estExt_Genemark1.C_60322	318.7	236	https://www.orthodb.org/v10?query=169381at4751	WD40-repeat-containing domain
+170297at4751	Complete	jgi|Phlfa1|737106|fgenesh1_kg.5_#_1076_#_TRINITY_DN261_c0_g1_i1	647.1	508	https://www.orthodb.org/v10?query=170297at4751	26S proteasome non-ATPase regulatory subunit 3
+170401at4751	Complete	jgi|Phlfa1|764592|fgenesh1_kg.46_#_69_#_TRINITY_DN186_c2_g8_i1	137.1	354	https://www.orthodb.org/v10?query=170401at4751	Zinc finger, RING/FYVE/PHD-type
+170904at4751	Complete	jgi|Phlfa1|718153|fgenesh1_pg.1_#_189	551.0	1011	https://www.orthodb.org/v10?query=170904at4751	P-loop containing nucleoside triphosphate hydrolase protein
+171181at4751	Complete	jgi|Phlfa1|681007|e_gw1.3.437.1	104.9	174	https://www.orthodb.org/v10?query=171181at4751	Cytidine deaminase-like protein
+171238at4751	Complete	jgi|Phlfa1|309574|CE309345_28417	432.1	317	https://www.orthodb.org/v10?query=171238at4751	Succinate--CoA ligase 
+172113at4751	Complete	jgi|Phlfa1|393397|CE393168_13219	539.1	306	https://www.orthodb.org/v10?query=172113at4751	Eukaryotic peptide chain release factor subunit 1
+172363at4751	Missing
+172966at4751	Complete	jgi|Phlfa1|410746|CE410517_10505	485.0	402	https://www.orthodb.org/v10?query=172966at4751	polyubiquitin-tagged protein recognition complex, Npl4 component
+173428at4751	Missing
+173995at4751	Missing
+174653at4751	Complete	jgi|Phlfa1|739296|fgenesh1_kg.7_#_958_#_TRINITY_DN2143_c0_g1_i1	680.3	369	https://www.orthodb.org/v10?query=174653at4751	Adenosylhomocysteinase
+174672at4751	Missing
+175136at4751	Complete	jgi|Phlfa1|680543|e_gw1.2.249.1	213.6	261	https://www.orthodb.org/v10?query=175136at4751	WD40-repeat-containing domain
+175599at4751	Complete	jgi|Phlfa1|825463|MIX19606_3375_62	65.1	188	https://www.orthodb.org/v10?query=175599at4751	SWR1-complex protein 4
+176178at4751	Complete	jgi|Phlfa1|751266|fgenesh1_kg.20_#_795_#_TRINITY_DN3967_c0_g1_i1	405.7	320	https://www.orthodb.org/v10?query=176178at4751	putative 26S proteasome regulatory subunit rpn6
+176478at4751	Complete	jgi|Phlfa1|794351|gm1.3669_g	325.6	264	https://www.orthodb.org/v10?query=176478at4751	CBF-domain-containing protein
+176648at4751	Complete	jgi|Phlfa1|311646|CE311417_10887	312.6	284	https://www.orthodb.org/v10?query=176648at4751	chaperone DnaJ
+176748at4751	Complete	jgi|Phlfa1|799511|gm1.8829_g	306.2	384	https://www.orthodb.org/v10?query=176748at4751	WD40-repeat-containing domain
+179025at4751	Complete	jgi|Phlfa1|686269|e_gw1.17.63.1	139.6	203	https://www.orthodb.org/v10?query=179025at4751	Nucleotide-diphospho-sugar transferase
+179437at4751	Complete	jgi|Phlfa1|814409|MIX8552_11522_100	526.5	359	https://www.orthodb.org/v10?query=179437at4751	anthranilate synthase component I
+179897at4751	Complete	jgi|Phlfa1|776825|fgenesh1_pm.6_#_53	237.0	288	https://www.orthodb.org/v10?query=179897at4751	Atg6/Beclin
+181890at4751	Complete	jgi|Phlfa1|275093|CE274864_6269	50.3	105	https://www.orthodb.org/v10?query=181890at4751	Putative RNA polymerase II transcription factor B subunit 1
+181959at4751	Complete	jgi|Phlfa1|752624|fgenesh1_kg.22_#_628_#_TRINITY_DN164_c1_g4_i1	633.0	349	https://www.orthodb.org/v10?query=181959at4751	26S Proteasome regulatory subunit 6A
+183720at4751	Missing
+183801at4751	Complete	jgi|Phlfa1|720231|fgenesh1_pg.6_#_287	104.0	114	https://www.orthodb.org/v10?query=183801at4751	DNA-directed RNA polymerase III subunit RPC6
+183849at4751	Complete	jgi|Phlfa1|683776|e_gw1.8.401.1	682.1	468	https://www.orthodb.org/v10?query=183849at4751	Oligosaccharyl transferase STT3 subunit
+184718at4751	Complete	jgi|Phlfa1|797417|gm1.6735_g	725.8	724	https://www.orthodb.org/v10?query=184718at4751	Pre-mRNA-processing factor 6
+184762at4751	Complete	jgi|Phlfa1|733986|fgenesh1_kg.3_#_909_#_TRINITY_DN1883_c0_g1_i1	585.5	305	https://www.orthodb.org/v10?query=184762at4751	26S proteasome regulatory subunit 8
+185196at4751	Complete	jgi|Phlfa1|689828|e_gw1.31.9.1	291.7	483	https://www.orthodb.org/v10?query=185196at4751	Exocyst complex component SEC15
+185399at4751	Complete	jgi|Phlfa1|735929|fgenesh1_kg.4_#_1339_#_TRINITY_DN4723_c0_g1_i1	377.9	311	https://www.orthodb.org/v10?query=185399at4751	UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase
+186138at4751	Complete	jgi|Phlfa1|601747|CE601518_5517	311.5	264	https://www.orthodb.org/v10?query=186138at4751	DNA primase
+186574at4751	Complete	jgi|Phlfa1|790537|estExt_fgenesh1_pm.C_630002	495.8	366	https://www.orthodb.org/v10?query=186574at4751	Adenylosuccinate lyase
+186701at4751	Missing
+187821at4751	Complete	jgi|Phlfa1|697440|estExt_Genewise1.C_8_t10025	532.2	389	https://www.orthodb.org/v10?query=187821at4751	GMP synthase
+188070at4751	Complete	jgi|Phlfa1|796877|gm1.6195_g	553.7	297	https://www.orthodb.org/v10?query=188070at4751	ATPase, AAA-type, conserved site
+189234at4751	Complete	jgi|Phlfa1|245856|CE245627_6211	135.1	275	https://www.orthodb.org/v10?query=189234at4751	Ku70
+189573at4751	Complete	jgi|Phlfa1|777910|fgenesh1_pm.23_#_5	270.9	258	https://www.orthodb.org/v10?query=189573at4751	Coatomer subunit delta
+190183at4751	Complete	jgi|Phlfa1|751651|fgenesh1_kg.21_#_311_#_TRINITY_DN2052_c0_g1_i1	315.5	250	https://www.orthodb.org/v10?query=190183at4751	Prephenate dehydrogenase
+190475at4751	Complete	jgi|Phlfa1|135240|CE135011_6323	374.1	447	https://www.orthodb.org/v10?query=190475at4751	digestive organ expansion factor
+190832at4751	Fragmented	jgi|Phlfa1|228001|CE227772_3444	245.8	225	https://www.orthodb.org/v10?query=190832at4751	PAN2-PAN3 deadenylation complex subunit PAN3
+191114at4751	Complete	jgi|Phlfa1|778296|fgenesh1_pm.31_#_24	456.6	314	https://www.orthodb.org/v10?query=191114at4751	Phenylalanyl-tRNA synthetase alpha chain
+191296at4751	Complete	jgi|Phlfa1|690469|e_gw1.36.24.1	209.1	484	https://www.orthodb.org/v10?query=191296at4751	Nuclear pore protein 84/107
+191310at4751	Complete	jgi|Phlfa1|854648|estExt_Genemark1.C_510044	411.9	549	https://www.orthodb.org/v10?query=191310at4751	Vps16, C-terminal
+192059at4751	Missing
+192135at4751	Complete	jgi|Phlfa1|828077|MIX22220_2622_9	507.6	900	https://www.orthodb.org/v10?query=192135at4751	Rho GTPase activation protein
+192452at4751	Complete	jgi|Phlfa1|795906|gm1.5224_g	388.7	393	https://www.orthodb.org/v10?query=192452at4751	Dihydropteroate synthase
+195619at4751	Complete	jgi|Phlfa1|693136|e_gw1.62.33.1	394.8	416	https://www.orthodb.org/v10?query=195619at4751	Pyridoxal phosphate-dependent transferase
+195863at4751	Complete	jgi|Phlfa1|261505|CE261276_11704	493.9	691	https://www.orthodb.org/v10?query=195863at4751	Exportin-T
+196015at4751	Complete	jgi|Phlfa1|149670|CE149441_9941	650.2	342	https://www.orthodb.org/v10?query=196015at4751	putative rRNA pseudouridine synthase
+196094at4751	Complete	jgi|Phlfa1|752090|fgenesh1_kg.22_#_94_#_TRINITY_DN256_c9_g2_i2	332.6	465	https://www.orthodb.org/v10?query=196094at4751	Translocation protein sec63
+196841at4751	Complete	jgi|Phlfa1|738213|fgenesh1_kg.6_#_1000_#_TRINITY_DN1367_c1_g1_i1	605.4	435	https://www.orthodb.org/v10?query=196841at4751	Sulfate adenylyltransferase
+197111at4751	Complete	jgi|Phlfa1|679709|e_gw1.1.294.1	532.3	313	https://www.orthodb.org/v10?query=197111at4751	Cysteine desulfurase
+197612at4751	Missing
+198196at4751	Complete	jgi|Phlfa1|759506|fgenesh1_kg.33_#_392_#_TRINITY_DN468_c2_g1_i1	477.2	363	https://www.orthodb.org/v10?query=198196at4751	Threonine dehydratase
+198234at4751	Complete	jgi|Phlfa1|848513|estExt_Genemark1.C_60274	142.7	292	https://www.orthodb.org/v10?query=198234at4751	Conserved oligomeric Golgi complex subunit 3
+200331at4751	Complete	jgi|Phlfa1|145499|CE145270_7716	109.7	195	https://www.orthodb.org/v10?query=200331at4751	TAP42-like protein
+201591at4751	Complete	jgi|Phlfa1|734435|fgenesh1_kg.3_#_1358_#_TRINITY_DN665_c1_g1_i3	84.2	157	https://www.orthodb.org/v10?query=201591at4751	WD40-repeat-containing domain
+202089at4751	Complete	jgi|Phlfa1|176741|CE176512_14031	193.7	199	https://www.orthodb.org/v10?query=202089at4751	Mitochondrial import receptor subunit TOM40
+202248at4751	Complete	jgi|Phlfa1|743533|fgenesh1_kg.11_#_637_#_TRINITY_DN6485_c0_g1_i1	169.1	221	https://www.orthodb.org/v10?query=202248at4751	Amino-acid acetyltransferase, mitochondrial
+203109at4751	Complete	jgi|Phlfa1|725655|fgenesh1_pg.31_#_71	160.8	278	https://www.orthodb.org/v10?query=203109at4751	Protein DOM34 homolog
+203710at4751	Complete	jgi|Phlfa1|664214|gw1.13.28.1	364.2	302	https://www.orthodb.org/v10?query=203710at4751	cytochrome oxidase assembly
+204087at4751	Complete	jgi|Phlfa1|817985|MIX12128_2008_30	530.2	310	https://www.orthodb.org/v10?query=204087at4751	Chorismate synthase
+204341at4751	Complete	jgi|Phlfa1|766547|fgenesh1_kg.51_#_312_#_TRINITY_DN7428_c0_g1_i2	392.5	430	https://www.orthodb.org/v10?query=204341at4751	Condensin complex subunit 2
+204508at4751	Fragmented	jgi|Phlfa1|423797|CE423568_2402	119.7	186	https://www.orthodb.org/v10?query=204508at4751	mRNA cleavage and polyadenylation factor CLP1
+205479at4751	Complete	jgi|Phlfa1|748862|fgenesh1_kg.17_#_916_#_TRINITY_DN533_c0_g1_i1	270.6	199	https://www.orthodb.org/v10?query=205479at4751	Cyclin-dependent kinase 7
+207926at4751	Complete	jgi|Phlfa1|753888|fgenesh1_kg.24_#_427_#_TRINITY_DN530_c1_g1_i2	313.3	530	https://www.orthodb.org/v10?query=207926at4751	actin-like ATPase domain-containing protein
+208463at4751	Complete	jgi|Phlfa1|740500|fgenesh1_kg.8_#_940_#_TRINITY_DN441_c0_g1_i1	421.6	446	https://www.orthodb.org/v10?query=208463at4751	Pre-mRNA-splicing factor CLF1
+209053at4751	Complete	jgi|Phlfa1|680097|e_gw1.1.422.1	393.8	331	https://www.orthodb.org/v10?query=209053at4751	serine-tRNA ligase
+209619at4751	Complete	jgi|Phlfa1|799124|gm1.8442_g	167.4	255	https://www.orthodb.org/v10?query=209619at4751	Threonylcarbamoyl-AMP synthase
+210178at4751	Missing
+210462at4751	Complete	jgi|Phlfa1|740987|fgenesh1_kg.9_#_60_#_TRINITY_DN2201_c0_g1_i3	59.2	339	https://www.orthodb.org/v10?query=210462at4751	Kinetochore protein nuf2
+210986at4751	Complete	jgi|Phlfa1|740286|fgenesh1_kg.8_#_726_#_TRINITY_DN215_c12_g1_i3	227.0	280	https://www.orthodb.org/v10?query=210986at4751	FACT complex subunit POB3
+211442at4751	Complete	jgi|Phlfa1|725664|fgenesh1_pg.31_#_80	224.2	202	https://www.orthodb.org/v10?query=211442at4751	endoplasmic oxidoreductin
+211634at4751	Missing
+211768at4751	Complete	jgi|Phlfa1|478301|CE478072_14432	318.5	294	https://www.orthodb.org/v10?query=211768at4751	60S ribosomal export protein NMD3
+212522at4751	Duplicated	jgi|Phlfa1|483445|CE483216_14318	256.1	227	https://www.orthodb.org/v10?query=212522at4751	Cyclin-like
+212522at4751	Duplicated	jgi|Phlfa1|669590|gw1.52.28.1	252.1	221	https://www.orthodb.org/v10?query=212522at4751	Cyclin-like
+212735at4751	Complete	jgi|Phlfa1|695340|estExt_Genewise1.C_3_t10014	361.2	329	https://www.orthodb.org/v10?query=212735at4751	zf-ZPR1-domain-containing protein
+213564at4751	Complete	jgi|Phlfa1|838526|MIX32669_646_36	208.2	196	https://www.orthodb.org/v10?query=213564at4751	Lipoate-protein ligase A
+215926at4751	Missing
+216270at4751	Complete	jgi|Phlfa1|746916|fgenesh1_kg.15_#_540_#_TRINITY_DN5312_c0_g1_i1	415.8	319	https://www.orthodb.org/v10?query=216270at4751	Rab GDP dissociation inhibitor
+216661at4751	Complete	jgi|Phlfa1|300887|CE300658_5996	346.0	259	https://www.orthodb.org/v10?query=216661at4751	Cytoplasmic tRNA 2-thiolation protein 1
+216683at4751	Complete	jgi|Phlfa1|471998|CE471769_9955	331.3	269	https://www.orthodb.org/v10?query=216683at4751	Phenylalanyl-tRNA synthetase
+216747at4751	Complete	jgi|Phlfa1|694773|estExt_Genewise1.C_1_t20104	252.8	275	https://www.orthodb.org/v10?query=216747at4751	Transcription initiation factor TFIID subunit 6
+216949at4751	Complete	jgi|Phlfa1|692415|e_gw1.51.70.1	176.8	287	https://www.orthodb.org/v10?query=216949at4751	Topoisomerase II-associated protein PAT1
+217097at4751	Complete	jgi|Phlfa1|682144|e_gw1.5.293.1	272.1	235	https://www.orthodb.org/v10?query=217097at4751	kinase-like protein
+217374at4751	Complete	jgi|Phlfa1|801599|gm1.10917_g	281.6	241	https://www.orthodb.org/v10?query=217374at4751	Fructose-1,6-bisphosphatase
+219236at4751	Complete	jgi|Phlfa1|778355|fgenesh1_pm.33_#_17	495.3	307	https://www.orthodb.org/v10?query=219236at4751	Actin family
+219492at4751	Duplicated	jgi|Phlfa1|852748|estExt_Genemark1.C_300120	143.8	273	https://www.orthodb.org/v10?query=219492at4751	Cwf19-like, C-terminal domain-1
+219492at4751	Duplicated	jgi|Phlfa1|852740|estExt_Genemark1.C_300112	143.5	269	https://www.orthodb.org/v10?query=219492at4751	Cwf19-like, C-terminal domain-1
+221926at4751	Missing
+224693at4751	Complete	jgi|Phlfa1|851154|estExt_Genemark1.C_190165	295.0	299	https://www.orthodb.org/v10?query=224693at4751	Dol-P-Man
+224775at4751	Complete	jgi|Phlfa1|300992|CE300763_3889	335.8	261	https://www.orthodb.org/v10?query=224775at4751	P-loop containing nucleoside triphosphate hydrolase protein
+224804at4751	Complete	jgi|Phlfa1|779169|estExt_fgenesh1_pg.C_10050	257.5	209	https://www.orthodb.org/v10?query=224804at4751	Actin-related protein 2/3 complex subunit
+225321at4751	Complete	jgi|Phlfa1|1493|CE1264_20825	682.6	380	https://www.orthodb.org/v10?query=225321at4751	Actin family
+225351at4751	Complete	jgi|Phlfa1|2933|CE2704_4051	187.6	251	https://www.orthodb.org/v10?query=225351at4751	Nicotinate phosphoribosyltransferase
+225535at4751	Complete	jgi|Phlfa1|240246|CE240017_2344	335.8	294	https://www.orthodb.org/v10?query=225535at4751	Transcriptional adapter 2
+225712at4751	Complete	jgi|Phlfa1|82432|CE82203_6567	162.5	215	https://www.orthodb.org/v10?query=225712at4751	PEBP-like protein
+225820at4751	Complete	jgi|Phlfa1|184016|CE183787_3875	143.4	175	https://www.orthodb.org/v10?query=225820at4751	Putative transferase CAF17, mitochondrial
+225918at4751	Missing
+226810at4751	Complete	jgi|Phlfa1|308895|CE308666_7234	277.7	230	https://www.orthodb.org/v10?query=226810at4751	Bystin
+227572at4751	Missing
+228465at4751	Missing
+228752at4751	Complete	jgi|Phlfa1|706887|estExt_Genewise1Plus.C_2_t10176	282.5	382	https://www.orthodb.org/v10?query=228752at4751	Cdc37
+229510at4751	Complete	jgi|Phlfa1|689258|e_gw1.29.183.1	281.8	256	https://www.orthodb.org/v10?query=229510at4751	tRNA (guanine(37)-N1)-methyltransferase
+229997at4751	Missing
+230605at4751	Complete	jgi|Phlfa1|553257|CE553028_7634	162.7	375	https://www.orthodb.org/v10?query=230605at4751	Ndc80 domain superfamily
+231468at4751	Missing
+231582at4751	Complete	jgi|Phlfa1|685324|e_gw1.13.259.1	269.7	310	https://www.orthodb.org/v10?query=231582at4751	NADPH
+232698at4751	Complete	jgi|Phlfa1|695905|estExt_Genewise1.C_4_t10075	584.1	489	https://www.orthodb.org/v10?query=232698at4751	Protein SEY1
+233287at4751	Complete	jgi|Phlfa1|770363|fgenesh1_kg.72_#_47_#_TRINITY_DN1238_c0_g1_i4	329.8	266	https://www.orthodb.org/v10?query=233287at4751	ATP-dependent RNA helicase DBP5
+233706at4751	Complete	jgi|Phlfa1|753062|fgenesh1_kg.23_#_375_#_TRINITY_DN2752_c0_g1_i8	261.5	228	https://www.orthodb.org/v10?query=233706at4751	tRNA-dihydrouridine synthase
+234548at4751	Complete	jgi|Phlfa1|739436|fgenesh1_kg.7_#_1098_#_TRINITY_DN4550_c0_g1_i1	158.0	1001	https://www.orthodb.org/v10?query=234548at4751	Nucleolar pre-ribosomal-associated protein 1, C-terminal domain
+234698at4751	Complete	jgi|Phlfa1|734752|fgenesh1_kg.4_#_162_#_TRINITY_DN892_c0_g2_i1	341.9	321	https://www.orthodb.org/v10?query=234698at4751	P-loop containing nucleoside triphosphate hydrolase protein
+235105at4751	Complete	jgi|Phlfa1|688886|e_gw1.28.216.1	350.5	293	https://www.orthodb.org/v10?query=235105at4751	UAA transporter
+235463at4751	Complete	jgi|Phlfa1|607140|CE606911_13819	278.1	220	https://www.orthodb.org/v10?query=235463at4751	Eukaryotic translation initiation factor 3 subunit I
+235640at4751	Complete	jgi|Phlfa1|692496|e_gw1.51.56.1	254.9	306	https://www.orthodb.org/v10?query=235640at4751	26S proteasome non-ATPase regulatory subunit 12
+236504at4751	Complete	jgi|Phlfa1|778118|fgenesh1_pm.28_#_17	645.9	380	https://www.orthodb.org/v10?query=236504at4751	Protein phosphatase PP2A regulatory subunit B
+237276at4751	Complete	jgi|Phlfa1|682021|e_gw1.4.276.1	458.0	353	https://www.orthodb.org/v10?query=237276at4751	Glucose-6-phosphate 1-dehydrogenase
+237281at4751	Complete	jgi|Phlfa1|76625|CE76396_2238	248.4	258	https://www.orthodb.org/v10?query=237281at4751	Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial
+237393at4751	Complete	jgi|Phlfa1|754065|fgenesh1_kg.24_#_604_#_TRINITY_DN5720_c0_g1_i1	199.8	325	https://www.orthodb.org/v10?query=237393at4751	Nucleolar complex-associated protein 3
+237533at4751	Complete	jgi|Phlfa1|778503|fgenesh1_pm.38_#_30	243.8	169	https://www.orthodb.org/v10?query=237533at4751	ATPase, AAA-type, conserved site
+238922at4751	Complete	jgi|Phlfa1|730805|fgenesh1_kg.1_#_670_#_TRINITY_DN7092_c0_g4_i1	262.2	329	https://www.orthodb.org/v10?query=238922at4751	Protein kinase domain
+240036at4751	Complete	jgi|Phlfa1|800331|gm1.9649_g	373.5	477	https://www.orthodb.org/v10?query=240036at4751	Pescadillo homolog
+240246at4751	Missing
+241079at4751	Complete	jgi|Phlfa1|149481|CE149252_14865	328.1	353	https://www.orthodb.org/v10?query=241079at4751	Adenylyl cyclase-associated protein
+241483at4751	Missing
+241586at4751	Complete	jgi|Phlfa1|410924|CE410695_8447	366.0	375	https://www.orthodb.org/v10?query=241586at4751	WD40-repeat-containing domain
+241860at4751	Complete	jgi|Phlfa1|28760|CE28531_2775	329.4	307	https://www.orthodb.org/v10?query=241860at4751	2-(3-amino-3-carboxypropyl)histidine synthase subunit 1
+243015at4751	Complete	jgi|Phlfa1|778963|fgenesh1_pm.63_#_6	303.7	385	https://www.orthodb.org/v10?query=243015at4751	Ubiquitin specific protease, conserved site
+244066at4751	Complete	jgi|Phlfa1|756993|fgenesh1_kg.29_#_339_#_TRINITY_DN4846_c0_g2_i1	365.4	291	https://www.orthodb.org/v10?query=244066at4751	Gamma-glutamyl phosphate reductase
+245480at4751	Complete	jgi|Phlfa1|801550|gm1.10868_g	441.1	390	https://www.orthodb.org/v10?query=245480at4751	Replication protein A subunit
+245900at4751	Complete	jgi|Phlfa1|777882|fgenesh1_pm.22_#_32	335.7	307	https://www.orthodb.org/v10?query=245900at4751	Phosphoglycerate kinase
+246207at4751	Complete	jgi|Phlfa1|750233|fgenesh1_kg.19_#_510_#_TRINITY_DN1462_c1_g2_i2	239.1	216	https://www.orthodb.org/v10?query=246207at4751	WD40-repeat-containing domain
+246951at4751	Complete	jgi|Phlfa1|796704|gm1.6022_g	290.4	374	https://www.orthodb.org/v10?query=246951at4751	WD40-repeat-containing domain
+247065at4751	Complete	jgi|Phlfa1|458929|CE458700_9511	193.7	497	https://www.orthodb.org/v10?query=247065at4751	SNU66/SART1 family
+247129at4751	Duplicated	jgi|Phlfa1|745154|fgenesh1_kg.13_#_666_#_TRINITY_DN6241_c0_g1_i2	356.6	254	https://www.orthodb.org/v10?query=247129at4751	kinase-like protein
+247129at4751	Duplicated	jgi|Phlfa1|685448|e_gw1.13.262.1	347.3	254	https://www.orthodb.org/v10?query=247129at4751	kinase-like protein
+247383at4751	Missing
+248360at4751	Missing
+251158at4751	Duplicated	jgi|Phlfa1|778578|fgenesh1_pm.40_#_34	432.8	268	https://www.orthodb.org/v10?query=251158at4751	tRNA N6-adenosine threonylcarbamoyltransferase
+251158at4751	Duplicated	jgi|Phlfa1|790205|estExt_fgenesh1_pm.C_400041	421.2	269	https://www.orthodb.org/v10?query=251158at4751	tRNA N6-adenosine threonylcarbamoyltransferase
+251613at4751	Complete	jgi|Phlfa1|736633|fgenesh1_kg.5_#_603_#_TRINITY_DN4595_c0_g1_i5	287.2	243	https://www.orthodb.org/v10?query=251613at4751	AFG1-like ATPase
+252314at4751	Missing
+252469at4751	Complete	jgi|Phlfa1|409820|CE409591_18380	317.8	247	https://www.orthodb.org/v10?query=252469at4751	Phosphatidate cytidylyltransferase
+254717at4751	Complete	jgi|Phlfa1|744450|fgenesh1_kg.12_#_736_#_TRINITY_DN374_c1_g1_i1	356.7	252	https://www.orthodb.org/v10?query=254717at4751	ATPase GET3
+255378at4751	Complete	jgi|Phlfa1|756294|fgenesh1_kg.28_#_319_#_TRINITY_DN1322_c0_g1_i2	312.3	356	https://www.orthodb.org/v10?query=255378at4751	WD40-repeat-containing domain
+255412at4751	Complete	jgi|Phlfa1|788637|estExt_fgenesh1_pm.C_60010	506.8	293	https://www.orthodb.org/v10?query=255412at4751	Pre-mRNA-splicing factor prp46
+256318at4751	Complete	jgi|Phlfa1|41147|CE40918_9153	477.3	352	https://www.orthodb.org/v10?query=256318at4751	WD40-repeat-containing domain
+256914at4751	Complete	jgi|Phlfa1|796328|gm1.5646_g	267.0	299	https://www.orthodb.org/v10?query=256914at4751	Mitochondrial import inner membrane translocase subunit TIM44
+257330at4751	Complete	jgi|Phlfa1|684354|e_gw1.9.135.1	282.7	266	https://www.orthodb.org/v10?query=257330at4751	Mitochondrial import inner membrane translocase subunit TIM50
+258245at4751	Complete	jgi|Phlfa1|795541|gm1.4859_g	563.9	348	https://www.orthodb.org/v10?query=258245at4751	tryptophanyl-tRNA synthetase
+258762at4751	Missing
+259060at4751	Complete	jgi|Phlfa1|740251|fgenesh1_kg.8_#_691_#_TRINITY_DN5035_c2_g1_i1	410.7	363	https://www.orthodb.org/v10?query=259060at4751	Phospholipid
+259444at4751	Missing
+259700at4751	Complete	jgi|Phlfa1|686931|e_gw1.19.29.1	170.9	225	https://www.orthodb.org/v10?query=259700at4751	RNA 3'-terminal phosphate cyclase
+259883at4751	Complete	jgi|Phlfa1|708514|estExt_Genewise1Plus.C_50326	47.8	98	https://www.orthodb.org/v10?query=259883at4751	Zinc finger, CCCH-type
+260251at4751	Complete	jgi|Phlfa1|757503|fgenesh1_kg.30_#_198_#_TRINITY_DN2278_c0_g1_i5	279.8	231	https://www.orthodb.org/v10?query=260251at4751	ATP phosphoribosyltransferase
+260722at4751	Complete	jgi|Phlfa1|697965|estExt_Genewise1.C_9_t10146	322.6	220	https://www.orthodb.org/v10?query=260722at4751	Deoxyhypusine synthase
+260896at4751	Missing
+261237at4751	Complete	jgi|Phlfa1|684868|e_gw1.11.198.1	320.7	361	https://www.orthodb.org/v10?query=261237at4751	anaphase-promoting complex subunit 6
+262317at4751	Complete	jgi|Phlfa1|779037|fgenesh1_pm.80_#_4	313.2	267	https://www.orthodb.org/v10?query=262317at4751	Transcription factor TFIIB
+263390at4751	Complete	jgi|Phlfa1|778302|fgenesh1_pm.31_#_30	355.0	330	https://www.orthodb.org/v10?query=263390at4751	RNA polymerase II transcription factor B subunit 2
+264038at4751	Complete	jgi|Phlfa1|692502|e_gw1.52.32.1	366.4	301	https://www.orthodb.org/v10?query=264038at4751	KEN domain
+264164at4751	Complete	jgi|Phlfa1|783212|estExt_fgenesh1_pg.C_180098	324.0	439	https://www.orthodb.org/v10?query=264164at4751	Ankyrin repeat-containing domain
+265302at4751	Missing
+265325at4751	Complete	jgi|Phlfa1|687941|e_gw1.23.173.1	269.7	326	https://www.orthodb.org/v10?query=265325at4751	ubiquinol-cytochrome c reductase core subunit 2
+266634at4751	Complete	jgi|Phlfa1|810161|MIX4304_3874_28	392.9	330	https://www.orthodb.org/v10?query=266634at4751	SH3 domain
+267556at4751	Complete	jgi|Phlfa1|679964|e_gw1.1.394.1	145.0	144	https://www.orthodb.org/v10?query=267556at4751	Mitochondrial matrix Mmp37
+269389at4751	Complete	jgi|Phlfa1|741108|fgenesh1_kg.9_#_181_#_TRINITY_DN4224_c0_g1_i3	431.6	306	https://www.orthodb.org/v10?query=269389at4751	V-type proton ATPase subunit
+269580at4751	Complete	jgi|Phlfa1|766337|fgenesh1_kg.51_#_102_#_TRINITY_DN502_c2_g1_i1	221.8	337	https://www.orthodb.org/v10?query=269580at4751	Protein HGH1 N-terminal
+269939at4751	Complete	jgi|Phlfa1|826513|MIX20656_4363_99	209.2	352	https://www.orthodb.org/v10?query=269939at4751	Winged helix-like DNA-binding domain superfamily
+271511at4751	Fragmented	jgi|Phlfa1|152504|CE152275_885	77.7	87	https://www.orthodb.org/v10?query=271511at4751	25S rRNA (Cytosine-C(5))-methyltransferase rcm1
+271781at4751	Fragmented	jgi|Phlfa1|489216|CE488987_7499	52.8	165	https://www.orthodb.org/v10?query=271781at4751	CTLH, C-terminal LisH motif
+271850at4751	Duplicated	jgi|Phlfa1|723080|fgenesh1_pg.17_#_206	161.8	167	https://www.orthodb.org/v10?query=271850at4751	N-acetylglucosaminyl transferase component
+271850at4751	Duplicated	jgi|Phlfa1|783093|estExt_fgenesh1_pg.C_170182	161.6	167	https://www.orthodb.org/v10?query=271850at4751	N-acetylglucosaminyl transferase component
+272081at4751	Missing
+272711at4751	Complete	jgi|Phlfa1|757620|fgenesh1_kg.30_#_315_#_TRINITY_DN2710_c0_g3_i5	222.7	216	https://www.orthodb.org/v10?query=272711at4751	Putative 26S proteasome regulatory subunit rpn9
+273469at4751	Complete	jgi|Phlfa1|342098|CE341869_3279	208.1	248	https://www.orthodb.org/v10?query=273469at4751	tRNA (Adenine(58)-N(1))-methyltransferase non-catalytic subunit trm6
+274828at4751	Fragmented	jgi|Phlfa1|764720|fgenesh1_kg.46_#_197_#_TRINITY_DN299_c0_g1_i3	158.5	185	https://www.orthodb.org/v10?query=274828at4751	GPI-anchored wall transfer protein
+276205at4751	Duplicated	jgi|Phlfa1|763333|fgenesh1_kg.42_#_223_#_TRINITY_DN7403_c0_g2_i1	350.9	215	https://www.orthodb.org/v10?query=276205at4751	Serine/threonine-protein phosphatase
+276205at4751	Duplicated	jgi|Phlfa1|758171|fgenesh1_kg.31_#_237_#_TRINITY_DN186_c4_g1_i2	325.8	212	https://www.orthodb.org/v10?query=276205at4751	Serine/threonine-protein phosphatase
+278643at4751	Complete	jgi|Phlfa1|796765|gm1.6083_g	202.5	275	https://www.orthodb.org/v10?query=278643at4751	Phosphatidylinositol-glycan biosynthesis class S protein
+279020at4751	Complete	jgi|Phlfa1|8282|CE8053_4288	215.9	200	https://www.orthodb.org/v10?query=279020at4751	alpha-L RNA-binding motif-containing protein
+280937at4751	Complete	jgi|Phlfa1|688615|e_gw1.27.63.1	257.9	199	https://www.orthodb.org/v10?query=280937at4751	S-methyl-5'-thioadenosine phosphorylase
+281299at4751	Missing
+281726at4751	Complete	jgi|Phlfa1|158937|CE158708_16997	251.5	166	https://www.orthodb.org/v10?query=281726at4751	Proteasome subunit beta type
+281920at4751	Complete	jgi|Phlfa1|682214|e_gw1.5.257.1	299.3	294	https://www.orthodb.org/v10?query=281920at4751	tRNA pseudouridine synthase
+282059at4751	Complete	jgi|Phlfa1|794055|gm1.3373_g	483.8	283	https://www.orthodb.org/v10?query=282059at4751	Pyruvate dehydrogenase E1 component subunit beta
+282964at4751	Fragmented	jgi|Phlfa1|791105|gm1.423_g	69.9	119	https://www.orthodb.org/v10?query=282964at4751	Gtr1/RagA G protein
+283177at4751	Complete	jgi|Phlfa1|750959|fgenesh1_kg.20_#_488_#_TRINITY_DN189_c0_g4_i1	219.1	233	https://www.orthodb.org/v10?query=283177at4751	adenosylmethionine decarboxylase
+284127at4751	Complete	jgi|Phlfa1|732278|fgenesh1_kg.2_#_624_#_TRINITY_DN585_c1_g3_i2	462.7	298	https://www.orthodb.org/v10?query=284127at4751	S-adenosylmethionine synthase
+284176at4751	Complete	jgi|Phlfa1|742093|fgenesh1_kg.10_#_116_#_TRINITY_DN430_c0_g2_i1	136.2	125	https://www.orthodb.org/v10?query=284176at4751	Pseudouridine synthase
+284287at4751	Missing
+284377at4751	Complete	jgi|Phlfa1|680498|e_gw1.2.46.1	549.7	494	https://www.orthodb.org/v10?query=284377at4751	Serine/threonine-protein kinase, active site
+285254at4751	Complete	jgi|Phlfa1|737293|fgenesh1_kg.6_#_80_#_TRINITY_DN4131_c0_g1_i4	261.0	243	https://www.orthodb.org/v10?query=285254at4751	Glutamyl-tRNA synthetase
+285477at4751	Complete	jgi|Phlfa1|776304|fgenesh1_pm.2_#_33	184.8	131	https://www.orthodb.org/v10?query=285477at4751	RNA polymerase II subunit A
+285977at4751	Complete	jgi|Phlfa1|725475|fgenesh1_pg.30_#_40	181.4	191	https://www.orthodb.org/v10?query=285977at4751	Mitochondrial import inner membrane translocase subunit tim54
+289666at4751	Fragmented	jgi|Phlfa1|778430|fgenesh1_pm.35_#_24	139.9	117	https://www.orthodb.org/v10?query=289666at4751	Diphthine synthase
+289686at4751	Complete	jgi|Phlfa1|414259|CE414030_5393	26.3	63	https://www.orthodb.org/v10?query=289686at4751	Nucleotide exchange factor Fes1
+290314at4751	Complete	jgi|Phlfa1|757527|fgenesh1_kg.30_#_222_#_TRINITY_DN1957_c2_g1_i1	413.1	271	https://www.orthodb.org/v10?query=290314at4751	Ribosomal protein L4/L1e
+290471at4751	Complete	jgi|Phlfa1|731815|fgenesh1_kg.2_#_161_#_TRINITY_DN2844_c2_g1_i1	91.6	158	https://www.orthodb.org/v10?query=290471at4751	Rmd5
+291828at4751	Complete	jgi|Phlfa1|402225|CE401996_6457	117.6	159	https://www.orthodb.org/v10?query=291828at4751	Protein phosphatase methylesterase 1
+292336at4751	Complete	jgi|Phlfa1|749702|fgenesh1_kg.18_#_758_#_TRINITY_DN4094_c0_g1_i3	380.6	354	https://www.orthodb.org/v10?query=292336at4751	Glycylpeptide N-tetradecanoyltransferase
+292418at4751	Missing
+293405at4751	Missing
+295692at4751	Fragmented	jgi|Phlfa1|683824|e_gw1.8.367.1	15.5	50	https://www.orthodb.org/v10?query=295692at4751	Transcription initiation factor IIE subunit beta
+295937at4751	Complete	jgi|Phlfa1|249897|CE249668_6809	279.3	214	https://www.orthodb.org/v10?query=295937at4751	KRR1 small subunit processome component
+296024at4751	Missing
+296643at4751	Fragmented	jgi|Phlfa1|538780|CE538551_17551	108.9	135	https://www.orthodb.org/v10?query=296643at4751	Ribosomal protein S5 domain 2-type fold
+297145at4751	Missing
+297671at4751	Complete	jgi|Phlfa1|791088|gm1.406_g	168.3	204	https://www.orthodb.org/v10?query=297671at4751	Tyrosine--tRNA ligase
+298335at4751	Complete	jgi|Phlfa1|190034|CE189805_3986	455.9	576	https://www.orthodb.org/v10?query=298335at4751	GPI transamidase component GAA1
+298379at4751	Complete	jgi|Phlfa1|799010|gm1.8328_g	72.2	119	https://www.orthodb.org/v10?query=298379at4751	Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+299054at4751	Complete	jgi|Phlfa1|740145|fgenesh1_kg.8_#_585_#_TRINITY_DN1513_c1_g1_i1	248.0	262	https://www.orthodb.org/v10?query=299054at4751	SNARE
+299330at4751	Duplicated	jgi|Phlfa1|688855|e_gw1.28.319.1	160.9	139	https://www.orthodb.org/v10?query=299330at4751	Exoribonuclease, phosphorolytic domain 1
+299330at4751	Duplicated	jgi|Phlfa1|725174|fgenesh1_pg.28_#_118	160.8	140	https://www.orthodb.org/v10?query=299330at4751	Exoribonuclease, phosphorolytic domain 1
+299509at4751	Missing
+299559at4751	Complete	jgi|Phlfa1|20797|CE20568_5817	225.5	238	https://www.orthodb.org/v10?query=299559at4751	Ribosome production factor 2
+299583at4751	Missing
+299611at4751	Complete	jgi|Phlfa1|4332|CE4103_1759	254.5	286	https://www.orthodb.org/v10?query=299611at4751	WD40-repeat-containing domain
+300016at4751	Complete	jgi|Phlfa1|758470|fgenesh1_kg.31_#_536_#_TRINITY_DN1002_c2_g1_i1	384.4	229	https://www.orthodb.org/v10?query=300016at4751	26S proteasome non-ATPase regulatory subunit 14
+300216at4751	Complete	jgi|Phlfa1|711802|estExt_Genewise1Plus.C_170182	300.4	337	https://www.orthodb.org/v10?query=300216at4751	Arginine biosynthesis bifunctional protein ArgJ, mitochondrial
+302127at4751	Complete	jgi|Phlfa1|692743|e_gw1.55.18.1	292.6	319	https://www.orthodb.org/v10?query=302127at4751	Integral membrane protein
+304341at4751	Complete	jgi|Phlfa1|6242|CE6013_5406	258.4	192	https://www.orthodb.org/v10?query=304341at4751	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+304453at4751	Complete	jgi|Phlfa1|742942|fgenesh1_kg.11_#_46_#_TRINITY_DN13147_c2_g2_i2	91.4	178	https://www.orthodb.org/v10?query=304453at4751	V-type proton ATPase subunit C
+304547at4751	Missing
+304733at4751	Complete	jgi|Phlfa1|703089|estExt_Genewise1.C_340102	180.2	231	https://www.orthodb.org/v10?query=304733at4751	Vesicular-fusion protein sec17
+305061at4751	Missing
+306594at4751	Complete	jgi|Phlfa1|682847|e_gw1.6.110.1	263.3	313	https://www.orthodb.org/v10?query=306594at4751	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1
+307144at4751	Complete	jgi|Phlfa1|740845|fgenesh1_kg.8_#_1285_#_TRINITY_DN2710_c3_g2_i2	359.4	444	https://www.orthodb.org/v10?query=307144at4751	Rab-GTPase-TBC domain
+308236at4751	Complete	jgi|Phlfa1|783789|estExt_fgenesh1_pg.C_220026	355.8	495	https://www.orthodb.org/v10?query=308236at4751	Sda1
+308816at4751	Complete	jgi|Phlfa1|789435|estExt_fgenesh1_pm.C_180050	355.4	378	https://www.orthodb.org/v10?query=308816at4751	Splicing factor 3a subunit 3
+310718at4751	Complete	jgi|Phlfa1|119850|CE119621_7009	350.4	550	https://www.orthodb.org/v10?query=310718at4751	Exocyst complex component Sec6
+310891at4751	Complete	jgi|Phlfa1|516083|CE515854_13648	626.9	529	https://www.orthodb.org/v10?query=310891at4751	Pre-mRNA-splicing factor cef1
+311048at4751	Complete	jgi|Phlfa1|705792|estExt_Genewise1.C_790015	140.6	177	https://www.orthodb.org/v10?query=311048at4751	Deoxyhypusine hydroxylase
+311254at4751	Complete	jgi|Phlfa1|734798|fgenesh1_kg.4_#_208_#_TRINITY_DN6263_c0_g1_i1	286.7	377	https://www.orthodb.org/v10?query=311254at4751	Nuclear segregation protein
+312080at4751	Complete	jgi|Phlfa1|554697|CE554468_19245	308.6	286	https://www.orthodb.org/v10?query=312080at4751	Autophagy-related protein 3
+312209at4751	Complete	jgi|Phlfa1|683424|e_gw1.8.64.1	67.8	108	https://www.orthodb.org/v10?query=312209at4751	adenine nucleotide alpha hydrolases-like protein
+312950at4751	Missing
+315551at4751	Complete	jgi|Phlfa1|750987|fgenesh1_kg.20_#_516_#_TRINITY_DN3474_c0_g1_i2	479.2	289	https://www.orthodb.org/v10?query=315551at4751	Delta-aminolevulinic acid dehydratase
+315639at4751	Complete	jgi|Phlfa1|770280|fgenesh1_kg.71_#_48_#_TRINITY_DN1721_c2_g2_i1	209.0	240	https://www.orthodb.org/v10?query=315639at4751	Rhodanese-like domain
+315799at4751	Missing
+315802at4751	Complete	jgi|Phlfa1|797697|gm1.7015_g	178.3	210	https://www.orthodb.org/v10?query=315802at4751	tRNA dimethylallyltransferase
+316254at4751	Complete	jgi|Phlfa1|560241|CE560012_6361	181.0	283	https://www.orthodb.org/v10?query=316254at4751	glycosyltransferase family 50 protein
+316920at4751	Complete	jgi|Phlfa1|575633|CE575404_14880	141.0	182	https://www.orthodb.org/v10?query=316920at4751	Lysophospholipid acyltransferase
+317276at4751	Missing
+317335at4751	Complete	jgi|Phlfa1|382865|CE382636_16354	219.3	244	https://www.orthodb.org/v10?query=317335at4751	Anthranilate phosphoribosyltransferase
+319121at4751	Complete	jgi|Phlfa1|604267|CE604038_6924	241.3	253	https://www.orthodb.org/v10?query=319121at4751	Zinc finger, UBR-type
+320163at4751	Missing
+320638at4751	Complete	jgi|Phlfa1|763339|fgenesh1_kg.42_#_229_#_TRINITY_DN6285_c0_g1_i2	672.1	462	https://www.orthodb.org/v10?query=320638at4751	Nucleotide-diphospho-sugar transferase
+320777at4751	Complete	jgi|Phlfa1|687027|e_gw1.19.252.1	333.7	294	https://www.orthodb.org/v10?query=320777at4751	Translation initiation factor IF2/IF5
+320782at4751	Complete	jgi|Phlfa1|744953|fgenesh1_kg.13_#_465_#_TRINITY_DN949_c0_g1_i3	99.6	272	https://www.orthodb.org/v10?query=320782at4751	RNA polymerase I associated factor, A49-like protein
+321416at4751	Complete	jgi|Phlfa1|777752|fgenesh1_pm.19_#_13	624.2	499	https://www.orthodb.org/v10?query=321416at4751	Pre-mRNA-splicing factor syf1
+321585at4751	Complete	jgi|Phlfa1|100786|CE100557_4360	310.6	247	https://www.orthodb.org/v10?query=321585at4751	U3 small nucleolar ribonucleoprotein IMP4
+321728at4751	Complete	jgi|Phlfa1|777072|fgenesh1_pm.9_#_13	295.5	197	https://www.orthodb.org/v10?query=321728at4751	GPI-anchor transamidase
+322254at4751	Complete	jgi|Phlfa1|332525|CE332296_3666	102.4	196	https://www.orthodb.org/v10?query=322254at4751	Histone acetyltransferase type B catalytic subunit
+322267at4751	Complete	jgi|Phlfa1|766114|fgenesh1_kg.50_#_215_#_TRINITY_DN9622_c0_g1_i1	111.0	139	https://www.orthodb.org/v10?query=322267at4751	ubiquitin carboxyl-terminal hydrolase
+323327at4751	Complete	jgi|Phlfa1|764750|fgenesh1_kg.46_#_227_#_TRINITY_DN73_c1_g1_i3	125.7	198	https://www.orthodb.org/v10?query=323327at4751	Translation initiation factor eIF-2B subunit alpha
+324442at4751	Complete	jgi|Phlfa1|852341|estExt_Genemark1.C_270151	99.0	76	https://www.orthodb.org/v10?query=324442at4751	Cell division control protein 73, C-terminal
+325992at4751	Missing
+326512at4751	Missing
+326649at4751	Complete	jgi|Phlfa1|459759|CE459530_31187	475.3	415	https://www.orthodb.org/v10?query=326649at4751	Phosphoacetylglucosamine mutase
+327672at4751	Complete	jgi|Phlfa1|67608|CE67379_3859	141.2	221	https://www.orthodb.org/v10?query=327672at4751	CDK-activating kinase assembly factor MAT1
+327748at4751	Complete	jgi|Phlfa1|778563|fgenesh1_pm.40_#_19	226.3	280	https://www.orthodb.org/v10?query=327748at4751	Zinc finger, RING/FYVE/PHD-type
+327884at4751	Complete	jgi|Phlfa1|306030|CE305801_179765	349.4	238	https://www.orthodb.org/v10?query=327884at4751	60S acidic ribosomal protein P0
+329067at4751	Complete	jgi|Phlfa1|688341|e_gw1.25.140.1	241.6	277	https://www.orthodb.org/v10?query=329067at4751	Anaphase-promoting complex subunit 2
+330533at4751	Missing
+330551at4751	Missing
+330629at4751	Complete	jgi|Phlfa1|191042|CE190813_19069	247.8	176	https://www.orthodb.org/v10?query=330629at4751	Proteasome subunit beta type
+330815at4751	Complete	jgi|Phlfa1|440461|CE440232_11931	294.3	237	https://www.orthodb.org/v10?query=330815at4751	Translation initiation factor 2, alpha subunit
+330949at4751	Missing
+331022at4751	Duplicated	jgi|Phlfa1|147608|CE147379_4244	116.5	127	https://www.orthodb.org/v10?query=331022at4751	P-loop containing nucleoside triphosphate hydrolase protein
+331022at4751	Duplicated	jgi|Phlfa1|796856|gm1.6174_g	116.5	127	https://www.orthodb.org/v10?query=331022at4751	P-loop containing nucleoside triphosphate hydrolase protein
+331763at4751	Complete	jgi|Phlfa1|738237|fgenesh1_kg.6_#_1024_#_TRINITY_DN2547_c0_g1_i1	379.1	199	https://www.orthodb.org/v10?query=331763at4751	Ribosomal protein S5
+332006at4751	Complete	jgi|Phlfa1|667998|gw1.23.89.1	280.3	221	https://www.orthodb.org/v10?query=332006at4751	SURF1-like protein
+332036at4751	Missing
+332416at4751	Complete	jgi|Phlfa1|752570|fgenesh1_kg.22_#_574_#_TRINITY_DN3593_c0_g2_i1	190.4	158	https://www.orthodb.org/v10?query=332416at4751	P-loop containing nucleoside triphosphate hydrolase protein
+332876at4751	Complete	jgi|Phlfa1|8337|CE8108_6461	341.1	406	https://www.orthodb.org/v10?query=332876at4751	WD40/YVTN repeat-like-containing domain superfamily
+332891at4751	Complete	jgi|Phlfa1|751141|fgenesh1_kg.20_#_670_#_TRINITY_DN3726_c0_g1_i1	383.0	328	https://www.orthodb.org/v10?query=332891at4751	Glycerol
+334424at4751	Complete	jgi|Phlfa1|444823|CE444594_2563	247.6	166	https://www.orthodb.org/v10?query=334424at4751	rRNA adenine N(6)-methyltransferase
+335237at4751	Complete	jgi|Phlfa1|727080|fgenesh1_pg.42_#_54	280.2	227	https://www.orthodb.org/v10?query=335237at4751	P-loop containing nucleoside triphosphate hydrolase protein
+335719at4751	Complete	jgi|Phlfa1|155889|CE155660_20603	353.9	238	https://www.orthodb.org/v10?query=335719at4751	mitochondrial carrier
+336181at4751	Complete	jgi|Phlfa1|778557|fgenesh1_pm.40_#_13	221.6	242	https://www.orthodb.org/v10?query=336181at4751	Adenosine kinase
+336187at4751	Complete	jgi|Phlfa1|423904|CE423675_2963	65.0	153	https://www.orthodb.org/v10?query=336187at4751	Ubiquitin-conjugating enzyme/RWD-like protein
+337150at4751	Complete	jgi|Phlfa1|682448|e_gw1.5.140.1	524.1	589	https://www.orthodb.org/v10?query=337150at4751	Exocyst complex component Sec10
+337917at4751	Complete	jgi|Phlfa1|741346|fgenesh1_kg.9_#_419_#_TRINITY_DN23855_c0_g1_i1	150.7	175	https://www.orthodb.org/v10?query=337917at4751	ribosomal protein S15
+338301at4751	Missing
+338808at4751	Complete	jgi|Phlfa1|369611|CE369382_7393	355.5	252	https://www.orthodb.org/v10?query=338808at4751	Golgi phosphoprotein 3-like
+339525at4751	Complete	jgi|Phlfa1|747657|fgenesh1_kg.16_#_560_#_TRINITY_DN384_c4_g1_i6	229.7	243	https://www.orthodb.org/v10?query=339525at4751	Aminomethyltransferase
+342642at4751	Complete	jgi|Phlfa1|777213|fgenesh1_pm.10_#_31	195.7	283	https://www.orthodb.org/v10?query=342642at4751	Dihydroorotase
+343196at4751	Complete	jgi|Phlfa1|751267|fgenesh1_kg.20_#_796_#_TRINITY_DN7681_c0_g1_i1	209.1	220	https://www.orthodb.org/v10?query=343196at4751	Ubiquitin-activating enzyme
+343603at4751	Complete	jgi|Phlfa1|727057|fgenesh1_pg.42_#_31	246.7	259	https://www.orthodb.org/v10?query=343603at4751	Very-long-chain 3-oxoacyl-CoA reductase
+343623at4751	Missing
+343717at4751	Missing
+344553at4751	Complete	jgi|Phlfa1|679696|e_gw1.1.367.1	151.2	131	https://www.orthodb.org/v10?query=344553at4751	Ubiquitin fusion degradation protein 1
+345661at4751	Complete	jgi|Phlfa1|711855|estExt_Genewise1Plus.C_170238	74.4	54	https://www.orthodb.org/v10?query=345661at4751	tRNA-splicing endonuclease subunit Sen2
+348020at4751	Complete	jgi|Phlfa1|737099|fgenesh1_kg.5_#_1069_#_TRINITY_DN6080_c0_g1_i1	69.2	135	https://www.orthodb.org/v10?query=348020at4751	Formyl transferase, N-terminal
+348111at4751	Complete	jgi|Phlfa1|855434|estExt_Genemark1.C_720019	308.4	251	https://www.orthodb.org/v10?query=348111at4751	Ribosomal protein L2
+349264at4751	Complete	jgi|Phlfa1|12465|CE12236_17679	274.8	173	https://www.orthodb.org/v10?query=349264at4751	Proteasome subunit beta type
+350840at4751	Complete	jgi|Phlfa1|51477|CE51248_7707	105.0	119	https://www.orthodb.org/v10?query=350840at4751	Isopentenyl-diphosphate delta-isomerase
+351351at4751	Complete	jgi|Phlfa1|159686|CE159457_2789	370.5	397	https://www.orthodb.org/v10?query=351351at4751	Mannosyltransferase
+351482at4751	Complete	jgi|Phlfa1|383527|CE383298_21661	450.2	242	https://www.orthodb.org/v10?query=351482at4751	Prohibitin-2
+351646at4751	Missing
+351651at4751	Complete	jgi|Phlfa1|684986|e_gw1.12.144.1	257.4	264	https://www.orthodb.org/v10?query=351651at4751	Chitobiosyldiphosphodolichol beta-mannosyltransferase
+351849at4751	Missing
+351858at4751	Complete	jgi|Phlfa1|756107|fgenesh1_kg.28_#_132_#_TRINITY_DN1532_c0_g1_i4	327.6	203	https://www.orthodb.org/v10?query=351858at4751	Eukaryotic translation initiation factor 6
+351906at4751	Fragmented	jgi|Phlfa1|688608|e_gw1.27.201.1	140.9	125	https://www.orthodb.org/v10?query=351906at4751	ribosomal protein L15
+352224at4751	Missing
+352999at4751	Complete	jgi|Phlfa1|81840|CE81611_9980	311.5	154	https://www.orthodb.org/v10?query=352999at4751	Small GTPase superfamily
+353685at4751	Complete	jgi|Phlfa1|328451|CE328222_9982	194.1	180	https://www.orthodb.org/v10?query=353685at4751	ER membrane protein complex subunit 3
+353762at4751	Complete	jgi|Phlfa1|82199|CE81970_18740	406.7	272	https://www.orthodb.org/v10?query=353762at4751	Chitin synthase export chaperone
+353991at4751	Complete	jgi|Phlfa1|776172|fgenesh1_pm.1_#_57	366.4	289	https://www.orthodb.org/v10?query=353991at4751	DnaJ domain
+354679at4751	Complete	jgi|Phlfa1|268140|CE267911_4931	438.4	248	https://www.orthodb.org/v10?query=354679at4751	Cell differentiation protein rcd1
+354739at4751	Missing
+354778at4751	Complete	jgi|Phlfa1|759500|fgenesh1_kg.33_#_386_#_TRINITY_DN6559_c1_g1_i2	377.2	297	https://www.orthodb.org/v10?query=354778at4751	Diphosphomevalonate decarboxylase
+354913at4751	Complete	jgi|Phlfa1|727875|fgenesh1_pg.50_#_30	217.5	193	https://www.orthodb.org/v10?query=354913at4751	von Willebrand factor A-like domain superfamily
+355454at4751	Complete	jgi|Phlfa1|454744|CE454515_17377	255.5	301	https://www.orthodb.org/v10?query=355454at4751	Iron hydrogenase
+355525at4751	Complete	jgi|Phlfa1|781754|estExt_fgenesh1_pg.C_100032	316.3	314	https://www.orthodb.org/v10?query=355525at4751	Leucine-rich repeat
+355781at4751	Complete	jgi|Phlfa1|688057|e_gw1.24.159.1	105.9	138	https://www.orthodb.org/v10?query=355781at4751	GTP cyclohydrolase 1 type 2/Nif3
+356079at4751	Complete	jgi|Phlfa1|686820|e_gw1.18.163.1	136.8	200	https://www.orthodb.org/v10?query=356079at4751	DNA glycosylase
+356691at4751	Complete	jgi|Phlfa1|778329|fgenesh1_pm.32_#_8	258.4	242	https://www.orthodb.org/v10?query=356691at4751	Peroxisome biogenesis factor 1
+356743at4751	Complete	jgi|Phlfa1|737281|fgenesh1_kg.6_#_68_#_TRINITY_DN146_c2_g1_i1	303.0	174	https://www.orthodb.org/v10?query=356743at4751	Ribosomal protein
+357182at4751	Fragmented	jgi|Phlfa1|487809|CE487580_3226	196.2	208	https://www.orthodb.org/v10?query=357182at4751	DNA primase large subunit
+357584at4751	Complete	jgi|Phlfa1|690847|e_gw1.38.130.1	155.3	169	https://www.orthodb.org/v10?query=357584at4751	Metal-dependent protein hydrolase
+358012at4751	Complete	jgi|Phlfa1|746515|fgenesh1_kg.15_#_139_#_TRINITY_DN7862_c1_g1_i1	205.9	204	https://www.orthodb.org/v10?query=358012at4751	Eukaryotic translation initiation factor 3 subunit G
+358118at4751	Complete	jgi|Phlfa1|712354|estExt_Genewise1Plus.C_190212	448.1	299	https://www.orthodb.org/v10?query=358118at4751	Splicing factor 3B subunit 2
+359271at4751	Complete	jgi|Phlfa1|839631|MIX33774_9793_68	359.2	314	https://www.orthodb.org/v10?query=359271at4751	Membrane protein TMS1
+359482at4751	Complete	jgi|Phlfa1|752083|fgenesh1_kg.22_#_87_#_TRINITY_DN1547_c0_g1_i1	156.2	120	https://www.orthodb.org/v10?query=359482at4751	vesicle transporter SEC22
+359627at4751	Complete	jgi|Phlfa1|795160|gm1.4478_g	184.4	166	https://www.orthodb.org/v10?query=359627at4751	Trafficking protein particle complex subunit
+360800at4751	Complete	jgi|Phlfa1|586941|CE586712_11035	26.5	183	https://www.orthodb.org/v10?query=360800at4751	plus-3-domain-containing protein
+361877at4751	Complete	jgi|Phlfa1|793567|gm1.2885_g	84.3	168	https://www.orthodb.org/v10?query=361877at4751	Scavenger mRNA decapping enzyme
+362218at4751	Complete	jgi|Phlfa1|680641|e_gw1.2.179.1	172.1	183	https://www.orthodb.org/v10?query=362218at4751	Nop domain
+362250at4751	Complete	jgi|Phlfa1|793176|gm1.2494_g	184.0	197	https://www.orthodb.org/v10?query=362250at4751	Bax inhibitor 1-related
+362322at4751	Complete	jgi|Phlfa1|681363|e_gw1.3.324.1	90.5	97	https://www.orthodb.org/v10?query=362322at4751	RNA cap guanine-N2 methyltransferase
+362601at4751	Complete	jgi|Phlfa1|702083|estExt_Genewise1.C_280216	241.8	427	https://www.orthodb.org/v10?query=362601at4751	Oxoglutarate/iron-dependent dioxygenase
+363593at4751	Complete	jgi|Phlfa1|740876|fgenesh1_kg.8_#_1316_#_TRINITY_DN683_c1_g1_i1	304.7	225	https://www.orthodb.org/v10?query=363593at4751	Pre-mRNA-splicing factor CWC2
+364123at4751	Missing
+364284at4751	Complete	jgi|Phlfa1|801681|gm1.10999_g	310.4	349	https://www.orthodb.org/v10?query=364284at4751	Amidase
+365270at4751	Complete	jgi|Phlfa1|595920|CE595691_4643	213.2	260	https://www.orthodb.org/v10?query=365270at4751	Cyclin-like protein
+366595at4751	Complete	jgi|Phlfa1|777062|fgenesh1_pm.9_#_3	184.9	167	https://www.orthodb.org/v10?query=366595at4751	Dolichol-phosphate mannosyltransferase
+366597at4751	Missing
+366635at4751	Complete	jgi|Phlfa1|788874|estExt_fgenesh1_pm.C_80107	214.4	195	https://www.orthodb.org/v10?query=366635at4751	Matrin/U1-C-like, C2H2-type zinc finger
+367778at4751	Complete	jgi|Phlfa1|776612|fgenesh1_pm.4_#_91	315.2	193	https://www.orthodb.org/v10?query=367778at4751	Acetolactate synthase
+368706at4751	Complete	jgi|Phlfa1|737272|fgenesh1_kg.6_#_59_#_TRINITY_DN4050_c0_g1_i1	257.8	186	https://www.orthodb.org/v10?query=368706at4751	Proteasome subunit beta
+369435at4751	Complete	jgi|Phlfa1|684970|e_gw1.12.166.1	168.8	179	https://www.orthodb.org/v10?query=369435at4751	Triosephosphate isomerase
+370505at4751	Complete	jgi|Phlfa1|695363|estExt_Genewise1.C_3_t10042	401.1	287	https://www.orthodb.org/v10?query=370505at4751	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+370952at4751	Complete	jgi|Phlfa1|341600|CE341371_66478	339.6	185	https://www.orthodb.org/v10?query=370952at4751	Ribosomal protein S3
+371481at4751	Complete	jgi|Phlfa1|62386|CE62157_4963	182.7	158	https://www.orthodb.org/v10?query=371481at4751	Ribosome maturation protein SBDS, N-terminal
+371674at4751	Complete	jgi|Phlfa1|341637|CE341408_8731	212.6	196	https://www.orthodb.org/v10?query=371674at4751	UPF0103-domain-containing protein
+371862at4751	Complete	jgi|Phlfa1|720514|fgenesh1_pg.7_#_220	297.3	165	https://www.orthodb.org/v10?query=371862at4751	Septum-promoting GTP-binding protein 1
+372381at4751	Fragmented	jgi|Phlfa1|849799|estExt_Genemark1.C_120053	172.6	211	https://www.orthodb.org/v10?query=372381at4751	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1
+372510at4751	Complete	jgi|Phlfa1|769249|fgenesh1_kg.63_#_116_#_TRINITY_DN1931_c0_g1_i6	182.3	194	https://www.orthodb.org/v10?query=372510at4751	transcription factor Tfb4
+372972at4751	Complete	jgi|Phlfa1|416144|CE415915_3111	121.9	110	https://www.orthodb.org/v10?query=372972at4751	tRNA (guanine-N(7)-)-methyltransferase
+374350at4751	Complete	jgi|Phlfa1|745232|fgenesh1_kg.13_#_744_#_TRINITY_DN799_c3_g1_i5	212.5	184	https://www.orthodb.org/v10?query=374350at4751	phosphatidylserine decarboxylase
+374548at4751	Duplicated	jgi|Phlfa1|111702|CE111473_3838	110.8	147	https://www.orthodb.org/v10?query=374548at4751	SGS domain
+374548at4751	Duplicated	jgi|Phlfa1|778901|fgenesh1_pm.55_#_11	104.5	176	https://www.orthodb.org/v10?query=374548at4751	SGS domain
+376255at4751	Complete	jgi|Phlfa1|277521|CE277292_3654	200.4	190	https://www.orthodb.org/v10?query=376255at4751	Transcription elongation factor S-II
+376442at4751	Complete	jgi|Phlfa1|785162|estExt_fgenesh1_pg.C_310133	154.6	292	https://www.orthodb.org/v10?query=376442at4751	Vps52
+376539at4751	Missing
+376586at4751	Complete	jgi|Phlfa1|687647|e_gw1.22.292.1	204.8	174	https://www.orthodb.org/v10?query=376586at4751	Deoxycytidylate deaminase
+377787at4751	Complete	jgi|Phlfa1|687338|e_gw1.21.128.1	278.5	160	https://www.orthodb.org/v10?query=377787at4751	Ribosomal protein S7 domain
+378256at4751	Missing
+378281at4751	Complete	jgi|Phlfa1|145104|CE144875_7571	143.6	179	https://www.orthodb.org/v10?query=378281at4751	Ribosomal protein L3
+378295at4751	Complete	jgi|Phlfa1|718187|fgenesh1_pg.1_#_223	102.0	178	https://www.orthodb.org/v10?query=378295at4751	Exosome complex component RRP43
+378376at4751	Missing
+378430at4751	Complete	jgi|Phlfa1|465061|CE464832_5650	304.4	250	https://www.orthodb.org/v10?query=378430at4751	Serine/threonine-protein kinase RIO1
+378436at4751	Complete	jgi|Phlfa1|82555|CE82326_10692	58.2	313	https://www.orthodb.org/v10?query=378436at4751	Signal recognition particle subunit SRP68
+379525at4751	Complete	jgi|Phlfa1|408670|CE408441_8313	117.1	121	https://www.orthodb.org/v10?query=379525at4751	coatomer zeta subunit
+382001at4751	Complete	jgi|Phlfa1|778507|fgenesh1_pm.38_#_34	224.1	190	https://www.orthodb.org/v10?query=382001at4751	syntaxin 5
+383007at4751	Complete	jgi|Phlfa1|792923|gm1.2241_g	177.7	300	https://www.orthodb.org/v10?query=383007at4751	Transcription initiation factor IIE subunit alpha
+384156at4751	Complete	jgi|Phlfa1|241166|CE240937_47449	156.2	181	https://www.orthodb.org/v10?query=384156at4751	ATP synthase subunit gamma
+384315at4751	Complete	jgi|Phlfa1|750384|fgenesh1_kg.19_#_661_#_TRINITY_DN657_c0_g2_i4	192.7	146	https://www.orthodb.org/v10?query=384315at4751	Proteasome subunit beta type
+385139at4751	Complete	jgi|Phlfa1|734492|fgenesh1_kg.3_#_1415_#_TRINITY_DN125_c2_g1_i2	249.6	172	https://www.orthodb.org/v10?query=385139at4751	Proteasome subunit beta type
+385343at4751	Complete	jgi|Phlfa1|179748|CE179519_3577	207.6	195	https://www.orthodb.org/v10?query=385343at4751	GTP cyclohydrolase II
+385564at4751	Complete	jgi|Phlfa1|776629|fgenesh1_pm.4_#_108	244.3	199	https://www.orthodb.org/v10?query=385564at4751	WD40-repeat-containing domain
+385971at4751	Complete	jgi|Phlfa1|802169|gm1.11487_g	90.8	88	https://www.orthodb.org/v10?query=385971at4751	Ribonuclease
+386220at4751	Complete	jgi|Phlfa1|777353|fgenesh1_pm.13_#_14	200.9	151	https://www.orthodb.org/v10?query=386220at4751	Pre-rRNA-processing protein PNO1
+386245at4751	Complete	jgi|Phlfa1|757664|fgenesh1_kg.30_#_359_#_TRINITY_DN5825_c1_g3_i1	74.5	165	https://www.orthodb.org/v10?query=386245at4751	Origin recognition complex subunit 2
+387347at4751	Complete	jgi|Phlfa1|101372|CE101143_2568	116.8	111	https://www.orthodb.org/v10?query=387347at4751	Exosome complex component CSL4
+387759at4751	Complete	jgi|Phlfa1|752200|fgenesh1_kg.22_#_204_#_TRINITY_DN2082_c0_g1_i2	170.5	148	https://www.orthodb.org/v10?query=387759at4751	Mitochondrial inner membrane protease ATP23
+388229at4751	Complete	jgi|Phlfa1|739965|fgenesh1_kg.8_#_405_#_TRINITY_DN913_c0_g2_i2	172.2	139	https://www.orthodb.org/v10?query=388229at4751	RNA polymerase, Rpb5, N-terminal
+389034at4751	Complete	jgi|Phlfa1|766912|fgenesh1_kg.53_#_56_#_TRINITY_DN1048_c0_g1_i7	310.5	180	https://www.orthodb.org/v10?query=389034at4751	rRNA 2'-O-methyltransferase fibrillarin
+389547at4751	Complete	jgi|Phlfa1|749640|fgenesh1_kg.18_#_696_#_TRINITY_DN5957_c0_g1_i1	136.6	142	https://www.orthodb.org/v10?query=389547at4751	Pre-mRNA-splicing factor slt11
+389565at4751	Complete	jgi|Phlfa1|136298|CE136069_25515	417.8	228	https://www.orthodb.org/v10?query=389565at4751	Cytochrome c-like domain
+390518at4751	Complete	jgi|Phlfa1|779055|fgenesh1_pm.85_#_3	292.7	244	https://www.orthodb.org/v10?query=390518at4751	26S proteasome regulatory subunit rpn-8
+391384at4751	Fragmented	jgi|Phlfa1|791606|gm1.924_g	138.2	138	https://www.orthodb.org/v10?query=391384at4751	Exosome complex component RRP4
+392558at4751	Complete	jgi|Phlfa1|741354|fgenesh1_kg.9_#_427_#_TRINITY_DN2821_c0_g1_i5	83.0	97	https://www.orthodb.org/v10?query=392558at4751	ESCRT-II complex, vps25 subunit
+393440at4751	Complete	jgi|Phlfa1|750274|fgenesh1_kg.19_#_551_#_TRINITY_DN2554_c0_g1_i19	78.9	106	https://www.orthodb.org/v10?query=393440at4751	K Homology domain, type 1
+393996at4751	Complete	jgi|Phlfa1|604565|CE604336_44382	262.6	144	https://www.orthodb.org/v10?query=393996at4751	Ribosomal protein L5
+396097at4751	Complete	jgi|Phlfa1|685427|e_gw1.13.45.1	347.5	312	https://www.orthodb.org/v10?query=396097at4751	AVL9/DENND6 domain
+396330at4751	Complete	jgi|Phlfa1|516090|CE515861_6727	202.2	167	https://www.orthodb.org/v10?query=396330at4751	UPF0016-domain-containing protein
+396842at4751	Complete	jgi|Phlfa1|736718|fgenesh1_kg.5_#_688_#_TRINITY_DN916_c0_g1_i4	243.2	208	https://www.orthodb.org/v10?query=396842at4751	18S rRNA (Guanine(1575)-N(7))-methyltransferase
+397465at4751	Complete	jgi|Phlfa1|745016|fgenesh1_kg.13_#_528_#_TRINITY_DN4403_c0_g1_i1	124.4	119	https://www.orthodb.org/v10?query=397465at4751	Vacuolar protein sorting-associated protein 28
+398519at4751	Complete	jgi|Phlfa1|759809|fgenesh1_kg.34_#_186_#_TRINITY_DN10599_c0_g1_i1	110.6	165	https://www.orthodb.org/v10?query=398519at4751	chromatin associated protein KTI12
+398592at4751	Complete	jgi|Phlfa1|721410|fgenesh1_pg.10_#_153	177.8	430	https://www.orthodb.org/v10?query=398592at4751	NUC153
+398882at4751	Complete	jgi|Phlfa1|695677|estExt_Genewise1.C_3_t10404	231.3	142	https://www.orthodb.org/v10?query=398882at4751	Ubiquitin-conjugating enzyme E2 8
+398968at4751	Complete	jgi|Phlfa1|737003|fgenesh1_kg.5_#_973_#_TRINITY_DN1703_c1_g1_i2	103.4	80	https://www.orthodb.org/v10?query=398968at4751	Trafficking protein particle complex subunit BET3
+399376at4751	Complete	jgi|Phlfa1|819851|MIX13994_1240_45	95.0	110	https://www.orthodb.org/v10?query=399376at4751	Ribosome biogenesis protein BRX1
+399413at4751	Complete	jgi|Phlfa1|778305|fgenesh1_pm.31_#_33	156.8	148	https://www.orthodb.org/v10?query=399413at4751	riboflavin synthase, alpha subunit
+399810at4751	Complete	jgi|Phlfa1|35560|CE35331_4126	115.3	112	https://www.orthodb.org/v10?query=399810at4751	GOLD domain
+401387at4751	Complete	jgi|Phlfa1|854029|estExt_Genemark1.C_420086	204.8	192	https://www.orthodb.org/v10?query=401387at4751	phosphopantothenate-cysteine ligase
+402005at4751	Complete	jgi|Phlfa1|771356|fgenesh1_kg.85_#_7_#_TRINITY_DN2145_c1_g1_i3	126.9	96	https://www.orthodb.org/v10?query=402005at4751	Protein RER1
+402255at4751	Complete	jgi|Phlfa1|457142|CE456913_12461	256.2	208	https://www.orthodb.org/v10?query=402255at4751	F-actin capping protein beta subunit
+403079at4751	Complete	jgi|Phlfa1|732660|fgenesh1_kg.2_#_1006_#_TRINITY_DN1258_c0_g1_i2	327.9	197	https://www.orthodb.org/v10?query=403079at4751	Vacuolar ATP synthase subunit D
+404050at4751	Complete	jgi|Phlfa1|719613|fgenesh1_pg.5_#_24	242.9	293	https://www.orthodb.org/v10?query=404050at4751	DNA polymerase alpha/epsilon, subunit B
+405669at4751	Complete	jgi|Phlfa1|763068|fgenesh1_kg.41_#_286_#_TRINITY_DN7481_c0_g2_i2	167.4	271	https://www.orthodb.org/v10?query=405669at4751	Leucine-rich repeat
+405898at4751	Complete	jgi|Phlfa1|707611|estExt_Genewise1Plus.C_3_t10429	327.8	366	https://www.orthodb.org/v10?query=405898at4751	U4/U6 small nuclear ribonucleoprotein Prp3
+406240at4751	Complete	jgi|Phlfa1|742342|fgenesh1_kg.10_#_365_#_TRINITY_DN8286_c0_g2_i1	125.5	116	https://www.orthodb.org/v10?query=406240at4751	RNA polymerase Rpb7-like, N-terminal domain superfamily
+406403at4751	Complete	jgi|Phlfa1|792270|gm1.1588_g	136.6	153	https://www.orthodb.org/v10?query=406403at4751	septum formation protein Maf
+406434at4751	Fragmented	jgi|Phlfa1|726327|fgenesh1_pg.36_#_37	56.6	60	https://www.orthodb.org/v10?query=406434at4751	EB1, C-terminal
+406793at4751	Complete	jgi|Phlfa1|744808|fgenesh1_kg.13_#_320_#_TRINITY_DN4080_c1_g1_i3	126.9	59	https://www.orthodb.org/v10?query=406793at4751	40S ribosomal protein S11
+407348at4751	Missing
+408391at4751	Complete	jgi|Phlfa1|348112|CE347883_6369	123.3	121	https://www.orthodb.org/v10?query=408391at4751	Translocation protein sec66
+408419at4751	Complete	jgi|Phlfa1|540832|CE540603_4529	74.5	58	https://www.orthodb.org/v10?query=408419at4751	Winged helix-like DNA-binding domain superfamily
+409761at4751	Complete	jgi|Phlfa1|746462|fgenesh1_kg.15_#_86_#_TRINITY_DN4731_c0_g4_i1	59.4	200	https://www.orthodb.org/v10?query=409761at4751	Coatomer subunit epsilon
+410458at4751	Complete	jgi|Phlfa1|783806|estExt_fgenesh1_pg.C_220044	150.9	153	https://www.orthodb.org/v10?query=410458at4751	RNA-binding S4 domain
+410782at4751	Complete	jgi|Phlfa1|767237|fgenesh1_kg.54_#_101_#_TRINITY_DN706_c20_g1_i1	207.4	231	https://www.orthodb.org/v10?query=410782at4751	ATP-dependent (S)-NAD(P)H-hydrate dehydratase
+410986at4751	Complete	jgi|Phlfa1|730464|fgenesh1_kg.1_#_329_#_TRINITY_DN831_c1_g1_i4	220.6	180	https://www.orthodb.org/v10?query=410986at4751	PIN domain
+410991at4751	Complete	jgi|Phlfa1|720661|fgenesh1_pg.8_#_52	132.5	119	https://www.orthodb.org/v10?query=410991at4751	Translationally controlled tumour protein
+411130at4751	Complete	jgi|Phlfa1|791575|gm1.893_g	208.7	148	https://www.orthodb.org/v10?query=411130at4751	Snf7 family
+411471at4751	Complete	jgi|Phlfa1|784302|estExt_fgenesh1_pg.C_250094	235.6	273	https://www.orthodb.org/v10?query=411471at4751	phosphatidylinositol glycan, class U
+411518at4751	Complete	jgi|Phlfa1|786025|estExt_fgenesh1_pg.C_400081	32.5	270	https://www.orthodb.org/v10?query=411518at4751	Low-temperature viability protein ltv1
+411677at4751	Complete	jgi|Phlfa1|730329|fgenesh1_kg.1_#_194_#_TRINITY_DN2337_c0_g2_i2	94.5	94	https://www.orthodb.org/v10?query=411677at4751	Rho GDP-dissociation inhibitor
+411754at4751	Complete	jgi|Phlfa1|688308|e_gw1.25.52.1	259.1	169	https://www.orthodb.org/v10?query=411754at4751	Splicing factor U2AF 23 kDa subunit
+411919at4751	Complete	jgi|Phlfa1|297200|CE296971_12867	141.5	159	https://www.orthodb.org/v10?query=411919at4751	Endoplasmic reticulum vesicle transporter, C-terminal
+412006at4751	Complete	jgi|Phlfa1|231836|CE231607_4728	170.5	127	https://www.orthodb.org/v10?query=412006at4751	60S ribosome subunit biogenesis protein NIP7
+413850at4751	Complete	jgi|Phlfa1|794268|gm1.3586_g	115.6	150	https://www.orthodb.org/v10?query=413850at4751	mitochondrial glyco protein
+414474at4751	Complete	jgi|Phlfa1|687762|e_gw1.23.245.1	151.6	189	https://www.orthodb.org/v10?query=414474at4751	Golgi SNAP receptor complex member 1
+414508at4751	Complete	jgi|Phlfa1|714816|estExt_Genewise1Plus.C_330170	97.6	124	https://www.orthodb.org/v10?query=414508at4751	Ubiquinone biosynthesis protein COQ4, mitochondrial
+416039at4751	Complete	jgi|Phlfa1|430502|CE430273_5278	113.3	120	https://www.orthodb.org/v10?query=416039at4751	Presequence translocated-associated motor subunit pam17
+416914at4751	Complete	jgi|Phlfa1|738012|fgenesh1_kg.6_#_799_#_TRINITY_DN459_c1_g1_i3	311.6	341	https://www.orthodb.org/v10?query=416914at4751	XPC-binding domain
+417109at4751	Missing
+417470at4751	Complete	jgi|Phlfa1|759947|fgenesh1_kg.34_#_324_#_TRINITY_DN4518_c0_g1_i2	197.2	322	https://www.orthodb.org/v10?query=417470at4751	Exocyst complex component EXO84
+417746at4751	Complete	jgi|Phlfa1|683778|e_gw1.8.277.1	261.1	239	https://www.orthodb.org/v10?query=417746at4751	Zinc finger, CCCH-type
+418242at4751	Complete	jgi|Phlfa1|736807|fgenesh1_kg.5_#_777_#_TRINITY_DN297_c0_g3_i1	107.7	145	https://www.orthodb.org/v10?query=418242at4751	Chorismate mutase
+418644at4751	Complete	jgi|Phlfa1|793439|gm1.2757_g	247.8	313	https://www.orthodb.org/v10?query=418644at4751	NEDD8-activating enzyme E1 regulatory subunit
+418680at4751	Missing
+419048at4751	Complete	jgi|Phlfa1|697131|estExt_Genewise1.C_70095	133.2	124	https://www.orthodb.org/v10?query=419048at4751	Synaptobrevin
+419200at4751	Complete	jgi|Phlfa1|734638|fgenesh1_kg.4_#_48_#_TRINITY_DN4478_c0_g1_i1	155.3	170	https://www.orthodb.org/v10?query=419200at4751	Luc7-related
+419232at4751	Complete	jgi|Phlfa1|685803|e_gw1.15.205.1	158.7	242	https://www.orthodb.org/v10?query=419232at4751	Nse4/EID family
+419667at4751	Fragmented	jgi|Phlfa1|477089|CE476860_6076	106.9	83	https://www.orthodb.org/v10?query=419667at4751	Peptidyl-prolyl cis-trans isomerase
+419868at4751	Missing
+420414at4751	Complete	jgi|Phlfa1|750955|fgenesh1_kg.20_#_484_#_TRINITY_DN7643_c0_g1_i1	88.2	131	https://www.orthodb.org/v10?query=420414at4751	GRASP55/65
+420527at4751	Complete	jgi|Phlfa1|793461|gm1.2779_g	153.7	165	https://www.orthodb.org/v10?query=420527at4751	SEP domain
+421097at4751	Complete	jgi|Phlfa1|739923|fgenesh1_kg.8_#_363_#_TRINITY_DN26_c2_g1_i2	133.6	122	https://www.orthodb.org/v10?query=421097at4751	Acyl-CoA N-acyltransferase
+421687at4751	Missing
+422151at4751	Complete	jgi|Phlfa1|4559|CE4330_7288	209.7	131	https://www.orthodb.org/v10?query=422151at4751	Ubiquitin-conjugating enzyme E2 2
+422622at4751	Complete	jgi|Phlfa1|737299|fgenesh1_kg.6_#_86_#_TRINITY_DN1158_c0_g1_i1	136.1	127	https://www.orthodb.org/v10?query=422622at4751	prefoldin, alpha subunit
+422764at4751	Complete	jgi|Phlfa1|739002|fgenesh1_kg.7_#_664_#_TRINITY_DN5942_c0_g3_i2	254.5	287	https://www.orthodb.org/v10?query=422764at4751	tRNA-splicing endonuclease, subunit Sen54
+423166at4751	Complete	jgi|Phlfa1|708664|estExt_Genewise1Plus.C_60086	134.8	77	https://www.orthodb.org/v10?query=423166at4751	Ribosomal protein L14P
+423206at4751	Complete	jgi|Phlfa1|680330|e_gw1.2.174.1	93.5	60	https://www.orthodb.org/v10?query=423206at4751	Nuclear cap-binding protein subunit 2
+427250at4751	Missing
+428342at4751	Complete	jgi|Phlfa1|764174|fgenesh1_kg.45_#_26_#_TRINITY_DN2937_c3_g1_i2	191.8	120	https://www.orthodb.org/v10?query=428342at4751	Ribosomal protein S19
+428569at4751	Complete	jgi|Phlfa1|722027|fgenesh1_pg.13_#_46	151.5	149	https://www.orthodb.org/v10?query=428569at4751	Vacuolar protein sorting-associated protein 29
+428774at4751	Complete	jgi|Phlfa1|732542|fgenesh1_kg.2_#_888_#_TRINITY_DN204_c4_g1_i1	215.5	169	https://www.orthodb.org/v10?query=428774at4751	Proteasome subunit beta type
+428984at4751	Complete	jgi|Phlfa1|685607|e_gw1.14.57.1	398.7	396	https://www.orthodb.org/v10?query=428984at4751	BRCT domain
+429332at4751	Complete	jgi|Phlfa1|797092|gm1.6410_g	92.7	121	https://www.orthodb.org/v10?query=429332at4751	RNA polymerase III, subunit Rpc25
+429862at4751	Complete	jgi|Phlfa1|730229|fgenesh1_kg.1_#_94_#_TRINITY_DN800_c0_g4_i2	38.7	72	https://www.orthodb.org/v10?query=429862at4751	Microsomal signal peptidase 25 kDa subunit
+430556at4751	Fragmented	jgi|Phlfa1|563344|CE563115_7832	137.8	268	https://www.orthodb.org/v10?query=430556at4751	Nucleoporin NUP88/NUP82
+431195at4751	Missing
+431607at4751	Complete	jgi|Phlfa1|739485|fgenesh1_kg.7_#_1147_#_TRINITY_DN1261_c0_g3_i4	109.2	119	https://www.orthodb.org/v10?query=431607at4751	Translation machinery-associated protein 20
+432952at4751	Complete	jgi|Phlfa1|199493|CE199264_8917	107.1	144	https://www.orthodb.org/v10?query=432952at4751	Vacuolar-sorting protein SNF7
+433181at4751	Missing
+433384at4751	Complete	jgi|Phlfa1|738020|fgenesh1_kg.6_#_807_#_TRINITY_DN538_c1_g1_i2	32.9	68	https://www.orthodb.org/v10?query=433384at4751	Ran-interacting Mog1 protein
+434428at4751	Complete	jgi|Phlfa1|518629|CE518400_15659	255.9	152	https://www.orthodb.org/v10?query=434428at4751	Actin-related protein 2/3 complex subunit 4
+434500at4751	Complete	jgi|Phlfa1|764012|fgenesh1_kg.44_#_342_#_TRINITY_DN3581_c0_g1_i1	167.1	190	https://www.orthodb.org/v10?query=434500at4751	Leucine-rich repeat
+434984at4751	Complete	jgi|Phlfa1|103783|CE103554_5043	98.5	96	https://www.orthodb.org/v10?query=434984at4751	U3 small nucleolar RNA-associated protein 11
+435317at4751	Complete	jgi|Phlfa1|704005|estExt_Genewise1.C_420035	78.4	76	https://www.orthodb.org/v10?query=435317at4751	DnaJ domain
+435471at4751	Complete	jgi|Phlfa1|796528|gm1.5846_g	48.6	78	https://www.orthodb.org/v10?query=435471at4751	NAD(P)H-hydrate epimerase
+435767at4751	Complete	jgi|Phlfa1|471366|CE471137_8209	287.5	184	https://www.orthodb.org/v10?query=435767at4751	Ribosomal RNA small subunit methyltransferase NEP1
+436872at4751	Complete	jgi|Phlfa1|740732|fgenesh1_kg.8_#_1172_#_TRINITY_DN1367_c0_g2_i3	153.4	135	https://www.orthodb.org/v10?query=436872at4751	Actin-related protein 2/3 complex subunit 3
+437914at4751	Complete	jgi|Phlfa1|703452|estExt_Genewise1.C_370164	219.1	171	https://www.orthodb.org/v10?query=437914at4751	Zinc finger C2H2 superfamily
+438274at4751	Complete	jgi|Phlfa1|771043|fgenesh1_kg.80_#_28_#_TRINITY_DN46_c0_g2_i2	108.9	164	https://www.orthodb.org/v10?query=438274at4751	ERF1 methyltransferase catalytic subunit MTQ2
+438731at4751	Complete	jgi|Phlfa1|714673|estExt_Genewise1Plus.C_330009	100.0	73	https://www.orthodb.org/v10?query=438731at4751	LSM domain, eukaryotic/archaea-type
+438861at4751	Complete	jgi|Phlfa1|177340|CE177111_1197	72.2	130	https://www.orthodb.org/v10?query=438861at4751	OPI10 family
+439490at4751	Complete	jgi|Phlfa1|669266|gw1.23.119.1	116.9	110	https://www.orthodb.org/v10?query=439490at4751	GrpE nucleotide exchange factor
+440401at4751	Complete	jgi|Phlfa1|802516|gm1.11834_g	71.5	103	https://www.orthodb.org/v10?query=440401at4751	CAP Gly-rich domain
+441586at4751	Missing
+443595at4751	Complete	jgi|Phlfa1|754374|fgenesh1_kg.25_#_181_#_TRINITY_DN907_c2_g1_i5	56.5	62	https://www.orthodb.org/v10?query=443595at4751	snare-like protein
+444174at4751	Complete	jgi|Phlfa1|745021|fgenesh1_kg.13_#_533_#_TRINITY_DN5457_c0_g1_i2	69.1	56	https://www.orthodb.org/v10?query=444174at4751	Cell cycle control protein cwf14
+444399at4751	Complete	jgi|Phlfa1|705873|estExt_Genewise1.C_850003	101.3	106	https://www.orthodb.org/v10?query=444399at4751	ribosomal protein L14
+444602at4751	Complete	jgi|Phlfa1|757047|fgenesh1_kg.29_#_393_#_TRINITY_DN9246_c0_g1_i1	88.0	86	https://www.orthodb.org/v10?query=444602at4751	ER membrane protein complex subunit 4
+444892at4751	Complete	jgi|Phlfa1|756020|fgenesh1_kg.28_#_45_#_TRINITY_DN1253_c0_g1_i2	45.6	100	https://www.orthodb.org/v10?query=444892at4751	Cytoplasmic tRNA 2-thiolation protein 2
+445210at4751	Complete	jgi|Phlfa1|99830|CE99601_5848	43.7	20	https://www.orthodb.org/v10?query=445210at4751	Transcription factor IIA, alpha/beta subunit
+445401at4751	Complete	jgi|Phlfa1|794338|gm1.3656_g	238.7	158	https://www.orthodb.org/v10?query=445401at4751	V-ATPase proteolipid subunit
+445954at4751	Complete	jgi|Phlfa1|685943|e_gw1.15.168.1	108.8	56	https://www.orthodb.org/v10?query=445954at4751	DNA-directed RNA polymerase, 14-18kDa subunit, conserved site
+446124at4751	Complete	jgi|Phlfa1|748238|fgenesh1_kg.17_#_292_#_TRINITY_DN6347_c0_g1_i1	115.4	101	https://www.orthodb.org/v10?query=446124at4751	ribosomal protein L11
+447112at4751	Missing
+447424at4751	Complete	jgi|Phlfa1|776877|fgenesh1_pm.7_#_19	243.3	225	https://www.orthodb.org/v10?query=447424at4751	Yif1 family
+449717at4751	Complete	jgi|Phlfa1|596439|CE596210_11468	229.6	474	https://www.orthodb.org/v10?query=449717at4751	Protein YIP
+449803at4751	Complete	jgi|Phlfa1|793027|gm1.2345_g	144.0	176	https://www.orthodb.org/v10?query=449803at4751	Dephospho-CoA kinase
+451032at4751	Complete	jgi|Phlfa1|171057|CE170828_3477	129.6	104	https://www.orthodb.org/v10?query=451032at4751	MIP18 family-like
+451701at4751	Complete	jgi|Phlfa1|688809|e_gw1.28.182.1	149.0	188	https://www.orthodb.org/v10?query=451701at4751	Mitochondrial ATPase complex subunit ATP10
+451811at4751	Complete	jgi|Phlfa1|777201|fgenesh1_pm.10_#_19	149.0	200	https://www.orthodb.org/v10?query=451811at4751	Mitochondrial distribution and morphology protein 10
+451849at4751	Complete	jgi|Phlfa1|193715|CE193486_14143	100.6	175	https://www.orthodb.org/v10?query=451849at4751	Pre-mRNA-splicing factor SLU7
+452573at4751	Complete	jgi|Phlfa1|816798|MIX10941_4355_64	86.8	79	https://www.orthodb.org/v10?query=452573at4751	histone-fold-containing protein
+452692at4751	Complete	jgi|Phlfa1|762741|fgenesh1_kg.40_#_430_#_TRINITY_DN3030_c0_g1_i1	126.6	126	https://www.orthodb.org/v10?query=452692at4751	Protein GET1
+452759at4751	Complete	jgi|Phlfa1|776889|fgenesh1_pm.7_#_31	142.3	96	https://www.orthodb.org/v10?query=452759at4751	Translation initiation factor 1A (eIF-1A)
+452947at4751	Complete	jgi|Phlfa1|794659|gm1.3977_g	97.0	126	https://www.orthodb.org/v10?query=452947at4751	Fe-S cluster assembly protein DRE2
+453693at4751	Complete	jgi|Phlfa1|735393|fgenesh1_kg.4_#_803_#_TRINITY_DN1009_c0_g1_i3	197.9	116	https://www.orthodb.org/v10?query=453693at4751	Ribosomal protein L23/L15e core domain superfamily
+453909at4751	Duplicated	jgi|Phlfa1|139830|CE139601_1956	131.2	175	https://www.orthodb.org/v10?query=453909at4751	Histidine protein methyltransferase 1
+453909at4751	Duplicated	jgi|Phlfa1|684787|e_gw1.11.62.1	114.6	160	https://www.orthodb.org/v10?query=453909at4751	Histidine protein methyltransferase 1
+454746at4751	Complete	jgi|Phlfa1|762253|fgenesh1_kg.39_#_420_#_TRINITY_DN4019_c1_g1_i1	54.4	37	https://www.orthodb.org/v10?query=454746at4751	SNF7 family protein
+454840at4751	Complete	jgi|Phlfa1|807423|MIX1566_4117_67	172.6	187	https://www.orthodb.org/v10?query=454840at4751	Type 2A phosphatase activator TIP41
+455110at4751	Complete	jgi|Phlfa1|740530|fgenesh1_kg.8_#_970_#_TRINITY_DN5563_c1_g1_i3	92.7	63	https://www.orthodb.org/v10?query=455110at4751	Iron-sulfur cluster assembly protein
+456963at4751	Duplicated	jgi|Phlfa1|766951|fgenesh1_kg.53_#_95_#_TRINITY_DN10352_c0_g1_i3	101.2	106	https://www.orthodb.org/v10?query=456963at4751	Multiprotein-bridging factor 1
+456963at4751	Duplicated	jgi|Phlfa1|767141|fgenesh1_kg.54_#_5_#_TRINITY_DN10352_c0_g1_i3	101.2	106	https://www.orthodb.org/v10?query=456963at4751	Multiprotein-bridging factor 1
+457161at4751	Complete	jgi|Phlfa1|798409|gm1.7727_g	214.4	233	https://www.orthodb.org/v10?query=457161at4751	Zinc finger, CCCH-type
+457544at4751	Complete	jgi|Phlfa1|365777|CE365548_16805	204.0	179	https://www.orthodb.org/v10?query=457544at4751	V-type ATPase subunit E
+457951at4751	Fragmented	jgi|Phlfa1|683489|e_gw1.8.550.1	76.7	83	https://www.orthodb.org/v10?query=457951at4751	ribosomal protein L13
+458554at4751	Complete	jgi|Phlfa1|776171|fgenesh1_pm.1_#_56	76.9	107	https://www.orthodb.org/v10?query=458554at4751	Trafficking protein particle complex subunit 2
+458980at4751	Complete	jgi|Phlfa1|687139|e_gw1.20.148.1	267.4	234	https://www.orthodb.org/v10?query=458980at4751	Pre-mRNA-splicing factor 18
+459844at4751	Complete	jgi|Phlfa1|553346|CE553117_3313	157.2	121	https://www.orthodb.org/v10?query=459844at4751	Adenylate kinase isoenzyme 6 homolog
+461238at4751	Complete	jgi|Phlfa1|459643|CE459414_3235	92.1	72	https://www.orthodb.org/v10?query=461238at4751	Transcription elongation factor SPT4
+461919at4751	Complete	jgi|Phlfa1|721356|fgenesh1_pg.10_#_99	108.3	197	https://www.orthodb.org/v10?query=461919at4751	Peroxisomal biogenesis factor 2
+464711at4751	Complete	jgi|Phlfa1|747724|fgenesh1_kg.16_#_627_#_TRINITY_DN5939_c0_g1_i2	133.9	116	https://www.orthodb.org/v10?query=464711at4751	Mitochondrial import inner membrane translocase subunit TIM23
+464772at4751	Complete	jgi|Phlfa1|695885|estExt_Genewise1.C_4_t10052	276.0	207	https://www.orthodb.org/v10?query=464772at4751	DUF572-domain-containing protein
+464897at4751	Complete	jgi|Phlfa1|760655|fgenesh1_kg.36_#_76_#_TRINITY_DN2009_c2_g1_i4	66.0	78	https://www.orthodb.org/v10?query=464897at4751	RNA polymerase
+465849at4751	Fragmented	jgi|Phlfa1|129156|CE128927_5685	103.5	64	https://www.orthodb.org/v10?query=465849at4751	ribosomal protein S12
+467311at4751	Complete	jgi|Phlfa1|798204|gm1.7522_g	50.4	88	https://www.orthodb.org/v10?query=467311at4751	5-formyltetrahydrofolate cyclo-ligase
+467847at4751	Complete	jgi|Phlfa1|680338|e_gw1.2.130.1	85.7	112	https://www.orthodb.org/v10?query=467847at4751	AMMECR1
+467959at4751	Complete	jgi|Phlfa1|198909|CE198680_4451	100.6	79	https://www.orthodb.org/v10?query=467959at4751	Pre-mRNA-splicing factor ISY1
+468195at4751	Complete	jgi|Phlfa1|154597|CE154368_4228	59.8	90	https://www.orthodb.org/v10?query=468195at4751	Signal peptidase subunit 3
+468224at4751	Missing
+468408at4751	Complete	jgi|Phlfa1|693058|e_gw1.60.28.1	234.0	272	https://www.orthodb.org/v10?query=468408at4751	Vacuolar fusion protein MON1
+469452at4751	Complete	jgi|Phlfa1|837748|MIX31891_32906_63	110.0	101	https://www.orthodb.org/v10?query=469452at4751	Ribosomal protein S5 domain 2-type fold
+470813at4751	Complete	jgi|Phlfa1|207947|CE207718_13091	246.1	140	https://www.orthodb.org/v10?query=470813at4751	SUMO-conjugating enzyme ubc9
+471205at4751	Missing
+473814at4751	Complete	jgi|Phlfa1|697291|estExt_Genewise1.C_70272	100.6	93	https://www.orthodb.org/v10?query=473814at4751	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST2
+474125at4751	Complete	jgi|Phlfa1|596081|CE595852_7733	70.9	108	https://www.orthodb.org/v10?query=474125at4751	Lunapark domain
+474320at4751	Complete	jgi|Phlfa1|735529|fgenesh1_kg.4_#_939_#_TRINITY_DN2970_c0_g1_i1	70.1	72	https://www.orthodb.org/v10?query=474320at4751	H/ACA ribonucleoprotein complex subunit 2
+474374at4751	Complete	jgi|Phlfa1|735915|fgenesh1_kg.4_#_1325_#_TRINITY_DN42_c1_g2_i1	121.4	96	https://www.orthodb.org/v10?query=474374at4751	Ribosomal protein S10
+477057at4751	Complete	jgi|Phlfa1|766335|fgenesh1_kg.51_#_100_#_TRINITY_DN2184_c1_g1_i3	51.6	139	https://www.orthodb.org/v10?query=477057at4751	translation machinery-associated protein 16
+477122at4751	Complete	jgi|Phlfa1|745262|fgenesh1_kg.13_#_774_#_TRINITY_DN4212_c0_g1_i1	181.0	129	https://www.orthodb.org/v10?query=477122at4751	Mitochondrial import inner membrane translocase subunit tim22
+481052at4751	Missing
+482337at4751	Complete	jgi|Phlfa1|777071|fgenesh1_pm.9_#_12	107.3	159	https://www.orthodb.org/v10?query=482337at4751	Pre-mRNA-splicing factor CWC26
+483049at4751	Complete	jgi|Phlfa1|162732|CE162503_2701	70.7	85	https://www.orthodb.org/v10?query=483049at4751	Chromatin-remodeling complex subunit ies6
+483370at4751	Complete	jgi|Phlfa1|215002|CE214773_8815	69.2	61	https://www.orthodb.org/v10?query=483370at4751	Ribosomal protein L27
+483390at4751	Complete	jgi|Phlfa1|702476|estExt_Genewise1.C_300118	143.0	97	https://www.orthodb.org/v10?query=483390at4751	V-type proton ATPase subunit F
+484080at4751	Missing
+484323at4751	Missing
+484805at4751	Complete	jgi|Phlfa1|686531|e_gw1.18.251.1	111.4	191	https://www.orthodb.org/v10?query=484805at4751	Pre-mRNA-splicing factor syf2
+485650at4751	Complete	jgi|Phlfa1|170363|CE170134_5651	128.0	104	https://www.orthodb.org/v10?query=485650at4751	Ribosomal protein L7/L12
+485702at4751	Complete	jgi|Phlfa1|597066|CE596837_4508	186.2	176	https://www.orthodb.org/v10?query=485702at4751	translocation protein
+488348at4751	Complete	jgi|Phlfa1|777143|fgenesh1_pm.9_#_84	122.4	78	https://www.orthodb.org/v10?query=488348at4751	LSM domain, eukaryotic/archaea-type
+488426at4751	Complete	jgi|Phlfa1|326885|CE326656_10586	86.4	209	https://www.orthodb.org/v10?query=488426at4751	Pre-mRNA-splicing factor cwc15
+488857at4751	Complete	jgi|Phlfa1|699072|estExt_Genewise1.C_130152	82.1	111	https://www.orthodb.org/v10?query=488857at4751	Clathrin light chain
+490662at4751	Complete	jgi|Phlfa1|363835|CE363606_11032	59.4	31	https://www.orthodb.org/v10?query=490662at4751	Frataxin
+490719at4751	Complete	jgi|Phlfa1|178219|CE177990_2437	106.1	145	https://www.orthodb.org/v10?query=490719at4751	thioredoxin-like protein
+492591at4751	Missing
+493358at4751	Complete	jgi|Phlfa1|286251|CE286022_54470	112.9	72	https://www.orthodb.org/v10?query=493358at4751	40S ribosomal protein S26
+494427at4751	Complete	jgi|Phlfa1|852727|estExt_Genemark1.C_300097	165.2	101	https://www.orthodb.org/v10?query=494427at4751	Cytochrome c oxidase subunit 6, mitochondrial
+497024at4751	Complete	jgi|Phlfa1|119727|CE119498_6156	69.8	57	https://www.orthodb.org/v10?query=497024at4751	Zinc finger C2H2-type

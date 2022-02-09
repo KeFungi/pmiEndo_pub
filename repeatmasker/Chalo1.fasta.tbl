@@ -1,0 +1,51 @@
+==================================================
+file name: Chalo1.fasta             
+sequences:            54
+total length:   52432785 bp  (52283369 bp excl N/X-runs)
+GC level:         47.55 %
+bases masked:    1225043 bp ( 2.34 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:                0            0 bp    0.00 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       162       275178 bp    0.52 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:        26        23354 bp    0.04 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      3355       653913 bp    1.25 %
+
+Total interspersed repeats:   952445 bp    1.82 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:    5580       234209 bp    0.45 %
+Low complexity:     814        39880 bp    0.08 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Chalo1-families.fa"
+

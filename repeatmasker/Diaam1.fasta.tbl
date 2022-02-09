@@ -1,0 +1,51 @@
+==================================================
+file name: Diaam1.fasta             
+sequences:          2383
+total length:   47325858 bp  (47253431 bp excl N/X-runs)
+GC level:         53.94 %
+bases masked:    1432833 bp ( 3.03 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:                0            0 bp    0.00 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       133        52647 bp    0.11 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:         0            0 bp    0.00 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      4700       764593 bp    1.62 %
+
+Total interspersed repeats:   817240 bp    1.73 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:   14081       558971 bp    1.18 %
+Low complexity:    1201        56791 bp    0.12 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Diaam1-families.fa"
+

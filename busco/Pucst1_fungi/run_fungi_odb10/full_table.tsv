@@ -1,0 +1,770 @@
+# BUSCO version is: 4.1.1 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of species: 549, number of BUSCOs: 758)
+# Busco id	Status	Sequence	Score	Length	OrthoDB url	Description
+494at4751	Fragmented	jgi|Pucst1|502168|maker-PST130_8334-snap-gene-0.4-mRNA-1	1793.5	1464	https://www.orthodb.org/v10?query=494at4751	Midasin
+771at4751	Complete	jgi|Pucst1|496367|maker-PST130_28331-snap-gene-0.2-mRNA-1	1875.3	2215	https://www.orthodb.org/v10?query=771at4751	PIK-related kinase
+1866at4751	Complete	jgi|Pucst1|500217|snap-PST130_7550-abinit-gene-0.4-mRNA-1	3146.2	1773	https://www.orthodb.org/v10?query=1866at4751	Glutamate synthase
+3534at4751	Complete	jgi|Pucst1|500242|maker-PST130_7561-snap-gene-0.13-mRNA-1	1551.1	1368	https://www.orthodb.org/v10?query=3534at4751	SNF2-related, N-terminal domain
+4409at4751	Complete	jgi|Pucst1|493795|maker-PST130_20808-snap-gene-0.4-mRNA-1	1061.7	1649	https://www.orthodb.org/v10?query=4409at4751	Armadillo-type fold
+4466at4751	Complete	jgi|Pucst1|501451|maker-PST130_8031-snap-gene-0.2-mRNA-1	1782.0	1713	https://www.orthodb.org/v10?query=4466at4751	Ribosomal protein L19
+4523at4751	Complete	jgi|Pucst1|499408|maker-PST130_7273-snap-gene-0.5-mRNA-1	2971.6	1885	https://www.orthodb.org/v10?query=4523at4751	Pre-mRNA-processing-splicing factor 8
+5995at4751	Missing
+6186at4751	Fragmented	jgi|Pucst1|489308|maker-PST130_12245-snap-gene-0.5-mRNA-1	212.1	408	https://www.orthodb.org/v10?query=6186at4751	Armadillo-type fold
+6272at4751	Complete	jgi|Pucst1|499542|maker-PST130_7319-snap-gene-0.5-mRNA-1	530.3	597	https://www.orthodb.org/v10?query=6272at4751	WD40-repeat-containing domain
+6377at4751	Complete	jgi|Pucst1|500874|maker-PST130_7806-snap-gene-0.16-mRNA-1	1157.3	919	https://www.orthodb.org/v10?query=6377at4751	L-aminoadipate-semialdehyde dehydrogenase
+6592at4751	Complete	jgi|Pucst1|493205|maker-PST130_19773-snap-gene-0.6-mRNA-1	707.8	809	https://www.orthodb.org/v10?query=6592at4751	Sec7 domain
+6812at4751	Complete	jgi|Pucst1|499105|maker-PST130_7179-snap-gene-0.4-mRNA-1	1415.3	1159	https://www.orthodb.org/v10?query=6812at4751	DNA polymerase epsilon catalytic subunit
+7423at4751	Complete	jgi|Pucst1|502729|snap-PST130_8623-abinit-gene-0.1-mRNA-1	968.9	1206	https://www.orthodb.org/v10?query=7423at4751	CCR4-NOT transcription complex subunit 1, CAF1-binding domain
+7545at4751	Fragmented	jgi|Pucst1|494278|snap-PST130_21247-abinit-gene-0.1-mRNA-1	526.0	538	https://www.orthodb.org/v10?query=7545at4751	Anaphase-promoting complex subunit 1
+8406at4751	Complete	jgi|Pucst1|498871|maker-PST130_7101-snap-gene-0.12-mRNA-1	558.4	700	https://www.orthodb.org/v10?query=8406at4751	Transcription initiation factor TFIID subunit 2
+8818at4751	Complete	jgi|Pucst1|500644|maker-PST130_7716-snap-gene-0.3-mRNA-1	2237.6	1397	https://www.orthodb.org/v10?query=8818at4751	Clathrin heavy chain
+10168at4751	Fragmented	jgi|Pucst1|489473|snap-PST130_12450-abinit-gene-0.2-mRNA-1	101.4	141	https://www.orthodb.org/v10?query=10168at4751	Nitrite/Sulfite reductase ferredoxin-like domain
+10531at4751	Missing
+11140at4751	Missing
+11636at4751	Missing
+11879at4751	Complete	jgi|Pucst1|492478|maker-PST130_17873-snap-gene-0.4-mRNA-1	842.2	927	https://www.orthodb.org/v10?query=11879at4751	HECT domain
+12258at4751	Complete	jgi|Pucst1|498890|snap-PST130_7107-abinit-gene-0.1-mRNA-1	1383.8	964	https://www.orthodb.org/v10?query=12258at4751	Phosphoribosylformylglycinamidine synthase
+12812at4751	Fragmented	jgi|Pucst1|489706|maker-PST130_12617-snap-gene-0.6-mRNA-1	169.5	245	https://www.orthodb.org/v10?query=12812at4751	WD40/YVTN repeat-like-containing domain superfamily
+12959at4751	Missing
+13224at4751	Complete	jgi|Pucst1|499985|maker-PST130_7468-snap-gene-0.6-mRNA-1	528.3	750	https://www.orthodb.org/v10?query=13224at4751	Nucleoporin, Nup133/Nup155-like, N-terminal
+13605at4751	Fragmented	jgi|Pucst1|487942|maker-PST130_10773-snap-gene-0.3-mRNA-1	390.8	490	https://www.orthodb.org/v10?query=13605at4751	clathrin-coated vesicle protein
+14295at4751	Complete	jgi|Pucst1|502309|snap-PST130_8414-abinit-gene-0.3-mRNA-1	1122.6	824	https://www.orthodb.org/v10?query=14295at4751	Carbamoyl-phosphate synthase arginine-specific large chain
+14441at4751	Complete	jgi|Pucst1|488361|maker-PST130_11183-snap-gene-0.1-mRNA-1	1503.1	1281	https://www.orthodb.org/v10?query=14441at4751	DNA-directed RNA polymerase subunit
+14523at4751	Missing
+14793at4751	Fragmented	jgi|Pucst1|495768|maker-PST130_26049-snap-gene-0.1-mRNA-1	106.5	165	https://www.orthodb.org/v10?query=14793at4751	Nucleoporin Pom152
+14986at4751	Fragmented	jgi|Pucst1|499329|maker-PST130_7246-snap-gene-0.7-mRNA-1	652.1	544	https://www.orthodb.org/v10?query=14986at4751	DNA-directed RNA polymerase
+17174at4751	Complete	jgi|Pucst1|503937|maker-PST130_9246-snap-gene-0.1-mRNA-1	761.0	672	https://www.orthodb.org/v10?query=17174at4751	DNA polymerase gamma
+18809at4751	Fragmented	jgi|Pucst1|492231|snap-PST130_17206-abinit-gene-0.0-mRNA-1	318.8	370	https://www.orthodb.org/v10?query=18809at4751	RIC1-domain-containing protein
+20600at4751	Complete	jgi|Pucst1|502897|maker-PST130_8690-snap-gene-0.6-mRNA-1	1175.7	769	https://www.orthodb.org/v10?query=20600at4751	glycine dehydrogenase
+20952at4751	Complete	jgi|Pucst1|489204|maker-PST130_12110-snap-gene-0.1-mRNA-1	963.0	945	https://www.orthodb.org/v10?query=20952at4751	multidrug efflux transporter AcrB transmembrane domain-containing protein
+21651at4751	Complete	jgi|Pucst1|504469|snap-PST130_9579-abinit-gene-0.1-mRNA-1	864.7	649	https://www.orthodb.org/v10?query=21651at4751	DNA topoisomerase 2
+21689at4751	Complete	jgi|Pucst1|504254|maker-PST130_9433-snap-gene-0.10-mRNA-1	557.4	629	https://www.orthodb.org/v10?query=21689at4751	WD40 repeat
+22982at4751	Missing
+22992at4751	Complete	jgi|Pucst1|502818|maker-PST130_8660-snap-gene-0.7-mRNA-1	221.7	434	https://www.orthodb.org/v10?query=22992at4751	WD40/YVTN repeat-like-containing domain superfamily
+23198at4751	Fragmented	jgi|Pucst1|505000|maker-PST130_9951-snap-gene-0.2-mRNA-1	534.2	399	https://www.orthodb.org/v10?query=23198at4751	Glycogen debranching enzyme
+23856at4751	Complete	jgi|Pucst1|498440|maker-PST130_6946-snap-gene-0.10-mRNA-1	803.8	1038	https://www.orthodb.org/v10?query=23856at4751	Transcription elongation factor Spt6
+24198at4751	Complete	jgi|Pucst1|499680|maker-PST130_7364-snap-gene-0.13-mRNA-1	464.5	726	https://www.orthodb.org/v10?query=24198at4751	Armadillo-type fold
+25020at4751	Complete	jgi|Pucst1|503270|maker-PST130_8881-snap-gene-0.3-mRNA-1	666.0	738	https://www.orthodb.org/v10?query=25020at4751	Condensin complex subunit 1
+25161at4751	Complete	jgi|Pucst1|496696|snap-PST130_28626-abinit-gene-0.4-mRNA-1	204.5	578	https://www.orthodb.org/v10?query=25161at4751	Tetratricopeptide repeat
+26329at4751	Complete	jgi|Pucst1|501930|maker-PST130_8252-snap-gene-0.2-mRNA-1	1392.3	947	https://www.orthodb.org/v10?query=26329at4751	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+27008at4751	Complete	jgi|Pucst1|503155|maker-PST130_8826-snap-gene-0.3-mRNA-1	459.6	547	https://www.orthodb.org/v10?query=27008at4751	PAN2-PAN3 deadenylation complex catalytic subunit PAN2
+29512at4751	Complete	jgi|Pucst1|487342|maker-PST130_10225-snap-gene-0.2-mRNA-1	453.9	535	https://www.orthodb.org/v10?query=29512at4751	Importin alpha re-exporter
+31256at4751	Complete	jgi|Pucst1|493847|snap-PST130_20861-abinit-gene-0.1-mRNA-1	151.6	431	https://www.orthodb.org/v10?query=31256at4751	Armadillo-type fold
+31324at4751	Missing
+32164at4751	Complete	jgi|Pucst1|499806|maker-PST130_7406-snap-gene-0.4-mRNA-1	755.5	677	https://www.orthodb.org/v10?query=32164at4751	Importin beta-1 subunit
+33984at4751	Complete	jgi|Pucst1|498848|maker-PST130_7094-snap-gene-0.3-mRNA-1	772.5	654	https://www.orthodb.org/v10?query=33984at4751	Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase
+34223at4751	Complete	jgi|Pucst1|493127|maker-PST130_19601-snap-gene-0.4-mRNA-1	247.0	626	https://www.orthodb.org/v10?query=34223at4751	Nucleoporin, Nup133/Nup155-like, C-terminal
+34706at4751	Complete	jgi|Pucst1|502705|maker-PST130_8613-snap-gene-0.11-mRNA-1	541.1	818	https://www.orthodb.org/v10?query=34706at4751	MIF4G-like domain superfamily
+34830at4751	Fragmented	jgi|Pucst1|502557|maker-PST130_8531-snap-gene-0.9-mRNA-1	506.7	565	https://www.orthodb.org/v10?query=34830at4751	Elongator complex protein 1
+36610at4751	Complete	jgi|Pucst1|498257|maker-PST130_6891-snap-gene-0.12-mRNA-1	325.5	482	https://www.orthodb.org/v10?query=36610at4751	Tubulin-specific chaperone D
+37028at4751	Complete	jgi|Pucst1|503932|maker-PST130_9243-snap-gene-0.12-mRNA-1	815.5	606	https://www.orthodb.org/v10?query=37028at4751	Cobalamin-independent methionine synthase
+37573at4751	Complete	jgi|Pucst1|493605|maker-PST130_20638-snap-gene-0.2-mRNA-1	843.7	516	https://www.orthodb.org/v10?query=37573at4751	Helicase, C-terminal
+37642at4751	Complete	jgi|Pucst1|488826|maker-PST130_11673-snap-gene-0.3-mRNA-1	220.2	377	https://www.orthodb.org/v10?query=37642at4751	RNB-domain-containing protein
+38031at4751	Complete	jgi|Pucst1|492951|maker-PST130_18984-snap-gene-0.13-mRNA-1	333.7	475	https://www.orthodb.org/v10?query=38031at4751	Cap binding protein
+38184at4751	Missing
+39833at4751	Missing
+43842at4751	Complete	jgi|Pucst1|500029|snap-PST130_7482-abinit-gene-0.5-mRNA-1	200.2	504	https://www.orthodb.org/v10?query=43842at4751	Armadillo-type fold
+46090at4751	Complete	jgi|Pucst1|502523|maker-PST130_8518-snap-gene-0.4-mRNA-1	514.6	581	https://www.orthodb.org/v10?query=46090at4751	ARM repeat-containing protein
+46098at4751	Complete	jgi|Pucst1|502750|maker-PST130_8629-snap-gene-0.8-mRNA-1	480.6	684	https://www.orthodb.org/v10?query=46098at4751	P-loop containing nucleoside triphosphate hydrolase protein
+46119at4751	Complete	jgi|Pucst1|501576|maker-PST130_8093-snap-gene-0.3-mRNA-1	702.3	1003	https://www.orthodb.org/v10?query=46119at4751	WD40/YVTN repeat-like-containing domain superfamily
+46666at4751	Complete	jgi|Pucst1|501306|maker-PST130_7981-snap-gene-0.4-mRNA-1	626.4	726	https://www.orthodb.org/v10?query=46666at4751	Winged helix-like DNA-binding domain superfamily
+46752at4751	Complete	jgi|Pucst1|504033|snap-PST130_9305-abinit-gene-0.1-mRNA-1	694.4	724	https://www.orthodb.org/v10?query=46752at4751	GPI ethanolamine phosphate transferase 3
+46918at4751	Complete	jgi|Pucst1|496057|maker-PST130_2731-snap-gene-0.1-mRNA-1	289.2	381	https://www.orthodb.org/v10?query=46918at4751	Tetratricopeptide repeat
+47592at4751	Complete	jgi|Pucst1|499292|maker-PST130_7232-snap-gene-0.13-mRNA-1	737.6	729	https://www.orthodb.org/v10?query=47592at4751	Eukaryotic translation initiation factor 3 subunit C
+48708at4751	Complete	jgi|Pucst1|493429|snap-PST130_20468-abinit-gene-0.1-mRNA-1	1107.2	835	https://www.orthodb.org/v10?query=48708at4751	Leucyl-tRNA synthetase
+49476at4751	Missing
+49967at4751	Missing
+50786at4751	Complete	jgi|Pucst1|501938|maker-PST130_8254-snap-gene-0.8-mRNA-1	526.2	484	https://www.orthodb.org/v10?query=50786at4751	Eukaryotic translation initiation factor 3 subunit B
+50835at4751	Complete	jgi|Pucst1|500546|maker-PST130_7676-snap-gene-0.6-mRNA-1	914.5	660	https://www.orthodb.org/v10?query=50835at4751	Alanine--tRNA ligase
+52541at4751	Missing
+52909at4751	Complete	jgi|Pucst1|502446|maker-PST130_8480-snap-gene-0.2-mRNA-1	747.4	664	https://www.orthodb.org/v10?query=52909at4751	26S proteasome regulatory subunit RPN1
+53270at4751	Complete	jgi|Pucst1|499074|maker-PST130_7168-snap-gene-0.7-mRNA-1	734.0	777	https://www.orthodb.org/v10?query=53270at4751	UDP-glucose
+54252at4751	Complete	jgi|Pucst1|503235|maker-PST130_8861-snap-gene-0.10-mRNA-1	825.1	704	https://www.orthodb.org/v10?query=54252at4751	26S proteasome regulatory subunit RPN2
+54919at4751	Fragmented	jgi|Pucst1|504285|maker-PST130_9458-snap-gene-0.5-mRNA-1	269.1	299	https://www.orthodb.org/v10?query=54919at4751	Cysteinyl-tRNA synthetase
+56395at4751	Complete	jgi|Pucst1|492531|maker-PST130_17975-snap-gene-0.6-mRNA-1	278.6	352	https://www.orthodb.org/v10?query=56395at4751	Spindle pole body component
+56432at4751	Complete	jgi|Pucst1|501200|maker-PST130_7935-snap-gene-0.3-mRNA-1	248.3	525	https://www.orthodb.org/v10?query=56432at4751	putative exocyst complex component sec8
+56729at4751	Complete	jgi|Pucst1|487135|maker-PST130_10079-snap-gene-0.3-mRNA-1	944.8	753	https://www.orthodb.org/v10?query=56729at4751	Coatomer subunit beta
+57081at4751	Complete	jgi|Pucst1|502896|maker-PST130_8689-snap-gene-0.6-mRNA-1	893.3	688	https://www.orthodb.org/v10?query=57081at4751	Splicing factor 3B subunit 1
+58127at4751	Complete	jgi|Pucst1|504621|snap-PST130_9695-abinit-gene-0.1-mRNA-1	159.2	487	https://www.orthodb.org/v10?query=58127at4751	K Homology domain, type 1
+59795at4751	Complete	jgi|Pucst1|491167|maker-PST130_15085-snap-gene-0.3-mRNA-1	824.9	692	https://www.orthodb.org/v10?query=59795at4751	Coatomer subunit gamma
+61411at4751	Complete	jgi|Pucst1|504683|maker-PST130_9737-snap-gene-0.2-mRNA-1	198.0	227	https://www.orthodb.org/v10?query=61411at4751	WD40-repeat-containing domain
+61438at4751	Complete	jgi|Pucst1|498508|snap-PST130_6971-abinit-gene-0.6-mRNA-1	458.8	567	https://www.orthodb.org/v10?query=61438at4751	Pep3/Vps18/deep orange
+61857at4751	Missing
+62846at4751	Complete	jgi|Pucst1|504160|maker-PST130_9382-snap-gene-0.2-mRNA-1	317.8	382	https://www.orthodb.org/v10?query=62846at4751	Ribosome biogenesis protein tsr1
+63635at4751	Missing
+63838at4751	Missing
+64002at4751	Complete	jgi|Pucst1|498468|snap-PST130_6953-abinit-gene-0.3-mRNA-1	614.5	561	https://www.orthodb.org/v10?query=64002at4751	Transcription initiation factor TFIID subunit 1
+64498at4751	Complete	jgi|Pucst1|493959|maker-PST130_20962-snap-gene-0.2-mRNA-1	788.6	515	https://www.orthodb.org/v10?query=64498at4751	glucosamine-fructose-6-phosphate aminotransferase
+65334at4751	Complete	jgi|Pucst1|500621|snap-PST130_7706-abinit-gene-0.2-mRNA-1	467.0	475	https://www.orthodb.org/v10?query=65334at4751	WD40-repeat-containing domain
+65499at4751	Complete	jgi|Pucst1|503633|maker-PST130_9087-snap-gene-0.7-mRNA-1	659.6	522	https://www.orthodb.org/v10?query=65499at4751	AP-1 complex subunit gamma
+66151at4751	Complete	jgi|Pucst1|501240|snap-PST130_7953-abinit-gene-0.2-mRNA-1	324.3	568	https://www.orthodb.org/v10?query=66151at4751	Tetratricopeptide repeat
+67284at4751	Complete	jgi|Pucst1|490808|maker-PST130_14433-snap-gene-0.2-mRNA-1	218.4	447	https://www.orthodb.org/v10?query=67284at4751	WD40-repeat-containing domain
+67399at4751	Complete	jgi|Pucst1|499317|snap-PST130_7242-abinit-gene-0.13-mRNA-1	621.2	448	https://www.orthodb.org/v10?query=67399at4751	Glutamine-dependent NAD(+) synthetase
+67806at4751	Complete	jgi|Pucst1|487433|maker-PST130_10306-snap-gene-0.7-mRNA-1	290.9	427	https://www.orthodb.org/v10?query=67806at4751	actin-like ATPase domain-containing protein
+68466at4751	Missing
+68881at4751	Missing
+71039at4751	Complete	jgi|Pucst1|499274|maker-PST130_7228-snap-gene-0.16-mRNA-1	977.2	725	https://www.orthodb.org/v10?query=71039at4751	RNA cytidine acetyltransferase
+71046at4751	Fragmented	jgi|Pucst1|488382|maker-PST130_11210-snap-gene-0.2-mRNA-1	347.1	390	https://www.orthodb.org/v10?query=71046at4751	Vacuolar protein sorting-associated protein 35
+73383at4751	Complete	jgi|Pucst1|500007|maker-PST130_7474-snap-gene-0.2-mRNA-1	495.5	465	https://www.orthodb.org/v10?query=73383at4751	DNA topoisomerase I
+73477at4751	Complete	jgi|Pucst1|503542|maker-PST130_9037-snap-gene-0.11-mRNA-1	605.1	404	https://www.orthodb.org/v10?query=73477at4751	Vacuolar protein 8
+73771at4751	Missing
+75033at4751	Complete	jgi|Pucst1|499362|maker-PST130_7256-snap-gene-0.5-mRNA-1	393.6	457	https://www.orthodb.org/v10?query=75033at4751	RNA polymerase I-specific transcription initiation factor RRN3
+75456at4751	Fragmented	jgi|Pucst1|503956|maker-PST130_9257-snap-gene-0.7-mRNA-1	95.5	156	https://www.orthodb.org/v10?query=75456at4751	Vps53-like, N-terminal
+75463at4751	Complete	jgi|Pucst1|493148|maker-PST130_19629-snap-gene-0.1-mRNA-1	614.1	583	https://www.orthodb.org/v10?query=75463at4751	Mitochondrial intermediate peptidase
+75709at4751	Complete	jgi|Pucst1|494021|snap-PST130_21013-abinit-gene-0.1-mRNA-1	914.2	717	https://www.orthodb.org/v10?query=75709at4751	Lysophospholipase NTE1
+75976at4751	Complete	jgi|Pucst1|491123|maker-PST130_15053-snap-gene-0.3-mRNA-1	613.1	500	https://www.orthodb.org/v10?query=75976at4751	Calcium permease family membrane transporter
+76196at4751	Complete	jgi|Pucst1|489990|maker-PST130_13049-snap-gene-0.3-mRNA-1	506.6	348	https://www.orthodb.org/v10?query=76196at4751	Histidine biosynthesis trifunctional protein
+76893at4751	Complete	jgi|Pucst1|502679|maker-PST130_8597-snap-gene-0.2-mRNA-1	842.4	475	https://www.orthodb.org/v10?query=76893at4751	ATPase, AAA-type, conserved site
+76975at4751	Fragmented	jgi|Pucst1|490618|maker-PST130_14089-snap-gene-0.2-mRNA-1	132.4	185	https://www.orthodb.org/v10?query=76975at4751	Exocyst complex component Sec5
+78289at4751	Fragmented	jgi|Pucst1|491391|maker-PST130_15311-snap-gene-0.2-mRNA-1	111.5	117	https://www.orthodb.org/v10?query=78289at4751	Fimbrin
+78665at4751	Complete	jgi|Pucst1|487292|maker-PST130_10181-snap-gene-0.3-mRNA-1	396.4	397	https://www.orthodb.org/v10?query=78665at4751	Spindle pole body component
+79262at4751	Fragmented	jgi|Pucst1|489821|maker-PST130_12772-snap-gene-0.1-mRNA-1	451.1	240	https://www.orthodb.org/v10?query=79262at4751	Electron transfer flavoprotein-ubiquinone oxidoreductase
+79294at4751	Complete	jgi|Pucst1|487712|maker-PST130_10561-snap-gene-0.6-mRNA-1	659.0	451	https://www.orthodb.org/v10?query=79294at4751	Bifunctional purine biosynthesis protein ADE17
+79797at4751	Missing
+79988at4751	Complete	jgi|Pucst1|499631|maker-PST130_7347-snap-gene-0.7-mRNA-1	97.1	234	https://www.orthodb.org/v10?query=79988at4751	Polynucleotide 5'-hydroxyl-kinase grc3
+81295at4751	Fragmented	jgi|Pucst1|503500|maker-PST130_9016-snap-gene-0.2-mRNA-1	561.7	332	https://www.orthodb.org/v10?query=81295at4751	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+81614at4751	Complete	jgi|Pucst1|500311|snap-PST130_7582-abinit-gene-0.11-mRNA-1	741.5	1016	https://www.orthodb.org/v10?query=81614at4751	nucleic acid-binding protein
+81687at4751	Complete	jgi|Pucst1|492866|maker-PST130_18741-snap-gene-0.2-mRNA-1	718.1	476	https://www.orthodb.org/v10?query=81687at4751	asparagine synthase (glutamine-hydrolyzing)
+84250at4751	Missing
+84829at4751	Complete	jgi|Pucst1|503580|snap-PST130_9061-abinit-gene-0.2-mRNA-1	238.4	215	https://www.orthodb.org/v10?query=84829at4751	DUF747-domain-containing protein
+85793at4751	Complete	jgi|Pucst1|504012|snap-PST130_9294-abinit-gene-0.0-mRNA-1	394.0	760	https://www.orthodb.org/v10?query=85793at4751	cohesin complex subunit SA-1/2
+86293at4751	Complete	jgi|Pucst1|498630|snap-PST130_7013-abinit-gene-0.7-mRNA-1	107.5	298	https://www.orthodb.org/v10?query=86293at4751	Aldehyde dehydrogenase, glutamic acid active site
+87251at4751	Fragmented	jgi|Pucst1|497975|snap-PST130_6604-abinit-gene-0.0-mRNA-1	180.5	414	https://www.orthodb.org/v10?query=87251at4751	Ribosomal RNA-processing protein 12
+87313at4751	Complete	jgi|Pucst1|502133|snap-PST130_8322-abinit-gene-0.8-mRNA-1	837.6	433	https://www.orthodb.org/v10?query=87313at4751	Elongator complex protein 3
+90022at4751	Complete	jgi|Pucst1|503586|maker-PST130_9064-snap-gene-0.4-mRNA-1	111.7	194	https://www.orthodb.org/v10?query=90022at4751	nucleotide-diphospho-sugar transferase
+91135at4751	Complete	jgi|Pucst1|491377|maker-PST130_15295-snap-gene-0.4-mRNA-1	306.1	364	https://www.orthodb.org/v10?query=91135at4751	Far11/STRP, C-terminal
+92267at4751	Complete	jgi|Pucst1|487889|maker-PST130_10723-snap-gene-0.7-mRNA-1	681.4	502	https://www.orthodb.org/v10?query=92267at4751	Phenylalanyl-tRNA synthetase
+93783at4751	Complete	jgi|Pucst1|504567|maker-PST130_9654-snap-gene-0.2-mRNA-1	205.1	359	https://www.orthodb.org/v10?query=93783at4751	ER membrane protein complex subunit 1
+94384at4751	Complete	jgi|Pucst1|496545|maker-PST130_28483-snap-gene-0.4-mRNA-1	435.2	399	https://www.orthodb.org/v10?query=94384at4751	DNA topoisomerase
+94628at4751	Complete	jgi|Pucst1|493912|maker-PST130_20925-snap-gene-0.8-mRNA-1	880.0	525	https://www.orthodb.org/v10?query=94628at4751	DNA helicase
+95253at4751	Complete	jgi|Pucst1|495823|maker-PST130_26302-snap-gene-0.4-mRNA-1	306.7	450	https://www.orthodb.org/v10?query=95253at4751	WD40-repeat-containing domain
+96633at4751	Missing
+97141at4751	Missing
+98519at4751	Complete	jgi|Pucst1|490379|maker-PST130_1364-snap-gene-0.3-mRNA-1	85.0	266	https://www.orthodb.org/v10?query=98519at4751	Symplekin/Pta1
+98733at4751	Complete	jgi|Pucst1|504484|snap-PST130_9592-abinit-gene-0.6-mRNA-1	723.1	463	https://www.orthodb.org/v10?query=98733at4751	threonyl-tRNA synthetase
+98739at4751	Complete	jgi|Pucst1|493289|maker-PST130_20037-snap-gene-0.2-mRNA-1	578.8	425	https://www.orthodb.org/v10?query=98739at4751	Homoaconitase, mitochondrial
+100957at4751	Missing
+101133at4751	Complete	jgi|Pucst1|504679|snap-PST130_9734-abinit-gene-0.0-mRNA-1	353.5	349	https://www.orthodb.org/v10?query=101133at4751	Phosphoribosylaminoimidazole carboxylase
+103183at4751	Fragmented	jgi|Pucst1|504568|maker-PST130_9656-snap-gene-0.1-mRNA-1	375.4	383	https://www.orthodb.org/v10?query=103183at4751	DNA repair protein
+103461at4751	Complete	jgi|Pucst1|499017|maker-PST130_7148-snap-gene-0.5-mRNA-1	806.5	721	https://www.orthodb.org/v10?query=103461at4751	P-loop containing nucleoside triphosphate hydrolase protein
+103836at4751	Complete	jgi|Pucst1|496920|maker-PST130_28889-snap-gene-0.1-mRNA-1	282.8	358	https://www.orthodb.org/v10?query=103836at4751	WD40-repeat-containing domain
+104173at4751	Missing
+104415at4751	Complete	jgi|Pucst1|490663|maker-PST130_14172-snap-gene-0.10-mRNA-1	238.0	436	https://www.orthodb.org/v10?query=104415at4751	WD40-repeat-containing domain
+105401at4751	Complete	jgi|Pucst1|502622|maker-PST130_8562-snap-gene-0.10-mRNA-1	1019.7	560	https://www.orthodb.org/v10?query=105401at4751	GroEL-like apical domain superfamily
+106281at4751	Complete	jgi|Pucst1|499921|maker-PST130_7448-snap-gene-0.4-mRNA-1	749.5	1013	https://www.orthodb.org/v10?query=106281at4751	endosomal peripheral membrane protein
+107136at4751	Complete	jgi|Pucst1|489466|maker-PST130_12441-snap-gene-0.7-mRNA-1	644.5	564	https://www.orthodb.org/v10?query=107136at4751	glycoside hydrolase family 31 protein
+107464at4751	Complete	jgi|Pucst1|499756|maker-PST130_7394-snap-gene-0.10-mRNA-1	596.6	410	https://www.orthodb.org/v10?query=107464at4751	Glucose-6-phosphate isomerase
+109276at4751	Missing
+111022at4751	Complete	jgi|Pucst1|495167|maker-PST130_23747-snap-gene-0.1-mRNA-1	279.7	253	https://www.orthodb.org/v10?query=111022at4751	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+111189at4751	Complete	jgi|Pucst1|491547|maker-PST130_15567-snap-gene-0.4-mRNA-1	628.8	632	https://www.orthodb.org/v10?query=111189at4751	ATP-dependent RNA helicase DBP10
+112646at4751	Complete	jgi|Pucst1|496300|maker-PST130_28287-snap-gene-0.1-mRNA-1	152.3	237	https://www.orthodb.org/v10?query=112646at4751	oligomeric Golgi complex subunit 6
+112937at4751	Missing
+115993at4751	Complete	jgi|Pucst1|493791|maker-PST130_20807-snap-gene-0.9-mRNA-1	591.3	467	https://www.orthodb.org/v10?query=115993at4751	Ribosome biogenesis protein ERB1
+117017at4751	Complete	jgi|Pucst1|495630|maker-PST130_25513-snap-gene-0.2-mRNA-1	604.0	479	https://www.orthodb.org/v10?query=117017at4751	Methionyl-tRNA synthetase
+118189at4751	Complete	jgi|Pucst1|501859|maker-PST130_8219-snap-gene-0.4-mRNA-1	535.9	506	https://www.orthodb.org/v10?query=118189at4751	WD40-repeat-containing domain
+118701at4751	Complete	jgi|Pucst1|491086|maker-PST130_15024-snap-gene-0.6-mRNA-1	609.4	596	https://www.orthodb.org/v10?query=118701at4751	Phosphatidylinositol 3-kinase VPS34
+119833at4751	Complete	jgi|Pucst1|501017|maker-PST130_7857-snap-gene-0.9-mRNA-1	395.2	482	https://www.orthodb.org/v10?query=119833at4751	Histone-lysine N-methyltransferase
+122507at4751	Complete	jgi|Pucst1|489014|maker-PST130_11882-snap-gene-0.1-mRNA-1	312.9	473	https://www.orthodb.org/v10?query=122507at4751	WD40-repeat-containing domain
+122824at4751	Complete	jgi|Pucst1|493233|maker-PST130_19847-snap-gene-0.5-mRNA-1	129.4	200	https://www.orthodb.org/v10?query=122824at4751	WD40-repeat-containing domain
+123228at4751	Complete	jgi|Pucst1|488726|maker-PST130_11569-snap-gene-0.2-mRNA-1	762.0	713	https://www.orthodb.org/v10?query=123228at4751	Ribosome biogenesis protein BMS1
+123277at4751	Missing
+123494at4751	Missing
+125400at4751	Complete	jgi|Pucst1|487590|maker-PST130_10463-snap-gene-0.5-mRNA-1	125.7	364	https://www.orthodb.org/v10?query=125400at4751	RINT-1 family protein
+125935at4751	Missing
+126037at4751	Complete	jgi|Pucst1|501390|snap-PST130_8007-abinit-gene-0.1-mRNA-1	424.2	369	https://www.orthodb.org/v10?query=126037at4751	SNF2-related, N-terminal domain
+126249at4751	Complete	jgi|Pucst1|501449|maker-PST130_8028-snap-gene-0.3-mRNA-1	480.2	446	https://www.orthodb.org/v10?query=126249at4751	Multiple RNA-binding domain-containing protein 1
+126256at4751	Missing
+126519at4751	Complete	jgi|Pucst1|500352|snap-PST130_7598-abinit-gene-0.10-mRNA-1	614.5	439	https://www.orthodb.org/v10?query=126519at4751	Imidazole glycerol phosphate synthase hisHF
+127140at4751	Complete	jgi|Pucst1|493872|maker-PST130_20885-snap-gene-0.3-mRNA-1	315.1	346	https://www.orthodb.org/v10?query=127140at4751	Protein arginine N-methyltransferase
+129160at4751	Missing
+129326at4751	Complete	jgi|Pucst1|489402|maker-PST130_12377-snap-gene-0.3-mRNA-1	505.5	686	https://www.orthodb.org/v10?query=129326at4751	Putative nucleolar complex protein 14
+129520at4751	Fragmented	jgi|Pucst1|495481|maker-PST130_24980-snap-gene-0.2-mRNA-1	333.1	256	https://www.orthodb.org/v10?query=129520at4751	Alpha-D-phosphohexomutase, alpha/beta/alpha domain I
+130062at4751	Missing
+130930at4751	Complete	jgi|Pucst1|499364|maker-PST130_7257-snap-gene-0.2-mRNA-1	1296.5	1669	https://www.orthodb.org/v10?query=130930at4751	Nucleoporin Nup186/Nup192/Nup205
+130976at4751	Complete	jgi|Pucst1|503226|maker-PST130_8858-snap-gene-0.5-mRNA-1	330.4	344	https://www.orthodb.org/v10?query=130976at4751	DNA polymerase alpha subunit B
+133954at4751	Complete	jgi|Pucst1|499313|maker-PST130_7242-snap-gene-0.23-mRNA-1	125.6	208	https://www.orthodb.org/v10?query=133954at4751	cop9 signalosome complex subunit 12
+135184at4751	Complete	jgi|Pucst1|496770|snap-PST130_28695-abinit-gene-0.0-mRNA-1	217.6	245	https://www.orthodb.org/v10?query=135184at4751	Nitrogen permease regulator 2
+135652at4751	Complete	jgi|Pucst1|489488|snap-PST130_12471-abinit-gene-0.5-mRNA-1	494.9	359	https://www.orthodb.org/v10?query=135652at4751	Poly(A) polymerase
+137963at4751	Complete	jgi|Pucst1|490630|maker-PST130_14110-snap-gene-0.2-mRNA-1	690.6	438	https://www.orthodb.org/v10?query=137963at4751	Prolyl-tRNA synthetase
+138484at4751	Complete	jgi|Pucst1|488118|maker-PST130_10943-snap-gene-0.2-mRNA-1	208.0	325	https://www.orthodb.org/v10?query=138484at4751	DNA polymerase epsilon subunit
+138695at4751	Complete	jgi|Pucst1|502377|maker-PST130_8447-snap-gene-0.13-mRNA-1	748.4	533	https://www.orthodb.org/v10?query=138695at4751	Nucleolar GTP-binding protein 1
+138697at4751	Complete	jgi|Pucst1|494577|maker-PST130_21875-snap-gene-0.2-mRNA-1	492.1	376	https://www.orthodb.org/v10?query=138697at4751	Threonine synthase
+138833at4751	Complete	jgi|Pucst1|500586|maker-PST130_7691-snap-gene-0.2-mRNA-1	620.1	481	https://www.orthodb.org/v10?query=138833at4751	Protein phosphatase PP2A regulatory subunit A
+141273at4751	Fragmented	jgi|Pucst1|501293|maker-PST130_7974-snap-gene-0.2-mRNA-1	190.5	153	https://www.orthodb.org/v10?query=141273at4751	methionine-tRNA ligase
+142357at4751	Complete	jgi|Pucst1|504360|maker-PST130_9503-snap-gene-0.9-mRNA-1	531.0	555	https://www.orthodb.org/v10?query=142357at4751	Ribosomal protein S5 domain 2-type fold
+142965at4751	Fragmented	jgi|Pucst1|499054|maker-PST130_7160-snap-gene-0.8-mRNA-1	114.2	140	https://www.orthodb.org/v10?query=142965at4751	GPI transamidase component GPI16
+143414at4751	Missing
+145178at4751	Complete	jgi|Pucst1|503922|maker-PST130_9240-snap-gene-0.7-mRNA-1	231.3	456	https://www.orthodb.org/v10?query=145178at4751	Topoisomerase 1-associated factor 1
+145378at4751	Complete	jgi|Pucst1|504233|snap-PST130_9419-abinit-gene-0.2-mRNA-1	430.3	416	https://www.orthodb.org/v10?query=145378at4751	Eukaryotic translation initiation factor 2A
+145524at4751	Fragmented	jgi|Pucst1|495697|maker-PST130_25836-snap-gene-0.4-mRNA-1	340.3	233	https://www.orthodb.org/v10?query=145524at4751	Nuclear elongation and deformation protein 1
+147028at4751	Complete	jgi|Pucst1|487600|maker-PST130_10467-snap-gene-0.2-mRNA-1	298.7	331	https://www.orthodb.org/v10?query=147028at4751	WD40-repeat-containing domain
+148293at4751	Missing
+150469at4751	Complete	jgi|Pucst1|502352|maker-PST130_8431-snap-gene-0.2-mRNA-1	508.9	362	https://www.orthodb.org/v10?query=150469at4751	T-complex protein 1 subunit beta
+153083at4751	Complete	jgi|Pucst1|501469|maker-PST130_8039-snap-gene-0.3-mRNA-1	514.1	603	https://www.orthodb.org/v10?query=153083at4751	Ubiquitin carboxyl-terminal hydrolase
+154126at4751	Complete	jgi|Pucst1|487858|maker-PST130_10693-snap-gene-0.2-mRNA-1	492.5	430	https://www.orthodb.org/v10?query=154126at4751	Ubiquitin-like modifier-activating enzyme ATG7
+156073at4751	Complete	jgi|Pucst1|500661|maker-PST130_7723-snap-gene-0.13-mRNA-1	136.9	204	https://www.orthodb.org/v10?query=156073at4751	Zinc finger, RING-type
+160044at4751	Complete	jgi|Pucst1|500135|snap-PST130_7519-abinit-gene-0.6-mRNA-1	463.1	354	https://www.orthodb.org/v10?query=160044at4751	Sodium/hydrogen exchanger
+160875at4751	Complete	jgi|Pucst1|503287|maker-PST130_8888-snap-gene-0.2-mRNA-1	415.7	439	https://www.orthodb.org/v10?query=160875at4751	RNA helicase
+160940at4751	Complete	jgi|Pucst1|487256|maker-PST130_10162-snap-gene-0.4-mRNA-1	171.1	226	https://www.orthodb.org/v10?query=160940at4751	Phosphoserine aminotransferase
+160995at4751	Complete	jgi|Pucst1|500734|maker-PST130_7755-snap-gene-0.4-mRNA-1	640.4	384	https://www.orthodb.org/v10?query=160995at4751	Eukaryotic translation initiation factor 2 subunit gamma
+161113at4751	Complete	jgi|Pucst1|501522|snap-PST130_8064-abinit-gene-0.2-mRNA-1	289.3	312	https://www.orthodb.org/v10?query=161113at4751	Peptidase M16, N-terminal
+163318at4751	Complete	jgi|Pucst1|500964|maker-PST130_7836-snap-gene-0.4-mRNA-1	172.2	242	https://www.orthodb.org/v10?query=163318at4751	Tetratricopeptide-like helical domain superfamily
+165243at4751	Complete	jgi|Pucst1|488075|maker-PST130_10894-snap-gene-0.8-mRNA-1	266.3	275	https://www.orthodb.org/v10?query=165243at4751	General transcription and DNA repair factor IIH
+167290at4751	Complete	jgi|Pucst1|502145|maker-PST130_8325-snap-gene-0.5-mRNA-1	330.0	395	https://www.orthodb.org/v10?query=167290at4751	actin-like ATPase domain-containing protein
+167374at4751	Complete	jgi|Pucst1|497168|maker-PST130_312-snap-gene-0.2-mRNA-1	109.8	247	https://www.orthodb.org/v10?query=167374at4751	ATP-dependent DNA helicase II subunit 2
+167498at4751	Missing
+168092at4751	Missing
+168489at4751	Missing
+169381at4751	Complete	jgi|Pucst1|500312|maker-PST130_7583-snap-gene-0.4-mRNA-1	289.5	249	https://www.orthodb.org/v10?query=169381at4751	WD40-repeat-containing domain
+170297at4751	Fragmented	jgi|Pucst1|504969|maker-PST130_9930-snap-gene-0.7-mRNA-1	287.4	167	https://www.orthodb.org/v10?query=170297at4751	26S proteasome non-ATPase regulatory subunit 3
+170401at4751	Complete	jgi|Pucst1|499902|snap-PST130_7441-abinit-gene-0.6-mRNA-1	70.3	320	https://www.orthodb.org/v10?query=170401at4751	Zinc finger, RING/FYVE/PHD-type
+170904at4751	Complete	jgi|Pucst1|489400|maker-PST130_12374-snap-gene-0.1-mRNA-1	532.5	844	https://www.orthodb.org/v10?query=170904at4751	P-loop containing nucleoside triphosphate hydrolase protein
+171181at4751	Missing
+171238at4751	Complete	jgi|Pucst1|498629|maker-PST130_7013-snap-gene-0.17-mRNA-1	395.6	317	https://www.orthodb.org/v10?query=171238at4751	Succinate--CoA ligase 
+172113at4751	Fragmented	jgi|Pucst1|500716|snap-PST130_7747-abinit-gene-0.3-mRNA-1	391.8	201	https://www.orthodb.org/v10?query=172113at4751	Eukaryotic peptide chain release factor subunit 1
+172363at4751	Complete	jgi|Pucst1|501897|maker-PST130_8236-snap-gene-0.7-mRNA-1	433.2	590	https://www.orthodb.org/v10?query=172363at4751	Armadillo-type fold
+172966at4751	Complete	jgi|Pucst1|501100|snap-PST130_7890-abinit-gene-0.3-mRNA-1	525.3	387	https://www.orthodb.org/v10?query=172966at4751	polyubiquitin-tagged protein recognition complex, Npl4 component
+173428at4751	Missing
+173995at4751	Complete	jgi|Pucst1|488672|maker-PST130_11517-snap-gene-0.1-mRNA-1	235.3	282	https://www.orthodb.org/v10?query=173995at4751	Probable cytosolic iron-sulfur protein assembly protein 1
+174653at4751	Complete	jgi|Pucst1|499752|maker-PST130_7393-snap-gene-0.4-mRNA-1	677.8	366	https://www.orthodb.org/v10?query=174653at4751	Adenosylhomocysteinase
+174672at4751	Missing
+175136at4751	Missing
+175599at4751	Complete	jgi|Pucst1|498119|maker-PST130_6830-snap-gene-0.9-mRNA-1	105.4	142	https://www.orthodb.org/v10?query=175599at4751	SWR1-complex protein 4
+176178at4751	Complete	jgi|Pucst1|500920|maker-PST130_7820-snap-gene-0.14-mRNA-1	401.5	321	https://www.orthodb.org/v10?query=176178at4751	putative 26S proteasome regulatory subunit rpn6
+176478at4751	Missing
+176648at4751	Complete	jgi|Pucst1|488271|snap-PST130_11092-abinit-gene-0.0-mRNA-1	294.0	282	https://www.orthodb.org/v10?query=176648at4751	chaperone DnaJ
+176748at4751	Complete	jgi|Pucst1|493332|maker-PST130_20181-snap-gene-0.10-mRNA-1	368.4	391	https://www.orthodb.org/v10?query=176748at4751	WD40-repeat-containing domain
+179025at4751	Complete	jgi|Pucst1|502224|snap-PST130_8367-abinit-gene-0.1-mRNA-1	144.4	269	https://www.orthodb.org/v10?query=179025at4751	Nucleotide-diphospho-sugar transferase
+179437at4751	Complete	jgi|Pucst1|503968|maker-PST130_9265-snap-gene-0.5-mRNA-1	545.0	357	https://www.orthodb.org/v10?query=179437at4751	anthranilate synthase component I
+179897at4751	Complete	jgi|Pucst1|489363|snap-PST130_12326-abinit-gene-0.2-mRNA-1	201.8	254	https://www.orthodb.org/v10?query=179897at4751	Atg6/Beclin
+181890at4751	Complete	jgi|Pucst1|491839|maker-PST130_16209-snap-gene-0.3-mRNA-1	53.2	156	https://www.orthodb.org/v10?query=181890at4751	Putative RNA polymerase II transcription factor B subunit 1
+181959at4751	Complete	jgi|Pucst1|501310|maker-PST130_7982-snap-gene-0.5-mRNA-1	647.0	350	https://www.orthodb.org/v10?query=181959at4751	26S Proteasome regulatory subunit 6A
+183720at4751	Complete	jgi|Pucst1|495260|snap-PST130_24157-abinit-gene-0.1-mRNA-1	332.6	357	https://www.orthodb.org/v10?query=183720at4751	RNA helicase
+183801at4751	Complete	jgi|Pucst1|499655|maker-PST130_7353-snap-gene-0.5-mRNA-1	105.7	127	https://www.orthodb.org/v10?query=183801at4751	DNA-directed RNA polymerase III subunit RPC6
+183849at4751	Fragmented	jgi|Pucst1|488058|maker-PST130_10877-snap-gene-0.2-mRNA-1	532.1	314	https://www.orthodb.org/v10?query=183849at4751	Oligosaccharyl transferase STT3 subunit
+184718at4751	Complete	jgi|Pucst1|492529|maker-PST130_17975-snap-gene-0.4-mRNA-1	725.1	716	https://www.orthodb.org/v10?query=184718at4751	Pre-mRNA-processing factor 6
+184762at4751	Complete	jgi|Pucst1|502282|maker-PST130_8400-snap-gene-0.14-mRNA-1	587.5	305	https://www.orthodb.org/v10?query=184762at4751	26S proteasome regulatory subunit 8
+185196at4751	Complete	jgi|Pucst1|502248|snap-PST130_8384-abinit-gene-0.5-mRNA-1	250.9	435	https://www.orthodb.org/v10?query=185196at4751	Exocyst complex component SEC15
+185399at4751	Fragmented	jgi|Pucst1|493262|maker-PST130_19978-snap-gene-0.1-mRNA-1	112.5	107	https://www.orthodb.org/v10?query=185399at4751	UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase
+186138at4751	Fragmented	jgi|Pucst1|504003|maker-PST130_9289-snap-gene-0.9-mRNA-1	248.7	180	https://www.orthodb.org/v10?query=186138at4751	DNA primase
+186574at4751	Complete	jgi|Pucst1|501564|maker-PST130_8083-snap-gene-0.7-mRNA-1	516.4	366	https://www.orthodb.org/v10?query=186574at4751	Adenylosuccinate lyase
+186701at4751	Complete	jgi|Pucst1|498166|snap-PST130_6849-abinit-gene-0.4-mRNA-1	565.8	663	https://www.orthodb.org/v10?query=186701at4751	Mad3/Bub1 homology region 1
+187821at4751	Complete	jgi|Pucst1|501086|maker-PST130_7883-snap-gene-0.5-mRNA-1	476.3	383	https://www.orthodb.org/v10?query=187821at4751	GMP synthase
+188070at4751	Complete	jgi|Pucst1|504250|maker-PST130_9431-snap-gene-0.7-mRNA-1	556.2	297	https://www.orthodb.org/v10?query=188070at4751	ATPase, AAA-type, conserved site
+189234at4751	Missing
+189573at4751	Complete	jgi|Pucst1|503890|maker-PST130_9216-snap-gene-0.6-mRNA-1	301.2	258	https://www.orthodb.org/v10?query=189573at4751	Coatomer subunit delta
+190183at4751	Complete	jgi|Pucst1|503394|maker-PST130_8951-snap-gene-0.9-mRNA-1	302.7	251	https://www.orthodb.org/v10?query=190183at4751	Prephenate dehydrogenase
+190475at4751	Missing
+190832at4751	Fragmented	jgi|Pucst1|503496|maker-PST130_9014-snap-gene-0.4-mRNA-1	264.3	234	https://www.orthodb.org/v10?query=190832at4751	PAN2-PAN3 deadenylation complex subunit PAN3
+191114at4751	Complete	jgi|Pucst1|493132|maker-PST130_19617-snap-gene-0.10-mRNA-1	458.2	321	https://www.orthodb.org/v10?query=191114at4751	Phenylalanyl-tRNA synthetase alpha chain
+191296at4751	Complete	jgi|Pucst1|504332|maker-PST130_9490-snap-gene-0.2-mRNA-1	171.2	432	https://www.orthodb.org/v10?query=191296at4751	Nuclear pore protein 84/107
+191310at4751	Fragmented	jgi|Pucst1|496390|maker-PST130_28346-snap-gene-0.3-mRNA-1	265.6	358	https://www.orthodb.org/v10?query=191310at4751	Vps16, C-terminal
+192059at4751	Complete	jgi|Pucst1|504166|maker-PST130_9384-snap-gene-0.7-mRNA-1	164.5	308	https://www.orthodb.org/v10?query=192059at4751	P-loop containing nucleoside triphosphate hydrolase protein
+192135at4751	Complete	jgi|Pucst1|487698|snap-PST130_10551-abinit-gene-0.4-mRNA-1	492.0	910	https://www.orthodb.org/v10?query=192135at4751	Rho GTPase activation protein
+192452at4751	Complete	jgi|Pucst1|500842|maker-PST130_7798-snap-gene-0.6-mRNA-1	398.4	384	https://www.orthodb.org/v10?query=192452at4751	Dihydropteroate synthase
+195619at4751	Complete	jgi|Pucst1|501980|snap-PST130_8269-abinit-gene-0.6-mRNA-1	537.6	448	https://www.orthodb.org/v10?query=195619at4751	Pyridoxal phosphate-dependent transferase
+195863at4751	Complete	jgi|Pucst1|504627|maker-PST130_9700-snap-gene-0.3-mRNA-1	491.3	711	https://www.orthodb.org/v10?query=195863at4751	Exportin-T
+196015at4751	Complete	jgi|Pucst1|502403|maker-PST130_8464-snap-gene-0.5-mRNA-1	453.4	284	https://www.orthodb.org/v10?query=196015at4751	putative rRNA pseudouridine synthase
+196094at4751	Complete	jgi|Pucst1|503305|maker-PST130_8901-snap-gene-0.4-mRNA-1	298.8	504	https://www.orthodb.org/v10?query=196094at4751	Translocation protein sec63
+196841at4751	Missing
+197111at4751	Complete	jgi|Pucst1|501562|maker-PST130_8081-snap-gene-0.11-mRNA-1	532.7	310	https://www.orthodb.org/v10?query=197111at4751	Cysteine desulfurase
+197612at4751	Missing
+198196at4751	Complete	jgi|Pucst1|501249|snap-PST130_7959-abinit-gene-0.1-mRNA-1	450.9	340	https://www.orthodb.org/v10?query=198196at4751	Threonine dehydratase
+198234at4751	Complete	jgi|Pucst1|489701|maker-PST130_12615-snap-gene-0.3-mRNA-1	198.3	326	https://www.orthodb.org/v10?query=198234at4751	Conserved oligomeric Golgi complex subunit 3
+200331at4751	Complete	jgi|Pucst1|502880|maker-PST130_8681-snap-gene-0.6-mRNA-1	104.7	172	https://www.orthodb.org/v10?query=200331at4751	TAP42-like protein
+201591at4751	Missing
+202089at4751	Complete	jgi|Pucst1|501037|maker-PST130_7863-snap-gene-0.4-mRNA-1	196.1	222	https://www.orthodb.org/v10?query=202089at4751	Mitochondrial import receptor subunit TOM40
+202248at4751	Complete	jgi|Pucst1|500613|snap-PST130_7703-abinit-gene-0.0-mRNA-1	166.5	230	https://www.orthodb.org/v10?query=202248at4751	Amino-acid acetyltransferase, mitochondrial
+203109at4751	Complete	jgi|Pucst1|496978|maker-PST130_28974-snap-gene-0.2-mRNA-1	144.9	232	https://www.orthodb.org/v10?query=203109at4751	Protein DOM34 homolog
+203710at4751	Complete	jgi|Pucst1|501759|maker-PST130_8172-snap-gene-0.4-mRNA-1	363.9	308	https://www.orthodb.org/v10?query=203710at4751	cytochrome oxidase assembly
+204087at4751	Complete	jgi|Pucst1|492950|snap-PST130_18984-abinit-gene-0.2-mRNA-1	515.8	299	https://www.orthodb.org/v10?query=204087at4751	Chorismate synthase
+204341at4751	Complete	jgi|Pucst1|496443|maker-PST130_28389-snap-gene-0.4-mRNA-1	262.6	406	https://www.orthodb.org/v10?query=204341at4751	Condensin complex subunit 2
+204508at4751	Missing
+205479at4751	Complete	jgi|Pucst1|487506|snap-PST130_10373-abinit-gene-0.0-mRNA-1	291.4	199	https://www.orthodb.org/v10?query=205479at4751	Cyclin-dependent kinase 7
+207926at4751	Complete	jgi|Pucst1|497213|maker-PST130_3291-snap-gene-0.2-mRNA-1	317.8	595	https://www.orthodb.org/v10?query=207926at4751	actin-like ATPase domain-containing protein
+208463at4751	Complete	jgi|Pucst1|487649|maker-PST130_10508-snap-gene-0.3-mRNA-1	425.7	420	https://www.orthodb.org/v10?query=208463at4751	Pre-mRNA-splicing factor CLF1
+209053at4751	Fragmented	jgi|Pucst1|497916|maker-PST130_622-snap-gene-0.3-mRNA-1	398.0	250	https://www.orthodb.org/v10?query=209053at4751	serine-tRNA ligase
+209619at4751	Complete	jgi|Pucst1|487337|maker-PST130_10215-snap-gene-0.1-mRNA-1	296.8	240	https://www.orthodb.org/v10?query=209619at4751	Threonylcarbamoyl-AMP synthase
+210178at4751	Complete	jgi|Pucst1|488451|snap-PST130_11285-abinit-gene-0.2-mRNA-1	222.5	275	https://www.orthodb.org/v10?query=210178at4751	Asparagine synthase
+210462at4751	Complete	jgi|Pucst1|500246|maker-PST130_7561-snap-gene-0.10-mRNA-1	81.9	346	https://www.orthodb.org/v10?query=210462at4751	Kinetochore protein nuf2
+210986at4751	Complete	jgi|Pucst1|500810|snap-PST130_7786-abinit-gene-0.3-mRNA-1	232.9	300	https://www.orthodb.org/v10?query=210986at4751	FACT complex subunit POB3
+211442at4751	Complete	jgi|Pucst1|498549|maker-PST130_6985-snap-gene-0.3-mRNA-1	192.6	177	https://www.orthodb.org/v10?query=211442at4751	endoplasmic oxidoreductin
+211634at4751	Complete	jgi|Pucst1|496303|maker-PST130_28290-snap-gene-0.4-mRNA-1	329.3	278	https://www.orthodb.org/v10?query=211634at4751	Homoisocitrate dehydrogenase
+211768at4751	Complete	jgi|Pucst1|499420|maker-PST130_7279-snap-gene-0.16-mRNA-1	386.6	285	https://www.orthodb.org/v10?query=211768at4751	60S ribosomal export protein NMD3
+212522at4751	Complete	jgi|Pucst1|502722|maker-PST130_8617-snap-gene-0.22-mRNA-1	287.1	270	https://www.orthodb.org/v10?query=212522at4751	Cyclin-like
+212735at4751	Complete	jgi|Pucst1|498104|maker-PST130_6823-snap-gene-0.7-mRNA-1	404.9	358	https://www.orthodb.org/v10?query=212735at4751	zf-ZPR1-domain-containing protein
+213564at4751	Complete	jgi|Pucst1|501529|maker-PST130_8069-snap-gene-0.2-mRNA-1	172.5	151	https://www.orthodb.org/v10?query=213564at4751	Lipoate-protein ligase A
+215926at4751	Missing
+216270at4751	Missing
+216661at4751	Missing
+216683at4751	Complete	jgi|Pucst1|494288|maker-PST130_21259-snap-gene-0.6-mRNA-1	323.4	260	https://www.orthodb.org/v10?query=216683at4751	Phenylalanyl-tRNA synthetase
+216747at4751	Complete	jgi|Pucst1|500953|snap-PST130_7829-abinit-gene-0.7-mRNA-1	304.5	310	https://www.orthodb.org/v10?query=216747at4751	Transcription initiation factor TFIID subunit 6
+216949at4751	Complete	jgi|Pucst1|504159|snap-PST130_9381-abinit-gene-0.1-mRNA-1	199.4	323	https://www.orthodb.org/v10?query=216949at4751	Topoisomerase II-associated protein PAT1
+217097at4751	Missing
+217374at4751	Complete	jgi|Pucst1|498253|maker-PST130_6890-snap-gene-0.5-mRNA-1	298.7	236	https://www.orthodb.org/v10?query=217374at4751	Fructose-1,6-bisphosphatase
+219236at4751	Complete	jgi|Pucst1|487048|snap-PST130_10007-abinit-gene-0.4-mRNA-1	494.7	292	https://www.orthodb.org/v10?query=219236at4751	Actin family
+219492at4751	Missing
+221926at4751	Complete	jgi|Pucst1|493615|maker-PST130_20649-snap-gene-0.5-mRNA-1	333.4	422	https://www.orthodb.org/v10?query=221926at4751	RNA recognition motif domain
+224693at4751	Complete	jgi|Pucst1|503050|maker-PST130_8773-snap-gene-0.12-mRNA-1	332.8	292	https://www.orthodb.org/v10?query=224693at4751	Dol-P-Man
+224775at4751	Complete	jgi|Pucst1|495331|maker-PST130_24379-snap-gene-0.5-mRNA-1	291.4	260	https://www.orthodb.org/v10?query=224775at4751	P-loop containing nucleoside triphosphate hydrolase protein
+224804at4751	Complete	jgi|Pucst1|494309|snap-PST130_21274-abinit-gene-0.2-mRNA-1	250.8	175	https://www.orthodb.org/v10?query=224804at4751	Actin-related protein 2/3 complex subunit
+225321at4751	Complete	jgi|Pucst1|504795|snap-PST130_9816-abinit-gene-0.1-mRNA-1	688.1	379	https://www.orthodb.org/v10?query=225321at4751	Actin family
+225351at4751	Missing
+225535at4751	Fragmented	jgi|Pucst1|497154|maker-PST130_3085-snap-gene-0.5-mRNA-1	309.4	259	https://www.orthodb.org/v10?query=225535at4751	Transcriptional adapter 2
+225712at4751	Fragmented	jgi|Pucst1|492039|maker-PST130_16681-snap-gene-0.1-mRNA-1	80.4	165	https://www.orthodb.org/v10?query=225712at4751	PEBP-like protein
+225820at4751	Fragmented	jgi|Pucst1|490547|snap-PST130_13926-abinit-gene-0.0-mRNA-1	133.9	135	https://www.orthodb.org/v10?query=225820at4751	Putative transferase CAF17, mitochondrial
+225918at4751	Complete	jgi|Pucst1|488713|maker-PST130_11559-snap-gene-0.6-mRNA-1	332.8	393	https://www.orthodb.org/v10?query=225918at4751	Mannosyltransferase
+226810at4751	Complete	jgi|Pucst1|503300|maker-PST130_8897-snap-gene-0.2-mRNA-1	310.1	255	https://www.orthodb.org/v10?query=226810at4751	Bystin
+227572at4751	Missing
+228465at4751	Complete	jgi|Pucst1|503112|maker-PST130_8802-snap-gene-0.10-mRNA-1	146.4	238	https://www.orthodb.org/v10?query=228465at4751	Tetratricopeptide-like helical domain superfamily
+228752at4751	Complete	jgi|Pucst1|496450|maker-PST130_28394-snap-gene-0.6-mRNA-1	345.1	354	https://www.orthodb.org/v10?query=228752at4751	Cdc37
+229510at4751	Complete	jgi|Pucst1|487795|snap-PST130_10636-abinit-gene-0.2-mRNA-1	302.7	313	https://www.orthodb.org/v10?query=229510at4751	tRNA (guanine(37)-N1)-methyltransferase
+229997at4751	Missing
+230605at4751	Complete	jgi|Pucst1|499090|maker-PST130_7172-snap-gene-0.3-mRNA-1	165.4	487	https://www.orthodb.org/v10?query=230605at4751	Ndc80 domain superfamily
+231468at4751	Complete	jgi|Pucst1|500618|maker-PST130_7705-snap-gene-0.5-mRNA-1	252.9	268	https://www.orthodb.org/v10?query=231468at4751	Translation initiation factor eIF-2B subunit delta
+231582at4751	Complete	jgi|Pucst1|502607|maker-PST130_8553-snap-gene-0.3-mRNA-1	223.4	259	https://www.orthodb.org/v10?query=231582at4751	NADPH
+232698at4751	Complete	jgi|Pucst1|500529|maker-PST130_7670-snap-gene-0.10-mRNA-1	523.4	486	https://www.orthodb.org/v10?query=232698at4751	Protein SEY1
+233287at4751	Complete	jgi|Pucst1|502649|snap-PST130_8579-abinit-gene-0.2-mRNA-1	335.9	262	https://www.orthodb.org/v10?query=233287at4751	ATP-dependent RNA helicase DBP5
+233706at4751	Missing
+234548at4751	Complete	jgi|Pucst1|500024|maker-PST130_7480-snap-gene-0.3-mRNA-1	303.9	1042	https://www.orthodb.org/v10?query=234548at4751	Nucleolar pre-ribosomal-associated protein 1, C-terminal domain
+234698at4751	Complete	jgi|Pucst1|502311|maker-PST130_8414-snap-gene-0.12-mRNA-1	320.1	398	https://www.orthodb.org/v10?query=234698at4751	P-loop containing nucleoside triphosphate hydrolase protein
+235105at4751	Complete	jgi|Pucst1|488041|snap-PST130_10863-abinit-gene-0.0-mRNA-1	356.4	297	https://www.orthodb.org/v10?query=235105at4751	UAA transporter
+235463at4751	Complete	jgi|Pucst1|505032|snap-PST130_9975-abinit-gene-0.1-mRNA-1	269.1	229	https://www.orthodb.org/v10?query=235463at4751	Eukaryotic translation initiation factor 3 subunit I
+235640at4751	Fragmented	jgi|Pucst1|493884|maker-PST130_20897-snap-gene-0.6-mRNA-1	194.8	202	https://www.orthodb.org/v10?query=235640at4751	26S proteasome non-ATPase regulatory subunit 12
+236504at4751	Complete	jgi|Pucst1|499462|maker-PST130_7295-snap-gene-0.5-mRNA-1	620.1	374	https://www.orthodb.org/v10?query=236504at4751	Protein phosphatase PP2A regulatory subunit B
+237276at4751	Missing
+237281at4751	Complete	jgi|Pucst1|491026|maker-PST130_14858-snap-gene-0.5-mRNA-1	205.2	190	https://www.orthodb.org/v10?query=237281at4751	Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial
+237393at4751	Complete	jgi|Pucst1|498298|maker-PST130_6905-snap-gene-0.3-mRNA-1	232.7	306	https://www.orthodb.org/v10?query=237393at4751	Nucleolar complex-associated protein 3
+237533at4751	Complete	jgi|Pucst1|494059|maker-PST130_21047-snap-gene-0.4-mRNA-1	240.5	167	https://www.orthodb.org/v10?query=237533at4751	ATPase, AAA-type, conserved site
+238922at4751	Complete	jgi|Pucst1|501005|maker-PST130_7852-snap-gene-0.6-mRNA-1	263.1	310	https://www.orthodb.org/v10?query=238922at4751	Protein kinase domain
+240036at4751	Complete	jgi|Pucst1|487120|maker-PST130_10067-snap-gene-0.2-mRNA-1	556.5	476	https://www.orthodb.org/v10?query=240036at4751	Pescadillo homolog
+240246at4751	Missing
+241079at4751	Complete	jgi|Pucst1|499471|maker-PST130_7298-snap-gene-0.3-mRNA-1	334.9	334	https://www.orthodb.org/v10?query=241079at4751	Adenylyl cyclase-associated protein
+241483at4751	Complete	jgi|Pucst1|494077|maker-PST130_21067-snap-gene-0.2-mRNA-1	391.5	378	https://www.orthodb.org/v10?query=241483at4751	WD40-repeat-containing domain
+241586at4751	Complete	jgi|Pucst1|490233|snap-PST130_13495-abinit-gene-0.2-mRNA-1	345.7	355	https://www.orthodb.org/v10?query=241586at4751	WD40-repeat-containing domain
+241860at4751	Complete	jgi|Pucst1|504711|maker-PST130_9755-snap-gene-0.3-mRNA-1	339.9	299	https://www.orthodb.org/v10?query=241860at4751	2-(3-amino-3-carboxypropyl)histidine synthase subunit 1
+243015at4751	Complete	jgi|Pucst1|503733|maker-PST130_9142-snap-gene-0.5-mRNA-1	340.9	405	https://www.orthodb.org/v10?query=243015at4751	Ubiquitin specific protease, conserved site
+244066at4751	Complete	jgi|Pucst1|503407|maker-PST130_8960-snap-gene-0.7-mRNA-1	371.4	300	https://www.orthodb.org/v10?query=244066at4751	Gamma-glutamyl phosphate reductase
+245480at4751	Complete	jgi|Pucst1|497091|maker-PST130_29131-snap-gene-0.2-mRNA-1	432.3	387	https://www.orthodb.org/v10?query=245480at4751	Replication protein A subunit
+245900at4751	Complete	jgi|Pucst1|504048|snap-PST130_9313-abinit-gene-0.3-mRNA-1	345.0	301	https://www.orthodb.org/v10?query=245900at4751	Phosphoglycerate kinase
+246207at4751	Complete	jgi|Pucst1|504265|maker-PST130_9440-snap-gene-0.2-mRNA-1	224.6	198	https://www.orthodb.org/v10?query=246207at4751	WD40-repeat-containing domain
+246951at4751	Complete	jgi|Pucst1|498626|maker-PST130_7013-snap-gene-0.12-mRNA-1	336.6	373	https://www.orthodb.org/v10?query=246951at4751	WD40-repeat-containing domain
+247065at4751	Complete	jgi|Pucst1|490341|snap-PST130_13600-abinit-gene-0.8-mRNA-1	198.9	562	https://www.orthodb.org/v10?query=247065at4751	SNU66/SART1 family
+247129at4751	Complete	jgi|Pucst1|494576|maker-PST130_21873-snap-gene-0.2-mRNA-1	244.4	279	https://www.orthodb.org/v10?query=247129at4751	kinase-like protein
+247383at4751	Duplicated	jgi|Pucst1|502002|maker-PST130_8278-snap-gene-0.3-mRNA-1	97.7	196	https://www.orthodb.org/v10?query=247383at4751	Elongator complex protein 4
+247383at4751	Duplicated	jgi|Pucst1|490930|maker-PST130_14664-snap-gene-0.4-mRNA-1	96.3	201	https://www.orthodb.org/v10?query=247383at4751	Elongator complex protein 4
+248360at4751	Missing
+251158at4751	Complete	jgi|Pucst1|499498|maker-PST130_7306-snap-gene-0.10-mRNA-1	450.5	284	https://www.orthodb.org/v10?query=251158at4751	tRNA N6-adenosine threonylcarbamoyltransferase
+251613at4751	Missing
+252314at4751	Missing
+252469at4751	Fragmented	jgi|Pucst1|488992|snap-PST130_11867-abinit-gene-0.2-mRNA-1	135.9	147	https://www.orthodb.org/v10?query=252469at4751	Phosphatidate cytidylyltransferase
+254717at4751	Complete	jgi|Pucst1|501044|maker-PST130_7867-snap-gene-0.3-mRNA-1	351.4	246	https://www.orthodb.org/v10?query=254717at4751	ATPase GET3
+255378at4751	Complete	jgi|Pucst1|493216|maker-PST130_19786-snap-gene-0.2-mRNA-1	306.9	332	https://www.orthodb.org/v10?query=255378at4751	WD40-repeat-containing domain
+255412at4751	Complete	jgi|Pucst1|502249|maker-PST130_8384-snap-gene-0.14-mRNA-1	508.4	339	https://www.orthodb.org/v10?query=255412at4751	Pre-mRNA-splicing factor prp46
+256318at4751	Complete	jgi|Pucst1|492663|maker-PST130_18275-snap-gene-0.3-mRNA-1	475.9	376	https://www.orthodb.org/v10?query=256318at4751	WD40-repeat-containing domain
+256914at4751	Complete	jgi|Pucst1|503286|snap-PST130_8887-abinit-gene-0.1-mRNA-1	195.8	306	https://www.orthodb.org/v10?query=256914at4751	Mitochondrial import inner membrane translocase subunit TIM44
+257330at4751	Complete	jgi|Pucst1|495980|maker-PST130_26968-snap-gene-0.2-mRNA-1	277.9	274	https://www.orthodb.org/v10?query=257330at4751	Mitochondrial import inner membrane translocase subunit TIM50
+258245at4751	Complete	jgi|Pucst1|500757|maker-PST130_7767-snap-gene-0.3-mRNA-1	483.5	319	https://www.orthodb.org/v10?query=258245at4751	tryptophanyl-tRNA synthetase
+258762at4751	Complete	jgi|Pucst1|499801|maker-PST130_7404-snap-gene-0.13-mRNA-1	140.7	157	https://www.orthodb.org/v10?query=258762at4751	Ribonuclease III
+259060at4751	Fragmented	jgi|Pucst1|487252|maker-PST130_10160-snap-gene-0.2-mRNA-1	197.2	234	https://www.orthodb.org/v10?query=259060at4751	Phospholipid
+259444at4751	Fragmented	jgi|Pucst1|499597|maker-PST130_7338-snap-gene-0.9-mRNA-1	124.1	211	https://www.orthodb.org/v10?query=259444at4751	WD40-repeat-containing domain
+259700at4751	Complete	jgi|Pucst1|491440|maker-PST130_15392-snap-gene-0.1-mRNA-1	182.5	228	https://www.orthodb.org/v10?query=259700at4751	RNA 3'-terminal phosphate cyclase
+259883at4751	Complete	jgi|Pucst1|493510|maker-PST130_20550-snap-gene-0.2-mRNA-1	53.2	71	https://www.orthodb.org/v10?query=259883at4751	Zinc finger, CCCH-type
+260251at4751	Complete	jgi|Pucst1|495888|maker-PST130_2658-snap-gene-0.2-mRNA-1	292.4	219	https://www.orthodb.org/v10?query=260251at4751	ATP phosphoribosyltransferase
+260722at4751	Missing
+260896at4751	Missing
+261237at4751	Missing
+262317at4751	Complete	jgi|Pucst1|503316|maker-PST130_8907-snap-gene-0.4-mRNA-1	328.8	269	https://www.orthodb.org/v10?query=262317at4751	Transcription factor TFIIB
+263390at4751	Complete	jgi|Pucst1|501081|snap-PST130_7882-abinit-gene-0.7-mRNA-1	291.3	305	https://www.orthodb.org/v10?query=263390at4751	RNA polymerase II transcription factor B subunit 2
+264038at4751	Complete	jgi|Pucst1|499887|snap-PST130_7439-abinit-gene-0.1-mRNA-1	362.1	356	https://www.orthodb.org/v10?query=264038at4751	KEN domain
+264164at4751	Complete	jgi|Pucst1|492702|maker-PST130_18323-snap-gene-0.2-mRNA-1	243.7	385	https://www.orthodb.org/v10?query=264164at4751	Ankyrin repeat-containing domain
+265302at4751	Complete	jgi|Pucst1|502686|snap-PST130_8602-abinit-gene-0.0-mRNA-1	184.5	240	https://www.orthodb.org/v10?query=265302at4751	Nuclear protein SNF4
+265325at4751	Complete	jgi|Pucst1|498382|maker-PST130_6928-snap-gene-0.8-mRNA-1	246.9	329	https://www.orthodb.org/v10?query=265325at4751	ubiquinol-cytochrome c reductase core subunit 2
+266634at4751	Complete	jgi|Pucst1|500821|maker-PST130_7790-snap-gene-0.2-mRNA-1	369.9	380	https://www.orthodb.org/v10?query=266634at4751	SH3 domain
+267556at4751	Complete	jgi|Pucst1|491436|snap-PST130_15383-abinit-gene-0.0-mRNA-1	153.0	153	https://www.orthodb.org/v10?query=267556at4751	Mitochondrial matrix Mmp37
+269389at4751	Complete	jgi|Pucst1|498769|maker-PST130_7062-snap-gene-0.5-mRNA-1	447.5	303	https://www.orthodb.org/v10?query=269389at4751	V-type proton ATPase subunit
+269580at4751	Complete	jgi|Pucst1|487713|maker-PST130_10561-snap-gene-0.5-mRNA-1	298.5	303	https://www.orthodb.org/v10?query=269580at4751	Protein HGH1 N-terminal
+269939at4751	Complete	jgi|Pucst1|500520|maker-PST130_7668-snap-gene-0.4-mRNA-1	226.4	349	https://www.orthodb.org/v10?query=269939at4751	Winged helix-like DNA-binding domain superfamily
+271511at4751	Complete	jgi|Pucst1|503329|maker-PST130_8917-snap-gene-0.9-mRNA-1	125.8	236	https://www.orthodb.org/v10?query=271511at4751	25S rRNA (Cytosine-C(5))-methyltransferase rcm1
+271781at4751	Complete	jgi|Pucst1|492087|snap-PST130_16776-abinit-gene-0.0-mRNA-1	122.7	242	https://www.orthodb.org/v10?query=271781at4751	CTLH, C-terminal LisH motif
+271850at4751	Fragmented	jgi|Pucst1|490136|snap-PST130_13314-abinit-gene-0.2-mRNA-1	81.6	90	https://www.orthodb.org/v10?query=271850at4751	N-acetylglucosaminyl transferase component
+272081at4751	Complete	jgi|Pucst1|502777|maker-PST130_8641-snap-gene-0.2-mRNA-1	54.2	90	https://www.orthodb.org/v10?query=272081at4751	ribosomal protein S5 domain 2-like protein
+272711at4751	Complete	jgi|Pucst1|500107|maker-PST130_7513-snap-gene-0.12-mRNA-1	246.4	231	https://www.orthodb.org/v10?query=272711at4751	Putative 26S proteasome regulatory subunit rpn9
+273469at4751	Complete	jgi|Pucst1|502519|maker-PST130_8516-snap-gene-0.4-mRNA-1	174.3	215	https://www.orthodb.org/v10?query=273469at4751	tRNA (Adenine(58)-N(1))-methyltransferase non-catalytic subunit trm6
+274828at4751	Complete	jgi|Pucst1|488744|maker-PST130_11584-snap-gene-0.1-mRNA-1	199.6	246	https://www.orthodb.org/v10?query=274828at4751	GPI-anchored wall transfer protein
+276205at4751	Missing
+278643at4751	Complete	jgi|Pucst1|504054|snap-PST130_9316-abinit-gene-0.2-mRNA-1	224.9	352	https://www.orthodb.org/v10?query=278643at4751	Phosphatidylinositol-glycan biosynthesis class S protein
+279020at4751	Complete	jgi|Pucst1|500279|maker-PST130_7573-snap-gene-0.10-mRNA-1	214.3	192	https://www.orthodb.org/v10?query=279020at4751	alpha-L RNA-binding motif-containing protein
+280937at4751	Complete	jgi|Pucst1|491973|maker-PST130_16510-snap-gene-0.4-mRNA-1	268.5	199	https://www.orthodb.org/v10?query=280937at4751	S-methyl-5'-thioadenosine phosphorylase
+281299at4751	Complete	jgi|Pucst1|499651|maker-PST130_7352-snap-gene-0.15-mRNA-1	247.2	280	https://www.orthodb.org/v10?query=281299at4751	2-(3-amino-3-carboxypropyl)histidine synthase subunit 2
+281726at4751	Complete	jgi|Pucst1|497856|snap-PST130_5919-abinit-gene-0.2-mRNA-1	252.5	173	https://www.orthodb.org/v10?query=281726at4751	Proteasome subunit beta type
+281920at4751	Complete	jgi|Pucst1|501692|maker-PST130_8142-snap-gene-0.7-mRNA-1	285.6	298	https://www.orthodb.org/v10?query=281920at4751	tRNA pseudouridine synthase
+282059at4751	Complete	jgi|Pucst1|498199|maker-PST130_6867-snap-gene-0.11-mRNA-1	485.2	283	https://www.orthodb.org/v10?query=282059at4751	Pyruvate dehydrogenase E1 component subunit beta
+282964at4751	Complete	jgi|Pucst1|501057|snap-PST130_7872-abinit-gene-0.6-mRNA-1	135.3	190	https://www.orthodb.org/v10?query=282964at4751	Gtr1/RagA G protein
+283177at4751	Complete	jgi|Pucst1|487369|snap-PST130_10245-abinit-gene-0.2-mRNA-1	207.5	224	https://www.orthodb.org/v10?query=283177at4751	adenosylmethionine decarboxylase
+284127at4751	Complete	jgi|Pucst1|488398|maker-PST130_11225-snap-gene-0.2-mRNA-1	471.4	298	https://www.orthodb.org/v10?query=284127at4751	S-adenosylmethionine synthase
+284176at4751	Complete	jgi|Pucst1|499761|maker-PST130_7395-snap-gene-0.5-mRNA-1	132.4	130	https://www.orthodb.org/v10?query=284176at4751	Pseudouridine synthase
+284287at4751	Complete	jgi|Pucst1|502087|snap-PST130_8308-abinit-gene-0.16-mRNA-1	335.7	411	https://www.orthodb.org/v10?query=284287at4751	Pseudouridine synthase
+284377at4751	Complete	jgi|Pucst1|488100|maker-PST130_10922-snap-gene-0.3-mRNA-1	493.3	457	https://www.orthodb.org/v10?query=284377at4751	Serine/threonine-protein kinase, active site
+285254at4751	Duplicated	jgi|Pucst1|503635|maker-PST130_9091-snap-gene-0.2-mRNA-1	259.2	274	https://www.orthodb.org/v10?query=285254at4751	Glutamyl-tRNA synthetase
+285254at4751	Duplicated	jgi|Pucst1|494894|maker-PST130_22814-snap-gene-0.1-mRNA-1	234.8	258	https://www.orthodb.org/v10?query=285254at4751	Glutamyl-tRNA synthetase
+285477at4751	Complete	jgi|Pucst1|494419|maker-PST130_2147-snap-gene-0.2-mRNA-1	185.1	133	https://www.orthodb.org/v10?query=285477at4751	RNA polymerase II subunit A
+285977at4751	Complete	jgi|Pucst1|494307|maker-PST130_21273-snap-gene-0.2-mRNA-1	176.1	194	https://www.orthodb.org/v10?query=285977at4751	Mitochondrial import inner membrane translocase subunit tim54
+289666at4751	Complete	jgi|Pucst1|488424|maker-PST130_11257-snap-gene-0.2-mRNA-1	200.4	209	https://www.orthodb.org/v10?query=289666at4751	Diphthine synthase
+289686at4751	Complete	jgi|Pucst1|504328|maker-PST130_9486-snap-gene-0.3-mRNA-1	43.3	63	https://www.orthodb.org/v10?query=289686at4751	Nucleotide exchange factor Fes1
+290314at4751	Complete	jgi|Pucst1|502420|maker-PST130_8471-snap-gene-0.2-mRNA-1	419.7	273	https://www.orthodb.org/v10?query=290314at4751	Ribosomal protein L4/L1e
+290471at4751	Complete	jgi|Pucst1|497332|maker-PST130_3736-snap-gene-0.9-mRNA-1	105.9	169	https://www.orthodb.org/v10?query=290471at4751	Rmd5
+291828at4751	Missing
+292336at4751	Complete	jgi|Pucst1|500105|maker-PST130_7513-snap-gene-0.17-mRNA-1	356.6	328	https://www.orthodb.org/v10?query=292336at4751	Glycylpeptide N-tetradecanoyltransferase
+292418at4751	Complete	jgi|Pucst1|497076|maker-PST130_29107-snap-gene-0.4-mRNA-1	641.9	440	https://www.orthodb.org/v10?query=292418at4751	Pyruvate kinase
+293405at4751	Missing
+295692at4751	Complete	jgi|Pucst1|503388|snap-PST130_8949-abinit-gene-0.2-mRNA-1	21.2	63	https://www.orthodb.org/v10?query=295692at4751	Transcription initiation factor IIE subunit beta
+295937at4751	Complete	jgi|Pucst1|487855|maker-PST130_10690-snap-gene-0.3-mRNA-1	288.3	215	https://www.orthodb.org/v10?query=295937at4751	KRR1 small subunit processome component
+296024at4751	Missing
+296643at4751	Complete	jgi|Pucst1|498661|maker-PST130_7026-snap-gene-0.6-mRNA-1	108.6	190	https://www.orthodb.org/v10?query=296643at4751	Ribosomal protein S5 domain 2-type fold
+297145at4751	Fragmented	jgi|Pucst1|497446|maker-PST130_4146-snap-gene-0.2-mRNA-1	62.3	98	https://www.orthodb.org/v10?query=297145at4751	TRAUB-domain-containing protein
+297671at4751	Complete	jgi|Pucst1|501087|snap-PST130_7883-abinit-gene-0.1-mRNA-1	245.2	287	https://www.orthodb.org/v10?query=297671at4751	Tyrosine--tRNA ligase
+298335at4751	Complete	jgi|Pucst1|504531|maker-PST130_9623-snap-gene-0.3-mRNA-1	519.6	516	https://www.orthodb.org/v10?query=298335at4751	GPI transamidase component GAA1
+298379at4751	Complete	jgi|Pucst1|489306|maker-PST130_12243-snap-gene-0.3-mRNA-1	87.7	121	https://www.orthodb.org/v10?query=298379at4751	Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+299054at4751	Complete	jgi|Pucst1|496316|maker-PST130_28296-snap-gene-0.9-mRNA-1	211.9	269	https://www.orthodb.org/v10?query=299054at4751	SNARE
+299330at4751	Complete	jgi|Pucst1|504156|maker-PST130_9379-snap-gene-0.8-mRNA-1	167.7	160	https://www.orthodb.org/v10?query=299330at4751	Exoribonuclease, phosphorolytic domain 1
+299509at4751	Complete	jgi|Pucst1|504641|maker-PST130_9709-snap-gene-0.8-mRNA-1	336.2	290	https://www.orthodb.org/v10?query=299509at4751	Uroporphyrinogen decarboxylase
+299559at4751	Complete	jgi|Pucst1|499675|maker-PST130_7360-snap-gene-0.2-mRNA-1	254.5	240	https://www.orthodb.org/v10?query=299559at4751	Ribosome production factor 2
+299583at4751	Complete	jgi|Pucst1|501492|maker-PST130_8051-snap-gene-0.3-mRNA-1	83.7	105	https://www.orthodb.org/v10?query=299583at4751	Gtr1/RagA G protein
+299611at4751	Complete	jgi|Pucst1|498161|maker-PST130_6848-snap-gene-0.13-mRNA-1	174.0	232	https://www.orthodb.org/v10?query=299611at4751	WD40-repeat-containing domain
+300016at4751	Complete	jgi|Pucst1|502965|maker-PST130_8722-snap-gene-0.9-mRNA-1	394.9	240	https://www.orthodb.org/v10?query=300016at4751	26S proteasome non-ATPase regulatory subunit 14
+300216at4751	Complete	jgi|Pucst1|491265|maker-PST130_15159-snap-gene-0.4-mRNA-1	398.7	333	https://www.orthodb.org/v10?query=300216at4751	Arginine biosynthesis bifunctional protein ArgJ, mitochondrial
+302127at4751	Complete	jgi|Pucst1|492860|snap-PST130_18727-abinit-gene-0.0-mRNA-1	191.0	307	https://www.orthodb.org/v10?query=302127at4751	Integral membrane protein
+304341at4751	Complete	jgi|Pucst1|502574|snap-PST130_8540-abinit-gene-0.4-mRNA-1	255.0	198	https://www.orthodb.org/v10?query=304341at4751	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+304453at4751	Complete	jgi|Pucst1|490753|maker-PST130_14358-snap-gene-0.3-mRNA-1	97.8	189	https://www.orthodb.org/v10?query=304453at4751	V-type proton ATPase subunit C
+304547at4751	Fragmented	jgi|Pucst1|502969|maker-PST130_8723-snap-gene-0.4-mRNA-1	26.6	126	https://www.orthodb.org/v10?query=304547at4751	Ribosome biogenesis protein NOP53
+304733at4751	Complete	jgi|Pucst1|500785|maker-PST130_7777-snap-gene-0.2-mRNA-1	190.7	218	https://www.orthodb.org/v10?query=304733at4751	Vesicular-fusion protein sec17
+305061at4751	Missing
+306594at4751	Complete	jgi|Pucst1|500668|maker-PST130_7724-snap-gene-0.11-mRNA-1	250.5	292	https://www.orthodb.org/v10?query=306594at4751	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1
+307144at4751	Duplicated	jgi|Pucst1|503936|maker-PST130_9245-snap-gene-0.2-mRNA-1	374.7	467	https://www.orthodb.org/v10?query=307144at4751	Rab-GTPase-TBC domain
+307144at4751	Duplicated	jgi|Pucst1|492731|maker-PST130_18370-snap-gene-0.2-mRNA-1	338.6	410	https://www.orthodb.org/v10?query=307144at4751	Rab-GTPase-TBC domain
+308236at4751	Fragmented	jgi|Pucst1|493851|snap-PST130_20867-abinit-gene-0.0-mRNA-1	258.3	211	https://www.orthodb.org/v10?query=308236at4751	Sda1
+308816at4751	Complete	jgi|Pucst1|505011|maker-PST130_9960-snap-gene-0.2-mRNA-1	382.6	411	https://www.orthodb.org/v10?query=308816at4751	Splicing factor 3a subunit 3
+310718at4751	Fragmented	jgi|Pucst1|502641|maker-PST130_8573-snap-gene-0.1-mRNA-1	268.5	410	https://www.orthodb.org/v10?query=310718at4751	Exocyst complex component Sec6
+310891at4751	Complete	jgi|Pucst1|502653|maker-PST130_8580-snap-gene-0.6-mRNA-1	661.7	599	https://www.orthodb.org/v10?query=310891at4751	Pre-mRNA-splicing factor cef1
+311048at4751	Complete	jgi|Pucst1|493575|maker-PST130_20613-snap-gene-0.3-mRNA-1	144.8	174	https://www.orthodb.org/v10?query=311048at4751	Deoxyhypusine hydroxylase
+311254at4751	Complete	jgi|Pucst1|490788|maker-PST130_14408-snap-gene-0.3-mRNA-1	274.3	356	https://www.orthodb.org/v10?query=311254at4751	Nuclear segregation protein
+312080at4751	Complete	jgi|Pucst1|496728|maker-PST130_28664-snap-gene-0.5-mRNA-1	311.5	278	https://www.orthodb.org/v10?query=312080at4751	Autophagy-related protein 3
+312209at4751	Complete	jgi|Pucst1|497637|maker-PST130_4937-snap-gene-0.8-mRNA-1	67.2	115	https://www.orthodb.org/v10?query=312209at4751	adenine nucleotide alpha hydrolases-like protein
+312950at4751	Missing
+315551at4751	Missing
+315639at4751	Missing
+315799at4751	Complete	jgi|Pucst1|491904|maker-PST130_16375-snap-gene-0.2-mRNA-1	195.8	233	https://www.orthodb.org/v10?query=315799at4751	WD40-repeat-containing domain
+315802at4751	Complete	jgi|Pucst1|503349|maker-PST130_8925-snap-gene-0.10-mRNA-1	163.3	185	https://www.orthodb.org/v10?query=315802at4751	tRNA dimethylallyltransferase
+316254at4751	Complete	jgi|Pucst1|498687|maker-PST130_7037-snap-gene-0.7-mRNA-1	188.4	249	https://www.orthodb.org/v10?query=316254at4751	glycosyltransferase family 50 protein
+316920at4751	Complete	jgi|Pucst1|504293|maker-PST130_9464-snap-gene-0.2-mRNA-1	132.9	177	https://www.orthodb.org/v10?query=316920at4751	Lysophospholipid acyltransferase
+317276at4751	Complete	jgi|Pucst1|490858|snap-PST130_14534-abinit-gene-0.1-mRNA-1	352.5	231	https://www.orthodb.org/v10?query=317276at4751	Protein kinase domain
+317335at4751	Complete	jgi|Pucst1|500532|maker-PST130_7670-snap-gene-0.12-mRNA-1	202.5	236	https://www.orthodb.org/v10?query=317335at4751	Anthranilate phosphoribosyltransferase
+319121at4751	Complete	jgi|Pucst1|494154|maker-PST130_21131-snap-gene-0.2-mRNA-1	153.5	189	https://www.orthodb.org/v10?query=319121at4751	Zinc finger, UBR-type
+320163at4751	Complete	jgi|Pucst1|498628|snap-PST130_7013-abinit-gene-0.9-mRNA-1	213.8	287	https://www.orthodb.org/v10?query=320163at4751	Ribonuclease Nob1, eukaryote
+320638at4751	Complete	jgi|Pucst1|504191|snap-PST130_9396-abinit-gene-0.2-mRNA-1	703.8	472	https://www.orthodb.org/v10?query=320638at4751	Nucleotide-diphospho-sugar transferase
+320777at4751	Complete	jgi|Pucst1|493908|maker-PST130_20919-snap-gene-0.3-mRNA-1	296.0	298	https://www.orthodb.org/v10?query=320777at4751	Translation initiation factor IF2/IF5
+320782at4751	Fragmented	jgi|Pucst1|489537|maker-PST130_12506-snap-gene-0.3-mRNA-1	111.6	177	https://www.orthodb.org/v10?query=320782at4751	RNA polymerase I associated factor, A49-like protein
+321416at4751	Complete	jgi|Pucst1|488683|maker-PST130_1153-snap-gene-0.4-mRNA-1	608.0	550	https://www.orthodb.org/v10?query=321416at4751	Pre-mRNA-splicing factor syf1
+321585at4751	Complete	jgi|Pucst1|489594|snap-PST130_12554-abinit-gene-0.3-mRNA-1	327.1	246	https://www.orthodb.org/v10?query=321585at4751	U3 small nucleolar ribonucleoprotein IMP4
+321728at4751	Complete	jgi|Pucst1|498035|snap-PST130_6788-abinit-gene-0.0-mRNA-1	252.1	196	https://www.orthodb.org/v10?query=321728at4751	GPI-anchor transamidase
+322254at4751	Complete	jgi|Pucst1|501182|maker-PST130_7926-snap-gene-0.4-mRNA-1	134.1	203	https://www.orthodb.org/v10?query=322254at4751	Histone acetyltransferase type B catalytic subunit
+322267at4751	Missing
+323327at4751	Complete	jgi|Pucst1|501025|maker-PST130_7858-snap-gene-0.12-mRNA-1	177.9	233	https://www.orthodb.org/v10?query=323327at4751	Translation initiation factor eIF-2B subunit alpha
+324442at4751	Complete	jgi|Pucst1|492340|maker-PST130_1747-snap-gene-0.2-mRNA-1	103.2	88	https://www.orthodb.org/v10?query=324442at4751	Cell division control protein 73, C-terminal
+325992at4751	Missing
+326512at4751	Missing
+326649at4751	Duplicated	jgi|Pucst1|500128|maker-PST130_7517-snap-gene-0.4-mRNA-1	506.8	414	https://www.orthodb.org/v10?query=326649at4751	Phosphoacetylglucosamine mutase
+326649at4751	Duplicated	jgi|Pucst1|496804|maker-PST130_28743-snap-gene-0.3-mRNA-1	503.0	419	https://www.orthodb.org/v10?query=326649at4751	Phosphoacetylglucosamine mutase
+327672at4751	Complete	jgi|Pucst1|488189|maker-PST130_11004-snap-gene-0.3-mRNA-1	170.6	178	https://www.orthodb.org/v10?query=327672at4751	CDK-activating kinase assembly factor MAT1
+327748at4751	Complete	jgi|Pucst1|495282|maker-PST130_24225-snap-gene-0.2-mRNA-1	286.2	263	https://www.orthodb.org/v10?query=327748at4751	Zinc finger, RING/FYVE/PHD-type
+327884at4751	Complete	jgi|Pucst1|501828|maker-PST130_8205-snap-gene-0.2-mRNA-1	360.2	236	https://www.orthodb.org/v10?query=327884at4751	60S acidic ribosomal protein P0
+329067at4751	Complete	jgi|Pucst1|494830|maker-PST130_22614-snap-gene-0.1-mRNA-1	189.2	282	https://www.orthodb.org/v10?query=329067at4751	Anaphase-promoting complex subunit 2
+330533at4751	Complete	jgi|Pucst1|489689|snap-PST130_12603-abinit-gene-0.1-mRNA-1	192.3	259	https://www.orthodb.org/v10?query=330533at4751	Xaa-pro dipeptidase app
+330551at4751	Missing
+330629at4751	Missing
+330815at4751	Complete	jgi|Pucst1|501949|maker-PST130_8258-snap-gene-0.4-mRNA-1	289.1	238	https://www.orthodb.org/v10?query=330815at4751	Translation initiation factor 2, alpha subunit
+330949at4751	Complete	jgi|Pucst1|500369|snap-PST130_7604-abinit-gene-0.1-mRNA-1	320.5	331	https://www.orthodb.org/v10?query=330949at4751	tRNA pseudouridine synthase
+331022at4751	Complete	jgi|Pucst1|499143|maker-PST130_7191-snap-gene-0.14-mRNA-1	96.1	125	https://www.orthodb.org/v10?query=331022at4751	P-loop containing nucleoside triphosphate hydrolase protein
+331763at4751	Complete	jgi|Pucst1|500545|maker-PST130_7676-snap-gene-0.5-mRNA-1	379.1	201	https://www.orthodb.org/v10?query=331763at4751	Ribosomal protein S5
+332006at4751	Complete	jgi|Pucst1|500855|snap-PST130_7802-abinit-gene-0.7-mRNA-1	270.9	220	https://www.orthodb.org/v10?query=332006at4751	SURF1-like protein
+332036at4751	Missing
+332416at4751	Complete	jgi|Pucst1|493647|snap-PST130_20679-abinit-gene-0.4-mRNA-1	182.0	143	https://www.orthodb.org/v10?query=332416at4751	P-loop containing nucleoside triphosphate hydrolase protein
+332876at4751	Complete	jgi|Pucst1|503810|snap-PST130_9183-abinit-gene-0.1-mRNA-1	346.8	373	https://www.orthodb.org/v10?query=332876at4751	WD40/YVTN repeat-like-containing domain superfamily
+332891at4751	Fragmented	jgi|Pucst1|502725|maker-PST130_8619-snap-gene-0.2-mRNA-1	265.8	156	https://www.orthodb.org/v10?query=332891at4751	Glycerol
+334424at4751	Complete	jgi|Pucst1|501583|snap-PST130_8095-abinit-gene-0.5-mRNA-1	201.4	167	https://www.orthodb.org/v10?query=334424at4751	rRNA adenine N(6)-methyltransferase
+335237at4751	Complete	jgi|Pucst1|492165|snap-PST130_17009-abinit-gene-0.7-mRNA-1	333.9	288	https://www.orthodb.org/v10?query=335237at4751	P-loop containing nucleoside triphosphate hydrolase protein
+335719at4751	Complete	jgi|Pucst1|494002|snap-PST130_21004-abinit-gene-0.5-mRNA-1	334.6	236	https://www.orthodb.org/v10?query=335719at4751	mitochondrial carrier
+336181at4751	Complete	jgi|Pucst1|503520|maker-PST130_9028-snap-gene-0.9-mRNA-1	235.7	226	https://www.orthodb.org/v10?query=336181at4751	Adenosine kinase
+336187at4751	Missing
+337150at4751	Complete	jgi|Pucst1|487557|maker-PST130_10422-snap-gene-0.1-mRNA-1	485.1	595	https://www.orthodb.org/v10?query=337150at4751	Exocyst complex component Sec10
+337917at4751	Fragmented	jgi|Pucst1|489331|maker-PST130_1227-snap-gene-0.2-mRNA-1	119.2	123	https://www.orthodb.org/v10?query=337917at4751	ribosomal protein S15
+338301at4751	Complete	jgi|Pucst1|502946|maker-PST130_8711-snap-gene-0.13-mRNA-1	79.8	125	https://www.orthodb.org/v10?query=338301at4751	37S ribosomal protein S25, mitochondrial
+338808at4751	Complete	jgi|Pucst1|493925|maker-PST130_20930-snap-gene-0.3-mRNA-1	400.0	251	https://www.orthodb.org/v10?query=338808at4751	Golgi phosphoprotein 3-like
+339525at4751	Complete	jgi|Pucst1|497851|snap-PST130_59-abinit-gene-0.1-mRNA-1	218.5	229	https://www.orthodb.org/v10?query=339525at4751	Aminomethyltransferase
+342642at4751	Fragmented	jgi|Pucst1|500415|maker-PST130_762-snap-gene-0.1-mRNA-1	159.0	127	https://www.orthodb.org/v10?query=342642at4751	Dihydroorotase
+343196at4751	Missing
+343603at4751	Missing
+343623at4751	Missing
+343717at4751	Complete	jgi|Pucst1|503925|maker-PST130_9241-snap-gene-0.2-mRNA-1	154.9	274	https://www.orthodb.org/v10?query=343717at4751	RNA polymerase III Rpc82, C -terminal
+344553at4751	Complete	jgi|Pucst1|503541|maker-PST130_9037-snap-gene-0.10-mRNA-1	150.8	132	https://www.orthodb.org/v10?query=344553at4751	Ubiquitin fusion degradation protein 1
+345661at4751	Complete	jgi|Pucst1|488795|maker-PST130_11633-snap-gene-0.2-mRNA-1	83.6	58	https://www.orthodb.org/v10?query=345661at4751	tRNA-splicing endonuclease subunit Sen2
+348020at4751	Missing
+348111at4751	Complete	jgi|Pucst1|501504|maker-PST130_8058-snap-gene-0.11-mRNA-1	312.9	253	https://www.orthodb.org/v10?query=348111at4751	Ribosomal protein L2
+349264at4751	Complete	jgi|Pucst1|489492|maker-PST130_12471-snap-gene-0.14-mRNA-1	285.5	173	https://www.orthodb.org/v10?query=349264at4751	Proteasome subunit beta type
+350840at4751	Complete	jgi|Pucst1|487166|maker-PST130_10100-snap-gene-0.3-mRNA-1	108.6	114	https://www.orthodb.org/v10?query=350840at4751	Isopentenyl-diphosphate delta-isomerase
+351351at4751	Complete	jgi|Pucst1|502602|maker-PST130_8550-snap-gene-0.12-mRNA-1	313.1	377	https://www.orthodb.org/v10?query=351351at4751	Mannosyltransferase
+351482at4751	Complete	jgi|Pucst1|499101|maker-PST130_7178-snap-gene-0.7-mRNA-1	422.1	255	https://www.orthodb.org/v10?query=351482at4751	Prohibitin-2
+351646at4751	Missing
+351651at4751	Complete	jgi|Pucst1|500991|maker-PST130_7847-snap-gene-0.1-mRNA-1	244.3	290	https://www.orthodb.org/v10?query=351651at4751	Chitobiosyldiphosphodolichol beta-mannosyltransferase
+351849at4751	Complete	jgi|Pucst1|493574|maker-PST130_20613-snap-gene-0.4-mRNA-1	172.9	173	https://www.orthodb.org/v10?query=351849at4751	Ribosome assembly factor mrt4
+351858at4751	Complete	jgi|Pucst1|489913|maker-PST130_12927-snap-gene-0.9-mRNA-1	335.3	181	https://www.orthodb.org/v10?query=351858at4751	Eukaryotic translation initiation factor 6
+351906at4751	Complete	jgi|Pucst1|494955|maker-PST130_2300-snap-gene-0.2-mRNA-1	169.6	144	https://www.orthodb.org/v10?query=351906at4751	ribosomal protein L15
+352224at4751	Complete	jgi|Pucst1|504208|maker-PST130_9408-snap-gene-0.2-mRNA-1	105.5	102	https://www.orthodb.org/v10?query=352224at4751	yeats-domain-containing protein
+352999at4751	Missing
+353685at4751	Complete	jgi|Pucst1|492634|maker-PST130_18220-snap-gene-0.7-mRNA-1	171.2	152	https://www.orthodb.org/v10?query=353685at4751	ER membrane protein complex subunit 3
+353762at4751	Complete	jgi|Pucst1|502020|maker-PST130_8284-snap-gene-0.6-mRNA-1	416.3	281	https://www.orthodb.org/v10?query=353762at4751	Chitin synthase export chaperone
+353991at4751	Complete	jgi|Pucst1|501926|maker-PST130_8249-snap-gene-0.7-mRNA-1	351.7	320	https://www.orthodb.org/v10?query=353991at4751	DnaJ domain
+354679at4751	Complete	jgi|Pucst1|487865|maker-PST130_10698-snap-gene-0.4-mRNA-1	433.0	249	https://www.orthodb.org/v10?query=354679at4751	Cell differentiation protein rcd1
+354739at4751	Complete	jgi|Pucst1|505034|maker-PST130_9977-snap-gene-0.4-mRNA-1	153.8	194	https://www.orthodb.org/v10?query=354739at4751	Ribosomal protein L5
+354778at4751	Complete	jgi|Pucst1|500075|maker-PST130_7502-snap-gene-0.5-mRNA-1	414.9	296	https://www.orthodb.org/v10?query=354778at4751	Diphosphomevalonate decarboxylase
+354913at4751	Missing
+355454at4751	Complete	jgi|Pucst1|499916|maker-PST130_7446-snap-gene-0.6-mRNA-1	270.5	319	https://www.orthodb.org/v10?query=355454at4751	Iron hydrogenase
+355525at4751	Complete	jgi|Pucst1|492654|maker-PST130_18267-snap-gene-0.6-mRNA-1	281.2	322	https://www.orthodb.org/v10?query=355525at4751	Leucine-rich repeat
+355781at4751	Complete	jgi|Pucst1|488115|maker-PST130_10938-snap-gene-0.1-mRNA-1	116.4	160	https://www.orthodb.org/v10?query=355781at4751	GTP cyclohydrolase 1 type 2/Nif3
+356079at4751	Complete	jgi|Pucst1|499552|snap-PST130_7323-abinit-gene-0.4-mRNA-1	139.0	175	https://www.orthodb.org/v10?query=356079at4751	DNA glycosylase
+356691at4751	Complete	jgi|Pucst1|503344|maker-PST130_8923-snap-gene-0.2-mRNA-1	265.0	289	https://www.orthodb.org/v10?query=356691at4751	Peroxisome biogenesis factor 1
+356743at4751	Complete	jgi|Pucst1|502610|snap-PST130_8556-abinit-gene-0.2-mRNA-1	295.3	174	https://www.orthodb.org/v10?query=356743at4751	Ribosomal protein
+357182at4751	Complete	jgi|Pucst1|504288|maker-PST130_9460-snap-gene-0.2-mRNA-1	299.0	324	https://www.orthodb.org/v10?query=357182at4751	DNA primase large subunit
+357584at4751	Complete	jgi|Pucst1|490240|maker-PST130_13498-snap-gene-0.9-mRNA-1	201.4	189	https://www.orthodb.org/v10?query=357584at4751	Metal-dependent protein hydrolase
+358012at4751	Complete	jgi|Pucst1|494093|maker-PST130_21082-snap-gene-0.4-mRNA-1	224.9	199	https://www.orthodb.org/v10?query=358012at4751	Eukaryotic translation initiation factor 3 subunit G
+358118at4751	Complete	jgi|Pucst1|492658|maker-PST130_18271-snap-gene-0.5-mRNA-1	424.4	296	https://www.orthodb.org/v10?query=358118at4751	Splicing factor 3B subunit 2
+359271at4751	Complete	jgi|Pucst1|488823|maker-PST130_11670-snap-gene-0.4-mRNA-1	302.6	322	https://www.orthodb.org/v10?query=359271at4751	Membrane protein TMS1
+359482at4751	Complete	jgi|Pucst1|493527|maker-PST130_20568-snap-gene-0.2-mRNA-1	181.3	135	https://www.orthodb.org/v10?query=359482at4751	vesicle transporter SEC22
+359627at4751	Fragmented	jgi|Pucst1|496014|maker-PST130_27114-snap-gene-0.2-mRNA-1	138.7	125	https://www.orthodb.org/v10?query=359627at4751	Trafficking protein particle complex subunit
+360800at4751	Complete	jgi|Pucst1|498059|snap-PST130_6802-abinit-gene-0.5-mRNA-1	24.1	198	https://www.orthodb.org/v10?query=360800at4751	plus-3-domain-containing protein
+361877at4751	Complete	jgi|Pucst1|503073|maker-PST130_8784-snap-gene-0.4-mRNA-1	79.2	166	https://www.orthodb.org/v10?query=361877at4751	Scavenger mRNA decapping enzyme
+362218at4751	Complete	jgi|Pucst1|498207|maker-PST130_6871-snap-gene-0.3-mRNA-1	173.8	199	https://www.orthodb.org/v10?query=362218at4751	Nop domain
+362250at4751	Complete	jgi|Pucst1|501764|maker-PST130_8174-snap-gene-0.4-mRNA-1	183.4	189	https://www.orthodb.org/v10?query=362250at4751	Bax inhibitor 1-related
+362322at4751	Complete	jgi|Pucst1|501909|maker-PST130_8243-snap-gene-0.2-mRNA-1	83.3	97	https://www.orthodb.org/v10?query=362322at4751	RNA cap guanine-N2 methyltransferase
+362601at4751	Complete	jgi|Pucst1|497492|snap-PST130_4335-abinit-gene-0.1-mRNA-1	525.5	466	https://www.orthodb.org/v10?query=362601at4751	Oxoglutarate/iron-dependent dioxygenase
+363593at4751	Complete	jgi|Pucst1|494115|maker-PST130_21106-snap-gene-0.3-mRNA-1	297.6	203	https://www.orthodb.org/v10?query=363593at4751	Pre-mRNA-splicing factor CWC2
+364123at4751	Complete	jgi|Pucst1|500921|maker-PST130_7820-snap-gene-0.11-mRNA-1	253.6	228	https://www.orthodb.org/v10?query=364123at4751	26S Proteasome non-ATPase regulatory subunit 6
+364284at4751	Missing
+365270at4751	Duplicated	jgi|Pucst1|500325|maker-PST130_7589-snap-gene-0.3-mRNA-1	180.7	224	https://www.orthodb.org/v10?query=365270at4751	Cyclin-like protein
+365270at4751	Duplicated	jgi|Pucst1|496873|maker-PST130_28838-snap-gene-0.5-mRNA-1	161.7	233	https://www.orthodb.org/v10?query=365270at4751	Cyclin-like protein
+366595at4751	Fragmented	jgi|Pucst1|493823|snap-PST130_20835-abinit-gene-0.1-mRNA-1	116.7	104	https://www.orthodb.org/v10?query=366595at4751	Dolichol-phosphate mannosyltransferase
+366597at4751	Missing
+366635at4751	Complete	jgi|Pucst1|499607|maker-PST130_7340-snap-gene-0.12-mRNA-1	211.7	165	https://www.orthodb.org/v10?query=366635at4751	Matrin/U1-C-like, C2H2-type zinc finger
+367778at4751	Fragmented	jgi|Pucst1|500767|maker-PST130_7771-snap-gene-0.5-mRNA-1	210.3	146	https://www.orthodb.org/v10?query=367778at4751	Acetolactate synthase
+368706at4751	Duplicated	jgi|Pucst1|488137|maker-PST130_10963-snap-gene-0.3-mRNA-1	248.9	189	https://www.orthodb.org/v10?query=368706at4751	Proteasome subunit beta
+368706at4751	Duplicated	jgi|Pucst1|488295|maker-PST130_11114-snap-gene-0.3-mRNA-1	222.3	166	https://www.orthodb.org/v10?query=368706at4751	Proteasome subunit beta
+369435at4751	Complete	jgi|Pucst1|504791|maker-PST130_9813-snap-gene-0.2-mRNA-1	186.5	178	https://www.orthodb.org/v10?query=369435at4751	Triosephosphate isomerase
+370505at4751	Complete	jgi|Pucst1|491612|maker-PST130_15690-snap-gene-0.3-mRNA-1	374.2	237	https://www.orthodb.org/v10?query=370505at4751	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+370952at4751	Complete	jgi|Pucst1|492704|snap-PST130_18326-abinit-gene-0.1-mRNA-1	349.5	184	https://www.orthodb.org/v10?query=370952at4751	Ribosomal protein S3
+371481at4751	Complete	jgi|Pucst1|493744|maker-PST130_20759-snap-gene-0.12-mRNA-1	167.3	174	https://www.orthodb.org/v10?query=371481at4751	Ribosome maturation protein SBDS, N-terminal
+371674at4751	Complete	jgi|Pucst1|500345|maker-PST130_7598-snap-gene-0.21-mRNA-1	220.4	214	https://www.orthodb.org/v10?query=371674at4751	UPF0103-domain-containing protein
+371862at4751	Complete	jgi|Pucst1|492138|maker-PST130_16925-snap-gene-0.2-mRNA-1	294.0	165	https://www.orthodb.org/v10?query=371862at4751	Septum-promoting GTP-binding protein 1
+372381at4751	Fragmented	jgi|Pucst1|501744|maker-PST130_8165-snap-gene-0.16-mRNA-1	185.3	252	https://www.orthodb.org/v10?query=372381at4751	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1
+372510at4751	Complete	jgi|Pucst1|496720|maker-PST130_28652-snap-gene-0.8-mRNA-1	186.9	185	https://www.orthodb.org/v10?query=372510at4751	transcription factor Tfb4
+372972at4751	Complete	jgi|Pucst1|489372|snap-PST130_12337-abinit-gene-0.3-mRNA-1	94.7	113	https://www.orthodb.org/v10?query=372972at4751	tRNA (guanine-N(7)-)-methyltransferase
+374350at4751	Complete	jgi|Pucst1|489899|snap-PST130_12904-abinit-gene-0.0-mRNA-1	194.2	170	https://www.orthodb.org/v10?query=374350at4751	phosphatidylserine decarboxylase
+374548at4751	Missing
+376255at4751	Missing
+376442at4751	Complete	jgi|Pucst1|493811|maker-PST130_20825-snap-gene-0.2-mRNA-1	194.6	261	https://www.orthodb.org/v10?query=376442at4751	Vps52
+376539at4751	Complete	jgi|Pucst1|503280|snap-PST130_8884-abinit-gene-0.1-mRNA-1	203.9	412	https://www.orthodb.org/v10?query=376539at4751	Ribosome biogenesis protein Kri1
+376586at4751	Complete	jgi|Pucst1|501839|snap-PST130_8209-abinit-gene-0.3-mRNA-1	228.3	188	https://www.orthodb.org/v10?query=376586at4751	Deoxycytidylate deaminase
+377787at4751	Complete	jgi|Pucst1|493221|maker-PST130_19811-snap-gene-0.4-mRNA-1	289.0	164	https://www.orthodb.org/v10?query=377787at4751	Ribosomal protein S7 domain
+378256at4751	Complete	jgi|Pucst1|499993|maker-PST130_7469-snap-gene-0.12-mRNA-1	86.8	114	https://www.orthodb.org/v10?query=378256at4751	Exoribonuclease, PH domain 2 superfamily
+378281at4751	Complete	jgi|Pucst1|501006|maker-PST130_7852-snap-gene-0.7-mRNA-1	203.5	179	https://www.orthodb.org/v10?query=378281at4751	Ribosomal protein L3
+378295at4751	Missing
+378376at4751	Missing
+378430at4751	Complete	jgi|Pucst1|491606|snap-PST130_15674-abinit-gene-0.0-mRNA-1	250.8	182	https://www.orthodb.org/v10?query=378430at4751	Serine/threonine-protein kinase RIO1
+378436at4751	Fragmented	jgi|Pucst1|497849|snap-PST130_5895-abinit-gene-0.0-mRNA-1	32.6	163	https://www.orthodb.org/v10?query=378436at4751	Signal recognition particle subunit SRP68
+379525at4751	Complete	jgi|Pucst1|490476|maker-PST130_13798-snap-gene-0.7-mRNA-1	113.9	122	https://www.orthodb.org/v10?query=379525at4751	coatomer zeta subunit
+382001at4751	Complete	jgi|Pucst1|495834|maker-PST130_26354-snap-gene-0.6-mRNA-1	222.6	185	https://www.orthodb.org/v10?query=382001at4751	syntaxin 5
+383007at4751	Complete	jgi|Pucst1|500177|maker-PST130_7536-snap-gene-0.2-mRNA-1	176.9	259	https://www.orthodb.org/v10?query=383007at4751	Transcription initiation factor IIE subunit alpha
+384156at4751	Complete	jgi|Pucst1|487465|maker-PST130_10337-snap-gene-0.2-mRNA-1	152.0	175	https://www.orthodb.org/v10?query=384156at4751	ATP synthase subunit gamma
+384315at4751	Complete	jgi|Pucst1|495960|maker-PST130_26880-snap-gene-0.5-mRNA-1	196.2	149	https://www.orthodb.org/v10?query=384315at4751	Proteasome subunit beta type
+385139at4751	Complete	jgi|Pucst1|487673|maker-PST130_10528-snap-gene-0.11-mRNA-1	260.0	164	https://www.orthodb.org/v10?query=385139at4751	Proteasome subunit beta type
+385343at4751	Complete	jgi|Pucst1|496311|maker-PST130_28295-snap-gene-0.2-mRNA-1	204.2	189	https://www.orthodb.org/v10?query=385343at4751	GTP cyclohydrolase II
+385564at4751	Complete	jgi|Pucst1|500492|maker-PST130_7653-snap-gene-0.7-mRNA-1	231.0	210	https://www.orthodb.org/v10?query=385564at4751	WD40-repeat-containing domain
+385971at4751	Complete	jgi|Pucst1|487973|snap-PST130_10796-abinit-gene-0.0-mRNA-1	86.3	103	https://www.orthodb.org/v10?query=385971at4751	Ribonuclease
+386220at4751	Missing
+386245at4751	Complete	jgi|Pucst1|498717|snap-PST130_7045-abinit-gene-0.4-mRNA-1	107.8	172	https://www.orthodb.org/v10?query=386245at4751	Origin recognition complex subunit 2
+387347at4751	Complete	jgi|Pucst1|498246|maker-PST130_6886-snap-gene-0.18-mRNA-1	116.4	152	https://www.orthodb.org/v10?query=387347at4751	Exosome complex component CSL4
+387759at4751	Complete	jgi|Pucst1|491860|maker-PST130_1625-snap-gene-0.2-mRNA-1	154.9	138	https://www.orthodb.org/v10?query=387759at4751	Mitochondrial inner membrane protease ATP23
+388229at4751	Fragmented	jgi|Pucst1|494303|snap-PST130_21271-abinit-gene-0.1-mRNA-1	139.2	82	https://www.orthodb.org/v10?query=388229at4751	RNA polymerase, Rpb5, N-terminal
+389034at4751	Complete	jgi|Pucst1|499326|snap-PST130_7245-abinit-gene-0.2-mRNA-1	310.4	180	https://www.orthodb.org/v10?query=389034at4751	rRNA 2'-O-methyltransferase fibrillarin
+389547at4751	Complete	jgi|Pucst1|492618|snap-PST130_18194-abinit-gene-0.0-mRNA-1	123.8	84	https://www.orthodb.org/v10?query=389547at4751	Pre-mRNA-splicing factor slt11
+389565at4751	Complete	jgi|Pucst1|498912|maker-PST130_7112-snap-gene-0.10-mRNA-1	412.4	229	https://www.orthodb.org/v10?query=389565at4751	Cytochrome c-like domain
+390518at4751	Complete	jgi|Pucst1|504426|maker-PST130_9551-snap-gene-0.8-mRNA-1	327.2	238	https://www.orthodb.org/v10?query=390518at4751	26S proteasome regulatory subunit rpn-8
+391384at4751	Complete	jgi|Pucst1|502241|maker-PST130_8380-snap-gene-0.3-mRNA-1	198.2	184	https://www.orthodb.org/v10?query=391384at4751	Exosome complex component RRP4
+392558at4751	Complete	jgi|Pucst1|504371|maker-PST130_9507-snap-gene-0.5-mRNA-1	71.2	93	https://www.orthodb.org/v10?query=392558at4751	ESCRT-II complex, vps25 subunit
+393440at4751	Complete	jgi|Pucst1|503711|snap-PST130_9131-abinit-gene-0.2-mRNA-1	78.7	88	https://www.orthodb.org/v10?query=393440at4751	K Homology domain, type 1
+393996at4751	Missing
+396097at4751	Complete	jgi|Pucst1|496958|maker-PST130_28946-snap-gene-0.2-mRNA-1	213.8	369	https://www.orthodb.org/v10?query=396097at4751	AVL9/DENND6 domain
+396330at4751	Complete	jgi|Pucst1|499068|maker-PST130_7165-snap-gene-0.5-mRNA-1	212.8	178	https://www.orthodb.org/v10?query=396330at4751	UPF0016-domain-containing protein
+396842at4751	Complete	jgi|Pucst1|501330|maker-PST130_7987-snap-gene-0.11-mRNA-1	258.3	205	https://www.orthodb.org/v10?query=396842at4751	18S rRNA (Guanine(1575)-N(7))-methyltransferase
+397465at4751	Complete	jgi|Pucst1|498933|maker-PST130_7121-snap-gene-0.8-mRNA-1	129.2	99	https://www.orthodb.org/v10?query=397465at4751	Vacuolar protein sorting-associated protein 28
+398519at4751	Complete	jgi|Pucst1|500665|snap-PST130_7723-abinit-gene-0.3-mRNA-1	95.4	148	https://www.orthodb.org/v10?query=398519at4751	chromatin associated protein KTI12
+398592at4751	Complete	jgi|Pucst1|495822|maker-PST130_26302-snap-gene-0.5-mRNA-1	218.3	417	https://www.orthodb.org/v10?query=398592at4751	NUC153
+398882at4751	Complete	jgi|Pucst1|490682|maker-PST130_142-snap-gene-0.2-mRNA-1	216.9	144	https://www.orthodb.org/v10?query=398882at4751	Ubiquitin-conjugating enzyme E2 8
+398968at4751	Complete	jgi|Pucst1|494785|maker-PST130_22489-snap-gene-0.2-mRNA-1	97.0	80	https://www.orthodb.org/v10?query=398968at4751	Trafficking protein particle complex subunit BET3
+399376at4751	Complete	jgi|Pucst1|489934|snap-PST130_12963-abinit-gene-0.0-mRNA-1	108.7	155	https://www.orthodb.org/v10?query=399376at4751	Ribosome biogenesis protein BRX1
+399413at4751	Missing
+399810at4751	Complete	jgi|Pucst1|498092|maker-PST130_6817-snap-gene-0.2-mRNA-1	127.5	122	https://www.orthodb.org/v10?query=399810at4751	GOLD domain
+401387at4751	Complete	jgi|Pucst1|493339|maker-PST130_20217-snap-gene-0.3-mRNA-1	279.3	242	https://www.orthodb.org/v10?query=401387at4751	phosphopantothenate-cysteine ligase
+402005at4751	Complete	jgi|Pucst1|503904|maker-PST130_9231-snap-gene-0.3-mRNA-1	122.4	101	https://www.orthodb.org/v10?query=402005at4751	Protein RER1
+402255at4751	Complete	jgi|Pucst1|503348|maker-PST130_8925-snap-gene-0.9-mRNA-1	257.3	190	https://www.orthodb.org/v10?query=402255at4751	F-actin capping protein beta subunit
+403079at4751	Complete	jgi|Pucst1|491528|maker-PST130_15529-snap-gene-0.2-mRNA-1	314.2	196	https://www.orthodb.org/v10?query=403079at4751	Vacuolar ATP synthase subunit D
+404050at4751	Missing
+405669at4751	Complete	jgi|Pucst1|490656|maker-PST130_14160-snap-gene-0.4-mRNA-1	177.9	307	https://www.orthodb.org/v10?query=405669at4751	Leucine-rich repeat
+405898at4751	Complete	jgi|Pucst1|490363|snap-PST130_13622-abinit-gene-0.1-mRNA-1	334.7	308	https://www.orthodb.org/v10?query=405898at4751	U4/U6 small nuclear ribonucleoprotein Prp3
+406240at4751	Complete	jgi|Pucst1|503716|maker-PST130_9135-snap-gene-0.6-mRNA-1	142.4	116	https://www.orthodb.org/v10?query=406240at4751	RNA polymerase Rpb7-like, N-terminal domain superfamily
+406403at4751	Complete	jgi|Pucst1|499624|maker-PST130_7346-snap-gene-0.9-mRNA-1	120.7	145	https://www.orthodb.org/v10?query=406403at4751	septum formation protein Maf
+406434at4751	Complete	jgi|Pucst1|504768|snap-PST130_9794-abinit-gene-0.1-mRNA-1	92.9	108	https://www.orthodb.org/v10?query=406434at4751	EB1, C-terminal
+406793at4751	Complete	jgi|Pucst1|489259|maker-PST130_12183-snap-gene-0.2-mRNA-1	123.5	59	https://www.orthodb.org/v10?query=406793at4751	40S ribosomal protein S11
+407348at4751	Missing
+408391at4751	Complete	jgi|Pucst1|493501|maker-PST130_20539-snap-gene-0.7-mRNA-1	112.8	121	https://www.orthodb.org/v10?query=408391at4751	Translocation protein sec66
+408419at4751	Complete	jgi|Pucst1|504257|maker-PST130_9434-snap-gene-0.2-mRNA-1	88.3	114	https://www.orthodb.org/v10?query=408419at4751	Winged helix-like DNA-binding domain superfamily
+409761at4751	Complete	jgi|Pucst1|488541|maker-PST130_11380-snap-gene-0.4-mRNA-1	71.6	163	https://www.orthodb.org/v10?query=409761at4751	Coatomer subunit epsilon
+410458at4751	Complete	jgi|Pucst1|493514|snap-PST130_20557-abinit-gene-0.1-mRNA-1	150.4	134	https://www.orthodb.org/v10?query=410458at4751	RNA-binding S4 domain
+410782at4751	Complete	jgi|Pucst1|498681|maker-PST130_7034-snap-gene-0.14-mRNA-1	231.8	264	https://www.orthodb.org/v10?query=410782at4751	ATP-dependent (S)-NAD(P)H-hydrate dehydratase
+410986at4751	Complete	jgi|Pucst1|499596|snap-PST130_7338-abinit-gene-0.1-mRNA-1	205.3	163	https://www.orthodb.org/v10?query=410986at4751	PIN domain
+410991at4751	Complete	jgi|Pucst1|500334|snap-PST130_7593-abinit-gene-0.2-mRNA-1	112.4	117	https://www.orthodb.org/v10?query=410991at4751	Translationally controlled tumour protein
+411130at4751	Complete	jgi|Pucst1|487399|maker-PST130_10279-snap-gene-0.5-mRNA-1	224.6	160	https://www.orthodb.org/v10?query=411130at4751	Snf7 family
+411471at4751	Complete	jgi|Pucst1|501578|snap-PST130_8094-abinit-gene-0.5-mRNA-1	202.6	263	https://www.orthodb.org/v10?query=411471at4751	phosphatidylinositol glycan, class U
+411518at4751	Complete	jgi|Pucst1|488508|maker-PST130_11346-snap-gene-0.3-mRNA-1	179.8	274	https://www.orthodb.org/v10?query=411518at4751	Low-temperature viability protein ltv1
+411677at4751	Complete	jgi|Pucst1|499106|snap-PST130_7179-abinit-gene-0.3-mRNA-1	105.9	113	https://www.orthodb.org/v10?query=411677at4751	Rho GDP-dissociation inhibitor
+411754at4751	Complete	jgi|Pucst1|493788|maker-PST130_20805-snap-gene-0.4-mRNA-1	262.6	173	https://www.orthodb.org/v10?query=411754at4751	Splicing factor U2AF 23 kDa subunit
+411919at4751	Complete	jgi|Pucst1|489777|maker-PST130_12703-snap-gene-0.3-mRNA-1	134.7	162	https://www.orthodb.org/v10?query=411919at4751	Endoplasmic reticulum vesicle transporter, C-terminal
+412006at4751	Complete	jgi|Pucst1|498032|snap-PST130_6782-abinit-gene-0.1-mRNA-1	186.2	142	https://www.orthodb.org/v10?query=412006at4751	60S ribosome subunit biogenesis protein NIP7
+413850at4751	Complete	jgi|Pucst1|498261|maker-PST130_6892-snap-gene-0.7-mRNA-1	110.1	156	https://www.orthodb.org/v10?query=413850at4751	mitochondrial glyco protein
+414474at4751	Complete	jgi|Pucst1|491667|snap-PST130_15839-abinit-gene-0.0-mRNA-1	53.3	135	https://www.orthodb.org/v10?query=414474at4751	Golgi SNAP receptor complex member 1
+414508at4751	Complete	jgi|Pucst1|489445|maker-PST130_12426-snap-gene-0.9-mRNA-1	130.3	132	https://www.orthodb.org/v10?query=414508at4751	Ubiquinone biosynthesis protein COQ4, mitochondrial
+416039at4751	Complete	jgi|Pucst1|489972|maker-PST130_13013-snap-gene-0.6-mRNA-1	111.2	117	https://www.orthodb.org/v10?query=416039at4751	Presequence translocated-associated motor subunit pam17
+416914at4751	Complete	jgi|Pucst1|502652|maker-PST130_8580-snap-gene-0.5-mRNA-1	303.5	291	https://www.orthodb.org/v10?query=416914at4751	XPC-binding domain
+417109at4751	Missing
+417470at4751	Complete	jgi|Pucst1|501247|maker-PST130_7958-snap-gene-0.4-mRNA-1	183.0	263	https://www.orthodb.org/v10?query=417470at4751	Exocyst complex component EXO84
+417746at4751	Complete	jgi|Pucst1|499310|snap-PST130_7241-abinit-gene-0.1-mRNA-1	267.2	258	https://www.orthodb.org/v10?query=417746at4751	Zinc finger, CCCH-type
+418242at4751	Complete	jgi|Pucst1|495524|maker-PST130_25125-snap-gene-0.2-mRNA-1	111.8	154	https://www.orthodb.org/v10?query=418242at4751	Chorismate mutase
+418644at4751	Duplicated	jgi|Pucst1|505014|maker-PST130_9962-snap-gene-0.2-mRNA-1	229.6	293	https://www.orthodb.org/v10?query=418644at4751	NEDD8-activating enzyme E1 regulatory subunit
+418644at4751	Duplicated	jgi|Pucst1|503997|maker-PST130_9286-snap-gene-0.3-mRNA-1	219.5	309	https://www.orthodb.org/v10?query=418644at4751	NEDD8-activating enzyme E1 regulatory subunit
+418680at4751	Complete	jgi|Pucst1|494970|maker-PST130_2303-snap-gene-0.2-mRNA-1	134.2	160	https://www.orthodb.org/v10?query=418680at4751	Exosome complex exonuclease RRP41
+419048at4751	Duplicated	jgi|Pucst1|488776|maker-PST130_11616-snap-gene-0.3-mRNA-1	153.1	105	https://www.orthodb.org/v10?query=419048at4751	Synaptobrevin
+419048at4751	Duplicated	jgi|Pucst1|487626|maker-PST130_10489-snap-gene-0.2-mRNA-1	149.7	128	https://www.orthodb.org/v10?query=419048at4751	Synaptobrevin
+419200at4751	Complete	jgi|Pucst1|504072|maker-PST130_9327-snap-gene-0.4-mRNA-1	164.3	172	https://www.orthodb.org/v10?query=419200at4751	Luc7-related
+419232at4751	Complete	jgi|Pucst1|503710|maker-PST130_9131-snap-gene-0.3-mRNA-1	156.2	232	https://www.orthodb.org/v10?query=419232at4751	Nse4/EID family
+419667at4751	Complete	jgi|Pucst1|493832|maker-PST130_20845-snap-gene-0.2-mRNA-1	98.5	108	https://www.orthodb.org/v10?query=419667at4751	Peptidyl-prolyl cis-trans isomerase
+419868at4751	Missing
+420414at4751	Complete	jgi|Pucst1|500570|snap-PST130_7685-abinit-gene-0.0-mRNA-1	94.5	128	https://www.orthodb.org/v10?query=420414at4751	GRASP55/65
+420527at4751	Complete	jgi|Pucst1|487386|snap-PST130_10258-abinit-gene-0.2-mRNA-1	127.9	156	https://www.orthodb.org/v10?query=420527at4751	SEP domain
+421097at4751	Complete	jgi|Pucst1|498130|snap-PST130_6835-abinit-gene-0.2-mRNA-1	110.5	113	https://www.orthodb.org/v10?query=421097at4751	Acyl-CoA N-acyltransferase
+421687at4751	Fragmented	jgi|Pucst1|503759|maker-PST130_9150-snap-gene-0.3-mRNA-1	82.7	119	https://www.orthodb.org/v10?query=421687at4751	putative amino-acid N-acetyltransferase subunit Mak10
+422151at4751	Missing
+422622at4751	Complete	jgi|Pucst1|502796|maker-PST130_8650-snap-gene-0.3-mRNA-1	126.1	125	https://www.orthodb.org/v10?query=422622at4751	prefoldin, alpha subunit
+422764at4751	Complete	jgi|Pucst1|487058|snap-PST130_10016-abinit-gene-0.2-mRNA-1	255.4	294	https://www.orthodb.org/v10?query=422764at4751	tRNA-splicing endonuclease, subunit Sen54
+423166at4751	Complete	jgi|Pucst1|487173|snap-PST130_10105-abinit-gene-0.2-mRNA-1	135.0	77	https://www.orthodb.org/v10?query=423166at4751	Ribosomal protein L14P
+423206at4751	Complete	jgi|Pucst1|489405|maker-PST130_12379-snap-gene-0.9-mRNA-1	91.4	78	https://www.orthodb.org/v10?query=423206at4751	Nuclear cap-binding protein subunit 2
+427250at4751	Complete	jgi|Pucst1|499086|maker-PST130_7170-snap-gene-0.23-mRNA-1	50.0	101	https://www.orthodb.org/v10?query=427250at4751	Actin-related protein 2/3 complex subunit 5
+428342at4751	Complete	jgi|Pucst1|500653|maker-PST130_7720-snap-gene-0.13-mRNA-1	184.8	118	https://www.orthodb.org/v10?query=428342at4751	Ribosomal protein S19
+428569at4751	Complete	jgi|Pucst1|500402|snap-PST130_7614-abinit-gene-0.5-mRNA-1	176.9	151	https://www.orthodb.org/v10?query=428569at4751	Vacuolar protein sorting-associated protein 29
+428774at4751	Complete	jgi|Pucst1|501404|maker-PST130_8012-snap-gene-0.12-mRNA-1	222.2	170	https://www.orthodb.org/v10?query=428774at4751	Proteasome subunit beta type
+428984at4751	Complete	jgi|Pucst1|496153|snap-PST130_27833-abinit-gene-0.0-mRNA-1	269.7	412	https://www.orthodb.org/v10?query=428984at4751	BRCT domain
+429332at4751	Complete	jgi|Pucst1|493718|snap-PST130_20733-abinit-gene-0.1-mRNA-1	87.4	122	https://www.orthodb.org/v10?query=429332at4751	RNA polymerase III, subunit Rpc25
+429862at4751	Complete	jgi|Pucst1|501677|maker-PST130_8135-snap-gene-0.7-mRNA-1	30.7	82	https://www.orthodb.org/v10?query=429862at4751	Microsomal signal peptidase 25 kDa subunit
+430556at4751	Complete	jgi|Pucst1|500551|maker-PST130_7680-snap-gene-0.5-mRNA-1	194.4	372	https://www.orthodb.org/v10?query=430556at4751	Nucleoporin NUP88/NUP82
+431195at4751	Missing
+431607at4751	Complete	jgi|Pucst1|498141|maker-PST130_6840-snap-gene-0.9-mRNA-1	102.2	118	https://www.orthodb.org/v10?query=431607at4751	Translation machinery-associated protein 20
+432952at4751	Complete	jgi|Pucst1|498280|maker-PST130_6898-snap-gene-0.7-mRNA-1	108.8	148	https://www.orthodb.org/v10?query=432952at4751	Vacuolar-sorting protein SNF7
+433181at4751	Complete	jgi|Pucst1|502959|maker-PST130_8716-snap-gene-0.8-mRNA-1	148.9	177	https://www.orthodb.org/v10?query=433181at4751	Mediator of RNA polymerase II transcription subunit 6
+433384at4751	Complete	jgi|Pucst1|490088|maker-PST130_13210-snap-gene-0.2-mRNA-1	28.9	86	https://www.orthodb.org/v10?query=433384at4751	Ran-interacting Mog1 protein
+434428at4751	Complete	jgi|Pucst1|504661|maker-PST130_9720-snap-gene-0.3-mRNA-1	211.0	130	https://www.orthodb.org/v10?query=434428at4751	Actin-related protein 2/3 complex subunit 4
+434500at4751	Fragmented	jgi|Pucst1|499617|maker-PST130_7342-snap-gene-0.1-mRNA-1	141.7	159	https://www.orthodb.org/v10?query=434500at4751	Leucine-rich repeat
+434984at4751	Complete	jgi|Pucst1|502366|maker-PST130_8441-snap-gene-0.4-mRNA-1	104.2	96	https://www.orthodb.org/v10?query=434984at4751	U3 small nucleolar RNA-associated protein 11
+435317at4751	Complete	jgi|Pucst1|494218|maker-PST130_21197-snap-gene-0.5-mRNA-1	76.6	95	https://www.orthodb.org/v10?query=435317at4751	DnaJ domain
+435471at4751	Fragmented	jgi|Pucst1|499232|snap-PST130_7216-abinit-gene-0.5-mRNA-1	18.0	39	https://www.orthodb.org/v10?query=435471at4751	NAD(P)H-hydrate epimerase
+435767at4751	Complete	jgi|Pucst1|501762|maker-PST130_8173-snap-gene-0.2-mRNA-1	273.8	216	https://www.orthodb.org/v10?query=435767at4751	Ribosomal RNA small subunit methyltransferase NEP1
+436872at4751	Missing
+437914at4751	Complete	jgi|Pucst1|492485|maker-PST130_17882-snap-gene-0.2-mRNA-1	217.8	157	https://www.orthodb.org/v10?query=437914at4751	Zinc finger C2H2 superfamily
+438274at4751	Fragmented	jgi|Pucst1|495214|snap-PST130_23969-abinit-gene-0.0-mRNA-1	109.2	105	https://www.orthodb.org/v10?query=438274at4751	ERF1 methyltransferase catalytic subunit MTQ2
+438731at4751	Missing
+438861at4751	Fragmented	jgi|Pucst1|500301|snap-PST130_7580-abinit-gene-0.2-mRNA-1	41.2	68	https://www.orthodb.org/v10?query=438861at4751	OPI10 family
+439490at4751	Complete	jgi|Pucst1|490237|maker-PST130_13497-snap-gene-0.2-mRNA-1	114.5	107	https://www.orthodb.org/v10?query=439490at4751	GrpE nucleotide exchange factor
+440401at4751	Complete	jgi|Pucst1|490214|maker-PST130_13470-snap-gene-0.4-mRNA-1	64.6	102	https://www.orthodb.org/v10?query=440401at4751	CAP Gly-rich domain
+441586at4751	Missing
+443595at4751	Complete	jgi|Pucst1|502614|snap-PST130_8558-abinit-gene-0.1-mRNA-1	59.5	58	https://www.orthodb.org/v10?query=443595at4751	snare-like protein
+444174at4751	Complete	jgi|Pucst1|490627|maker-PST130_14108-snap-gene-0.1-mRNA-1	60.0	55	https://www.orthodb.org/v10?query=444174at4751	Cell cycle control protein cwf14
+444399at4751	Missing
+444602at4751	Fragmented	jgi|Pucst1|504912|snap-PST130_990-abinit-gene-0.4-mRNA-1	33.7	54	https://www.orthodb.org/v10?query=444602at4751	ER membrane protein complex subunit 4
+444892at4751	Complete	jgi|Pucst1|499430|maker-PST130_7282-snap-gene-0.1-mRNA-1	37.9	116	https://www.orthodb.org/v10?query=444892at4751	Cytoplasmic tRNA 2-thiolation protein 2
+445210at4751	Complete	jgi|Pucst1|497839|maker-PST130_584-snap-gene-0.2-mRNA-1	51.6	22	https://www.orthodb.org/v10?query=445210at4751	Transcription factor IIA, alpha/beta subunit
+445401at4751	Complete	jgi|Pucst1|499977|snap-PST130_7465-abinit-gene-0.2-mRNA-1	233.9	157	https://www.orthodb.org/v10?query=445401at4751	V-ATPase proteolipid subunit
+445954at4751	Complete	jgi|Pucst1|502174|maker-PST130_8336-snap-gene-0.7-mRNA-1	109.4	56	https://www.orthodb.org/v10?query=445954at4751	DNA-directed RNA polymerase, 14-18kDa subunit, conserved site
+446124at4751	Complete	jgi|Pucst1|502957|maker-PST130_8716-snap-gene-0.7-mRNA-1	89.0	111	https://www.orthodb.org/v10?query=446124at4751	ribosomal protein L11
+447112at4751	Complete	jgi|Pucst1|494329|maker-PST130_21299-snap-gene-0.6-mRNA-1	110.2	150	https://www.orthodb.org/v10?query=447112at4751	Ribosomal protein L6
+447424at4751	Complete	jgi|Pucst1|503298|maker-PST130_8896-snap-gene-0.2-mRNA-1	198.4	186	https://www.orthodb.org/v10?query=447424at4751	Yif1 family
+449717at4751	Complete	jgi|Pucst1|501997|maker-PST130_8276-snap-gene-0.10-mRNA-1	313.4	267	https://www.orthodb.org/v10?query=449717at4751	Protein YIP
+449803at4751	Complete	jgi|Pucst1|499978|snap-PST130_7465-abinit-gene-0.5-mRNA-1	144.2	160	https://www.orthodb.org/v10?query=449803at4751	Dephospho-CoA kinase
+451032at4751	Complete	jgi|Pucst1|490587|maker-PST130_14014-snap-gene-0.3-mRNA-1	152.1	104	https://www.orthodb.org/v10?query=451032at4751	MIP18 family-like
+451701at4751	Complete	jgi|Pucst1|504962|maker-PST130_9925-snap-gene-0.8-mRNA-1	172.0	188	https://www.orthodb.org/v10?query=451701at4751	Mitochondrial ATPase complex subunit ATP10
+451811at4751	Fragmented	jgi|Pucst1|499475|snap-PST130_7302-abinit-gene-0.4-mRNA-1	79.8	143	https://www.orthodb.org/v10?query=451811at4751	Mitochondrial distribution and morphology protein 10
+451849at4751	Complete	jgi|Pucst1|502367|maker-PST130_8442-snap-gene-0.2-mRNA-1	92.7	157	https://www.orthodb.org/v10?query=451849at4751	Pre-mRNA-splicing factor SLU7
+452573at4751	Fragmented	jgi|Pucst1|500476|maker-PST130_7647-snap-gene-0.5-mRNA-1	88.8	56	https://www.orthodb.org/v10?query=452573at4751	histone-fold-containing protein
+452692at4751	Complete	jgi|Pucst1|494394|maker-PST130_21420-snap-gene-0.2-mRNA-1	117.4	114	https://www.orthodb.org/v10?query=452692at4751	Protein GET1
+452759at4751	Fragmented	jgi|Pucst1|491034|maker-PST130_14874-snap-gene-0.1-mRNA-1	60.0	40	https://www.orthodb.org/v10?query=452759at4751	Translation initiation factor 1A (eIF-1A)
+452947at4751	Missing
+453693at4751	Complete	jgi|Pucst1|497804|maker-PST130_5668-snap-gene-0.6-mRNA-1	198.7	117	https://www.orthodb.org/v10?query=453693at4751	Ribosomal protein L23/L15e core domain superfamily
+453909at4751	Complete	jgi|Pucst1|501331|snap-PST130_7987-abinit-gene-0.0-mRNA-1	104.1	175	https://www.orthodb.org/v10?query=453909at4751	Histidine protein methyltransferase 1
+454746at4751	Complete	jgi|Pucst1|494851|maker-PST130_22696-snap-gene-0.1-mRNA-1	55.1	44	https://www.orthodb.org/v10?query=454746at4751	SNF7 family protein
+454840at4751	Fragmented	jgi|Pucst1|498833|snap-PST130_7087-abinit-gene-0.3-mRNA-1	80.9	97	https://www.orthodb.org/v10?query=454840at4751	Type 2A phosphatase activator TIP41
+455110at4751	Complete	jgi|Pucst1|500987|maker-PST130_7842-snap-gene-0.6-mRNA-1	93.0	63	https://www.orthodb.org/v10?query=455110at4751	Iron-sulfur cluster assembly protein
+456963at4751	Complete	jgi|Pucst1|498306|snap-PST130_6907-abinit-gene-0.5-mRNA-1	87.5	105	https://www.orthodb.org/v10?query=456963at4751	Multiprotein-bridging factor 1
+457161at4751	Complete	jgi|Pucst1|489455|maker-PST130_12434-snap-gene-0.2-mRNA-1	226.1	247	https://www.orthodb.org/v10?query=457161at4751	Zinc finger, CCCH-type
+457544at4751	Complete	jgi|Pucst1|503903|maker-PST130_9230-snap-gene-0.2-mRNA-1	187.5	160	https://www.orthodb.org/v10?query=457544at4751	V-type ATPase subunit E
+457951at4751	Complete	jgi|Pucst1|504674|maker-PST130_9731-snap-gene-0.7-mRNA-1	158.5	120	https://www.orthodb.org/v10?query=457951at4751	ribosomal protein L13
+458554at4751	Missing
+458980at4751	Complete	jgi|Pucst1|493614|snap-PST130_20648-abinit-gene-0.1-mRNA-1	203.7	202	https://www.orthodb.org/v10?query=458980at4751	Pre-mRNA-splicing factor 18
+459844at4751	Complete	jgi|Pucst1|493369|maker-PST130_20340-snap-gene-0.5-mRNA-1	161.0	122	https://www.orthodb.org/v10?query=459844at4751	Adenylate kinase isoenzyme 6 homolog
+461238at4751	Complete	jgi|Pucst1|500165|maker-PST130_753-snap-gene-0.4-mRNA-1	91.8	70	https://www.orthodb.org/v10?query=461238at4751	Transcription elongation factor SPT4
+461919at4751	Fragmented	jgi|Pucst1|503304|snap-PST130_8899-abinit-gene-0.1-mRNA-1	54.0	61	https://www.orthodb.org/v10?query=461919at4751	Peroxisomal biogenesis factor 2
+464711at4751	Complete	jgi|Pucst1|500340|maker-PST130_7597-snap-gene-0.8-mRNA-1	131.2	118	https://www.orthodb.org/v10?query=464711at4751	Mitochondrial import inner membrane translocase subunit TIM23
+464772at4751	Complete	jgi|Pucst1|493924|maker-PST130_20930-snap-gene-0.4-mRNA-1	257.7	172	https://www.orthodb.org/v10?query=464772at4751	DUF572-domain-containing protein
+464897at4751	Complete	jgi|Pucst1|494224|maker-PST130_21201-snap-gene-0.5-mRNA-1	77.3	70	https://www.orthodb.org/v10?query=464897at4751	RNA polymerase
+465849at4751	Fragmented	jgi|Pucst1|488860|snap-PST130_11699-abinit-gene-0.1-mRNA-1	106.7	64	https://www.orthodb.org/v10?query=465849at4751	ribosomal protein S12
+467311at4751	Missing
+467847at4751	Complete	jgi|Pucst1|488879|maker-PST130_11717-snap-gene-0.5-mRNA-1	97.5	113	https://www.orthodb.org/v10?query=467847at4751	AMMECR1
+467959at4751	Missing
+468195at4751	Complete	jgi|Pucst1|504101|maker-PST130_9345-snap-gene-0.9-mRNA-1	57.7	71	https://www.orthodb.org/v10?query=468195at4751	Signal peptidase subunit 3
+468224at4751	Complete	jgi|Pucst1|495534|maker-PST130_25192-snap-gene-0.3-mRNA-1	46.9	93	https://www.orthodb.org/v10?query=468224at4751	rRNA-processing protein EFG1
+468408at4751	Fragmented	jgi|Pucst1|488248|maker-PST130_11062-snap-gene-0.1-mRNA-1	209.7	227	https://www.orthodb.org/v10?query=468408at4751	Vacuolar fusion protein MON1
+469452at4751	Complete	jgi|Pucst1|496320|maker-PST130_28298-snap-gene-0.3-mRNA-1	124.8	96	https://www.orthodb.org/v10?query=469452at4751	Ribosomal protein S5 domain 2-type fold
+470813at4751	Missing
+471205at4751	Fragmented	jgi|Pucst1|500563|snap-PST130_7682-abinit-gene-0.6-mRNA-1	26.3	21	https://www.orthodb.org/v10?query=471205at4751	histone-fold-containing protein
+473814at4751	Complete	jgi|Pucst1|501582|maker-PST130_8095-snap-gene-0.6-mRNA-1	82.5	77	https://www.orthodb.org/v10?query=473814at4751	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST2
+474125at4751	Fragmented	jgi|Pucst1|503404|maker-PST130_8958-snap-gene-0.4-mRNA-1	40.9	87	https://www.orthodb.org/v10?query=474125at4751	Lunapark domain
+474320at4751	Complete	jgi|Pucst1|489645|maker-PST130_12579-snap-gene-0.5-mRNA-1	72.0	72	https://www.orthodb.org/v10?query=474320at4751	H/ACA ribonucleoprotein complex subunit 2
+474374at4751	Complete	jgi|Pucst1|503861|snap-PST130_9203-abinit-gene-0.4-mRNA-1	123.3	95	https://www.orthodb.org/v10?query=474374at4751	Ribosomal protein S10
+477057at4751	Missing
+477122at4751	Complete	jgi|Pucst1|503639|maker-PST130_9093-snap-gene-0.3-mRNA-1	185.6	129	https://www.orthodb.org/v10?query=477122at4751	Mitochondrial import inner membrane translocase subunit tim22
+481052at4751	Complete	jgi|Pucst1|493274|maker-PST130_20012-snap-gene-0.2-mRNA-1	150.1	153	https://www.orthodb.org/v10?query=481052at4751	Ribulose-phosphate 3-epimerase
+482337at4751	Duplicated	jgi|Pucst1|496652|maker-PST130_28584-snap-gene-0.3-mRNA-1	113.9	235	https://www.orthodb.org/v10?query=482337at4751	Pre-mRNA-splicing factor CWC26
+482337at4751	Duplicated	jgi|Pucst1|497165|maker-PST130_310-snap-gene-0.1-mRNA-1	108.7	228	https://www.orthodb.org/v10?query=482337at4751	Pre-mRNA-splicing factor CWC26
+483049at4751	Complete	jgi|Pucst1|493996|maker-PST130_21001-snap-gene-0.7-mRNA-1	83.4	79	https://www.orthodb.org/v10?query=483049at4751	Chromatin-remodeling complex subunit ies6
+483370at4751	Complete	jgi|Pucst1|497227|maker-PST130_3336-snap-gene-0.2-mRNA-1	60.4	68	https://www.orthodb.org/v10?query=483370at4751	Ribosomal protein L27
+483390at4751	Fragmented	jgi|Pucst1|502380|maker-PST130_8447-snap-gene-0.14-mRNA-1	73.4	54	https://www.orthodb.org/v10?query=483390at4751	V-type proton ATPase subunit F
+484080at4751	Complete	jgi|Pucst1|502438|maker-PST130_8478-snap-gene-0.6-mRNA-1	50.2	129	https://www.orthodb.org/v10?query=484080at4751	SNARE
+484323at4751	Complete	jgi|Pucst1|490409|maker-PST130_13680-snap-gene-0.9-mRNA-1	78.7	73	https://www.orthodb.org/v10?query=484323at4751	Prefoldin beta-like protein
+484805at4751	Complete	jgi|Pucst1|493111|maker-PST130_19526-snap-gene-0.2-mRNA-1	111.1	191	https://www.orthodb.org/v10?query=484805at4751	Pre-mRNA-splicing factor syf2
+485650at4751	Complete	jgi|Pucst1|500954|snap-PST130_7830-abinit-gene-0.7-mRNA-1	120.9	104	https://www.orthodb.org/v10?query=485650at4751	Ribosomal protein L7/L12
+485702at4751	Complete	jgi|Pucst1|497008|snap-PST130_29018-abinit-gene-0.1-mRNA-1	170.7	173	https://www.orthodb.org/v10?query=485702at4751	translocation protein
+488348at4751	Complete	jgi|Pucst1|500852|maker-PST130_7802-snap-gene-0.12-mRNA-1	125.1	93	https://www.orthodb.org/v10?query=488348at4751	LSM domain, eukaryotic/archaea-type
+488426at4751	Missing
+488857at4751	Complete	jgi|Pucst1|499566|snap-PST130_7326-abinit-gene-0.3-mRNA-1	79.1	109	https://www.orthodb.org/v10?query=488857at4751	Clathrin light chain
+490662at4751	Complete	jgi|Pucst1|499551|maker-PST130_7323-snap-gene-0.9-mRNA-1	70.7	32	https://www.orthodb.org/v10?query=490662at4751	Frataxin
+490719at4751	Complete	jgi|Pucst1|500687|maker-PST130_7727-snap-gene-0.16-mRNA-1	86.6	124	https://www.orthodb.org/v10?query=490719at4751	thioredoxin-like protein
+492591at4751	Missing
+493358at4751	Complete	jgi|Pucst1|499660|maker-PST130_7356-snap-gene-0.6-mRNA-1	123.4	72	https://www.orthodb.org/v10?query=493358at4751	40S ribosomal protein S26
+494427at4751	Fragmented	jgi|Pucst1|488040|maker-PST130_10862-snap-gene-0.1-mRNA-1	123.9	71	https://www.orthodb.org/v10?query=494427at4751	Cytochrome c oxidase subunit 6, mitochondrial
+497024at4751	Complete	jgi|Pucst1|499433|maker-PST130_7283-snap-gene-0.6-mRNA-1	70.3	52	https://www.orthodb.org/v10?query=497024at4751	Zinc finger C2H2-type

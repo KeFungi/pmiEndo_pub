@@ -1,0 +1,51 @@
+==================================================
+file name: Botci1.fasta             
+sequences:           588
+total length:   42663021 bp  (38786820 bp excl N/X-runs)
+GC level:         43.06 %
+bases masked:    1644178 bp ( 3.85 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:               17         1497 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:                0            0 bp    0.00 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       172       197770 bp    0.46 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:       135        78228 bp    0.18 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      2416       435763 bp    1.02 %
+
+Total interspersed repeats:   713258 bp    1.67 %
+
+
+Small RNA:          102       137776 bp    0.32 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:   16770       704841 bp    1.65 %
+Low complexity:    1773        89032 bp    0.21 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Botci1-families.fa"
+

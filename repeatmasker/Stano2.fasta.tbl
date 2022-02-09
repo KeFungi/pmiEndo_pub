@@ -1,0 +1,51 @@
+==================================================
+file name: Stano2.fasta             
+sequences:           108
+total length:   37213987 bp  (37049599 bp excl N/X-runs)
+GC level:         50.43 %
+bases masked:    2832822 bp ( 7.61 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:                0            0 bp    0.00 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       402      1276810 bp    3.43 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI    179       662652 bp    1.78 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:       262       213651 bp    0.57 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      1736       901464 bp    2.42 %
+
+Total interspersed repeats:  2391925 bp    6.43 %
+
+
+Small RNA:          114       246851 bp    0.66 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:    3897       169310 bp    0.45 %
+Low complexity:     477        25403 bp    0.07 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Stano2-families.fa"
+

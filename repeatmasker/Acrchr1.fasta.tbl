@@ -1,0 +1,51 @@
+==================================================
+file name: Acrchr1.fasta            
+sequences:           540
+total length:   28563214 bp  (28561604 bp excl N/X-runs)
+GC level:         55.22 %
+bases masked:    2469689 bp ( 8.65 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               48        11331 bp    0.04 %
+      LINE1          27         1750 bp    0.01 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:      1025      1815931 bp    6.36 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:        53        44759 bp    0.16 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:       468       162101 bp    0.57 %
+
+Total interspersed repeats:  2034122 bp    7.12 %
+
+
+Small RNA:           49         4797 bp    0.02 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:   10281       388909 bp    1.36 %
+Low complexity:     895        42030 bp    0.15 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Acrchr1-families.fa"
+

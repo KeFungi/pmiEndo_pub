@@ -1,0 +1,51 @@
+==================================================
+file name: Rhesp1.fasta             
+sequences:            63
+total length:   62745254 bp  (62745254 bp excl N/X-runs)
+GC level:         44.29 %
+bases masked:   11221135 bp ( 17.88 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               39         6120 bp    0.01 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:      2966      7464377 bp   11.90 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:      1539      1286468 bp    2.05 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      6106      1748402 bp    2.79 %
+
+Total interspersed repeats: 10505367 bp   16.74 %
+
+
+Small RNA:           41         4753 bp    0.01 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:   14561       611345 bp    0.97 %
+Low complexity:    2041       101933 bp    0.16 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Rhesp1-families.fa"
+

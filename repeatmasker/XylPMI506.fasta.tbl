@@ -1,0 +1,51 @@
+==================================================
+file name: XylPMI506.fasta          
+sequences:            26
+total length:   51304718 bp  (51304718 bp excl N/X-runs)
+GC level:         50.66 %
+bases masked:     698523 bp ( 1.36 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               70       140227 bp    0.27 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:         0            0 bp    0.00 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:        49        11347 bp    0.02 %
+     hAT-Charlie     14          604 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:       627       146326 bp    0.29 %
+
+Total interspersed repeats:   297900 bp    0.58 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:    9666       353482 bp    0.69 %
+Low complexity:    1091        47186 bp    0.09 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../XylPMI506-families.fa"
+

@@ -1,0 +1,51 @@
+==================================================
+file name: Morel2.fasta             
+sequences:           473
+total length:   49863165 bp  (49708251 bp excl N/X-runs)
+GC level:         48.05 %
+bases masked:    5326190 bp ( 10.68 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:               18         1479 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               30        11318 bp    0.02 %
+      LINE1          30        11318 bp    0.02 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       768       128415 bp    0.26 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:       366       133321 bp    0.27 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger    15         4013 bp    0.01 %
+
+Unclassified:      6486      2771450 bp    5.56 %
+
+Total interspersed repeats:  3045983 bp    6.11 %
+
+
+Small RNA:          789       175028 bp    0.35 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:   38606      1604849 bp    3.22 %
+Low complexity:    7627       459468 bp    0.92 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0, RepBase-20181026
+                       
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../Morel2-families.fa"
+
