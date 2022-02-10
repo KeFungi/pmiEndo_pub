@@ -9,3 +9,5 @@ Author Affiliations:
 
 Corresponding Author:
 *Yi-Hong Ke; yk158@duke.edu
+
+Consult **command_note.md** for the workflow and uses of all the scripts.
