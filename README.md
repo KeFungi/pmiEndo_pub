@@ -1,3 +1,5 @@
+Consult **command_note.md** for the workflow of all the scripts.
+
 This is the depository of data and code for a working paper titiled **Convergent genome expansion in fungi linked to evolution of root-endophyte symbiosis**. All unpublished data are protected by JGI Data Policy (https://jgi.doe.gov/user-programs/pmo-overview/policies/). Contact according authors for any interests in downloading or analysing data.
 
 Author Line:
@@ -9,5 +11,3 @@ Author Affiliations:
 
 Corresponding Author:
 *Yi-Hong Ke; yk158@duke.edu
-
-Consult **command_note.md** for the workflow and uses of all the scripts.
