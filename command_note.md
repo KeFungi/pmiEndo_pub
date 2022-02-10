@@ -33,13 +33,13 @@ run raxml with supermatrix_ali.fasta in blackbox mode at http://cipress.com
 Saved to ./phylotree/RAxML_busco_65.newick and ./phylotree/RAxML_busco_65_bootstrap.newick
 
 
-# genome completeness
+# gene number stat
+
+## genome completeness
 ```bash
 #wd=/
 Rscript scripts/genome_completeness.R meta_tables/rel_genome_list.txt meta_tables/genome_completeness.tsv
 ```
-
-# gene number stat
 ## genome size
 ```bash
 #wd=/
@@ -89,7 +89,7 @@ do
 done
 ```
 
-#tmhmm
+# tmhmm
 ```bash
 #wd=tmhmm
 spcodel=$(cat ../meta_tables/rel_genome_list.txt)
@@ -121,7 +121,7 @@ cp targetp secretome; cp  secretome; cp WoLFPSort secretome; cp signalp secretom
 Rscript scripts/secretome_pipe.R #write summary to secretome/secretome_count.tsv
 ```
 
-#repeatmodeler
+# repeatmodeler
 ```bash
 #wd=repeatmodeler
 spcodel=$(cat ../meta_tables/rel_genome_list.txt)
@@ -202,6 +202,11 @@ done
 
 #wd=/
 Rscript scripts/parse_RGI.R
+```
+# statistical tests and plots
+
+```bash
+Rscript statistics_and_plots.R
 ```
 
 # CAZyme GH88 DTL
