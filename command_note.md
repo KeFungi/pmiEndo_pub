@@ -121,33 +121,20 @@ cp targetp secretome; cp  secretome; cp WoLFPSort secretome; cp signalp secretom
 Rscript scripts/secretome_pipe.R #write summary to secretome/secretome_count.tsv
 ```
 
-# repeatmodeler
-```bash
-#wd=repeatmodeler
-spcodel=$(cat ../meta_tables/rel_genome_list.txt)
-
-for spcode in $spcodel
-do
-  BuildDatabase -name ${spcode} ../ge/${spcode}.fasta
-  RepeatModeler -database $spcode -pa 4
-done
-```
-
-# repeatmasker
-```bash
-#wd=repeatmasker
-spcodel=$(cat ../meta_tables/rel_genome_list.txt)
-
-for spcode in $spcodel
-do
-  sbatch --mem=8g -o ${spcode}.log --wrap="RepeatMasker -lib ../repeatmodeler/${spcode}-families.fa ../ge/${spcode}.fasta"
-done
-```
-
 # parse repeat
 ```bash
 #wd=/
-Rscript scripts/parse_repeat.R #write to repeatmasker/repeat_tb.tsv
+mkdir repeat
+rm results/repeat_length.tsv
+
+spcodel=$(cat meta_tables/rel_genome_list.txt)
+
+for spcode in $spcodel
+do
+  zcat ge/${spcode}.fasta.gz | perl -lne 'if(/^(>.*)/){ $head=$1 } else { $fa{$head} .= $_ } END{ foreach $s (sort(keys(%fa))){ print "$s\n$fa{$s}\n" }}' | perl -lne 'if(/^>(\S+)/){ $n=$1} else { while(/([a-z]+)/g){ printf("%s\t%d\t%d\n",$n,pos($_)-length($1),pos($_)) } }' > results/${spcode}.mask.bed
+  sum=$(awk -F'\t' 'BEGIN{SUM=0}{ SUM+=$3-$2 }END{print SUM}' repeat/${spcode}.mask.bed)
+  echo ${spcode}$'\t'${sum} >> results/repeat_length.tsv
+done
 ```
 
 # CAZymes
