@@ -190,6 +190,35 @@ done
 #wd=/
 Rscript scripts/parse_RGI.R
 ```
+
+# protease
+```bash
+merops_db=diamond/merops.dmnd
+mkdir merops
+rm results/merops.tsv
+spcodel=$(cat meta_tables/rel_genome_list.txt)
+for spcode in $spcodel
+do
+  diamond blastp -p 1 -d $merops_db -q proteins/${spcode}.aa.fasta -o merops/${spcode}.merops.tsv
+  sum=$(awk '{print $1}' merops/${spcode}.merops.tsv | sort | uniq | wc -l)
+  echo ${spcode}$'\t'${sum} >> results/merops.tsv
+done
+```
+
+# lipase
+```bash
+led_db=diamondled.dmnd
+mkdir led
+rm results/led.tsv
+spcodel=$(cat meta_tables/rel_genome_list.txt)
+for spcode in $spcodel
+do
+  diamond blastp -p 1 -d $led_db -q proteins/${spcode}.aa.fasta -o led/${spcode}.led.tsv
+  sum=$(awk '{print $1}' led/${spcode}.led.tsv | sort | uniq | wc -l)
+  echo ${spcode}$'\t'${sum} >> results/led.tsv
+done
+```
+
 # statistical tests and plots
 
 ```bash
