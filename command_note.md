@@ -274,4 +274,14 @@ output DTL/GH88.tree
 7. run Ranger-DTL.mac -i rager_input.newick -o output.reconciliation
    The minimum reconciliation cost is: 170 (Duplications: 3, Transfers: 46, Losses: 26)
 
+# GH88
+```bash
+blast_db=/work/yk158/blast_db/
+cd DTL
+sbatch -c 8 --mem=16g --wrap="blastp -query GH88_curate.fasta -outfmt 6 -db $blast_db/nr -taxidlist $blast_db/fungi.id -out GH88_curate.fungi.blastp"
+sbatch -c 8 --mem=16g --wrap="blastp -query GH88_curate.fasta -outfmt 6 -db $blast_db/nr -taxidlist $blast_db/bacteria.id -out GH88_curate.bacteria.blastp"
+sbatch -c 8 --mem=16g --wrap="blastp -query GH88_curate.fasta -outfmt 6 -db $blast_db/nr -taxidlist $blast_db/animals.id -out GH88_curate.animals.blastp"
+sbatch -c 8 --mem=16g --wrap="blastp -query GH88_curate.fasta -outfmt 6 -db $blast_db/nr -taxidlist $blast_db/plants.id -out GH88_curate.plants.blastp"
+sbatch -c 8 --mem=16g --wrap="blastp -query GH88_curate.fasta -outfmt 6 -db $blast_db/nr -taxidlist $blast_db/archaea.id -out GH88_curate.archaea.blastp"
+```
 
