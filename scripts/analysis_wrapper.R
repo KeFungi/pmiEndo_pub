@@ -152,7 +152,43 @@ univariate_plots <-
     
     gg2 <- ggplot(.tb, aes(x=!!group_col, y=!!var_col, fill=!!group_col)) +
       geom_boxplot() +
-      theme_classic()
+      theme_classic() +
+      ylim(0, NA)
     
     return(list(gg1, gg2))
+  }
+
+## phylogenetic least square regression
+phylolm_wrapper <-
+  function(.data, id_col, pre_cols, res_cols, phy, ...) {
+    .data <- column_to_rownames(.data, id_col)
+    in_formula <-
+      formulate_vars(res_vars=res_cols, pre_vars=pre_cols)
+    phylolm(in_formula, .data, phy, ...)
+  }
+
+extract_phylolm_fit <-
+  function(fit) {
+    var_name <- fit$formula %>% terms() %>% attr("variables") %>% .[[2]] %>% as.character()
+    summary(fit) %>%
+      .$coefficients %>%
+      as.matrix() %>%
+      as.data.frame() %>%
+      rownames_to_column("term") %>%
+      mutate(var=var_name) %>%
+      select(var, term, everything())
+  }
+
+wilcox_wrapper <-
+  function(.data, pre_col, res_col){
+    pre_col <- rlang::sym(pre_col)
+    res_col <- rlang::sym(res_col)
+    
+    .data <- filter(.data, !is.na(!!pre_col), !is.na(!!res_col))
+    x <- pull(.data, !!pre_col) %>% as.factor()
+    y <- pull(.data, !!res_col)
+    
+    w_results <- wilcox.exact(y ~ x)
+    
+    tibble(var=as.character(res_col), W=w_results$statistic, p=w_results$p.value)
   }

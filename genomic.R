@@ -37,6 +37,16 @@ repeat_tb <-
 rgi_tb <- 
   read_tsv("rgi/rgi_tb.tsv")
 
+## protease
+protease_tb <-
+  read_tsv("results/merops.tsv", col_names = FALSE) %>%
+  rename(spcode=X1, protease=X2)
+
+## lipase
+lipase_tb <-
+  read_tsv("results/led.tsv", col_names = FALSE) %>%
+  rename(spcode=X1, lipase=X2)
+
 ## all stats
 genome_allstat_tb <-
   select(all_genome_tb, spcode) %>%
@@ -51,7 +61,9 @@ genome_allstat_tb <-
   left_join(repeat_tb) %>%
   mutate(`duplicated BUSCOs (%)`= 100*`Complete and duplicated BUSCOs (D)`/`Total BUSCO groups searched`) %>%
   mutate(genome_size=genome_size/1e6) %>%
-  mutate(TE_len=TE_len/1e6)
+  mutate(TE_len=TE_len/1e6) %>%
+  left_join(lipase_tb) %>%
+  left_join(protease_tb)
 
 write_csv(genome_allstat_tb, "results/genome_stats.csv")
 
@@ -86,7 +98,9 @@ ggsave("plots/phylogeny.pdf",
        width = 10, height = 6)
 
 # genomic stats contrast and phylogenetic comparison
-input_vars <- c("CAZy", "genome_size", "gene_count", "SMC", "n_secreted", "TE_len", "resistome")
+input_vars <- c("CAZy", "genome_size", "gene_count", "SMC",
+                "n_secreted", "TE_len", "resistome",
+                "protease", "lipase")
 
 constrast_tree_dt<-
   contrast_tb %>%
@@ -189,6 +203,25 @@ univar_plotlist <-
       box_theme)
   )
 
+p <- univariate_plots(constrast_tree_dt$data, id_col = "spcode", group_col = "ecology", var_col = "protease")
+univar_plotlist <-
+  c(univar_plotlist, list(
+    p[[2]] +
+      sig2 +
+      ylab("protease") +
+      xlab(NULL) +
+      box_theme)
+  )
+
+p <- univariate_plots(constrast_tree_dt$data, id_col = "spcode", group_col = "ecology", var_col = "lipase")
+univar_plotlist <-
+  c(univar_plotlist, list(
+    p[[2]] +
+      sig2 +
+      ylab("lipase") +
+      xlab(NULL) +
+      box_theme)
+  )
 
 p <- univariate_plots(constrast_tree_dt$data, id_col = "spcode", group_col = "ecology", var_col = "resistome")
 univar_plotlist <-
@@ -225,6 +258,8 @@ fea_var_order <-
     "repeated\nelement length(Mbp)",
     "cazyme\n  count**",
     "small secreted\n  proteins**",
+    "protease**",
+    "lipase**",
     "antibiotic\nresistance\ngenes",
     "secondary\nmetabolite\nclusters"
   )
@@ -244,6 +279,8 @@ colh_plots <-
     name=replace(name, name=="n_secreted", "small secreted\n  proteins**"),
     name=replace(name, name=="SMC", "secondary\nmetabolite\nclusters"),
     name=replace(name, name=="CAZy", "cazyme\n  count**"),
+    name=replace(name, name=="protease", "protease**"),
+    name=replace(name, name=="lipase", "lipase**"),
     name=replace(name, name=="TE_len", "repeated\nelement length(Mbp)"),
     name=replace(name, name=="resistome", "antibiotic\nresistance\ngenes")) %>%
   mutate(name=factor(name,levels=fea_var_order)) %>%
