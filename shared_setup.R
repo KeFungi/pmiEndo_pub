@@ -95,3 +95,17 @@ contrast_tb <-
   filter(!(spcode %in% c("Gloci1"))) %>% #dulicate in one lineage
   filter(!(spcode %in% c("Ilysp1","MarPMI226"))) %>% #dulicate in one lineage
   filter(!(spcode %in% c("Hyafin1"))) #dulicate in one lineage
+
+contrast_asco_tb <-
+  contrast_tb %>%
+  left_join(select(taxa_tb, spcode, phylum)) %>%
+  filter(phylum=="Ascomycota") %>%
+  select(-phylum)
+
+contrast_allecoasco_tb <-
+  eco_tb %>%
+  left_join(select(taxa_tb, spcode, phylum, class),
+            by="spcode") %>%
+  filter(phylum %in% c("Ascomycota")) %>%
+  select(-phylum, -class) %>%
+  arrange(ecology, spcode)

@@ -1,0 +1,46 @@
+pfam,Wilcoxon,Random Forest,PLR,n_method,annotation
+PF00743,TRUE,TRUE,TRUE,3,Flavin-binding monooxygenase-like
+PF04828,TRUE,TRUE,TRUE,3,Glutathione-dependent formaldehyde-activating enzyme
+PF07470,TRUE,TRUE,TRUE,3,Glycosyl Hydrolase Family 88
+PF06314,TRUE,TRUE,TRUE,3,Acetoacetate decarboxylase (ADC)
+PF07859,TRUE,TRUE,TRUE,3,alpha/beta hydrolase fold
+PF01494,TRUE,TRUE,TRUE,3,FAD binding domain
+PF00596,TRUE,TRUE,TRUE,3,Class II Aldolase and Adducin N-terminal domain
+PF12051,TRUE,TRUE,TRUE,3,Protein of unknown function (DUF3533)
+PF00012,TRUE,TRUE,TRUE,3,Hsp70 protein
+PF00931,TRUE,TRUE,TRUE,3,NB-ARC domain
+PF08530,TRUE,TRUE,FALSE,2,X-Pro dipeptidyl-peptidase C-terminal non-catalytic domain
+PF04082,TRUE,FALSE,TRUE,2,Fungal specific transcription factor domain
+PF00082,TRUE,TRUE,FALSE,2,Subtilase family
+PF00170,TRUE,TRUE,FALSE,2,bZIP transcription factor
+PF01408,TRUE,TRUE,FALSE,2,"Oxidoreductase family, NAD-binding Rossmann fold"
+PF00350,FALSE,TRUE,TRUE,2,Dynamin family
+PF05729,FALSE,TRUE,TRUE,2,NACHT domain
+PF05730,FALSE,TRUE,TRUE,2,CFEM domain
+PF07110,FALSE,TRUE,TRUE,2,EthD domain
+PF12695,FALSE,TRUE,TRUE,2,Alpha/beta hydrolase family
+PF05426,TRUE,FALSE,FALSE,1,Alginate lyase
+PF12680,TRUE,FALSE,FALSE,1,SnoaL-like domain
+PF00722,TRUE,FALSE,FALSE,1,Glycosyl hydrolases family 16
+PF00205,TRUE,FALSE,FALSE,1,"Thiamine pyrophosphate enzyme, central domain"
+PF02129,TRUE,FALSE,FALSE,1,X-Pro dipeptidyl-peptidase (S15 family)
+PF02826,TRUE,FALSE,FALSE,1,"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"
+PF00083,FALSE,TRUE,FALSE,1,Sugar (and other) transporter
+PF00122,FALSE,TRUE,FALSE,1,E1-E2 ATPase
+PF00190,FALSE,TRUE,FALSE,1,Cupin
+PF00389,FALSE,TRUE,FALSE,1,"D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain"
+PF05721,FALSE,TRUE,FALSE,1,Phytanoyl-CoA dioxygenase (PhyH)
+PF07287,FALSE,TRUE,FALSE,1,Acyclic terpene utilisation family protein AtuA
+PF08531,FALSE,TRUE,FALSE,1,Alpha-L-rhamnosidase N-terminal domain
+PF01031,FALSE,FALSE,TRUE,1,Dynamin central region
+PF02205,FALSE,FALSE,TRUE,1,WH2 motif
+PF02541,FALSE,FALSE,TRUE,1,Ppx/GppA phosphatase family
+PF03446,FALSE,FALSE,TRUE,1,NAD binding domain of 6-phosphogluconate dehydrogenase
+PF07998,FALSE,FALSE,TRUE,1,Peptidase family M54
+PF11951,FALSE,FALSE,TRUE,1,Fungal specific transcription factor domain
+PF12454,FALSE,FALSE,TRUE,1,GPI-anchored cell wall organization protein
+PF12796,FALSE,FALSE,TRUE,1,Ankyrin repeats (3 copies)
+PF13207,FALSE,FALSE,TRUE,1,AAA domain
+PF13278,FALSE,FALSE,TRUE,1,NA
+PF13520,FALSE,FALSE,TRUE,1,Amino acid permease
+PF13738,FALSE,FALSE,TRUE,1,Pyridine nucleotide-disulphide oxidoreductase

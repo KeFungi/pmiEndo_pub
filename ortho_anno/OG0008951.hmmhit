@@ -1,0 +1,35 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+jgi|Ophnu1|1986393     -          OG0008951.ali        -            6.6e-70  225.4  60.5   2.4e-61  197.6  44.3   2.0   1   1   1   2   2   2   2 -
+jgi|Diaam1|6632        -          OG0008951.ali        -            1.1e-66  215.0  61.2   7.4e-58  186.3  46.0   2.1   1   1   1   2   2   2   2 -
+jgi|Chalo1|400223      -          OG0008951.ali        -            1.4e-66  214.6  66.1   1.8e-58  188.3  48.6   2.3   1   1   1   2   2   2   2 -
+jgi|Veral1|589         -          OG0008951.ali        -            1.4e-65  211.3  57.6   2.4e-57  184.6  41.1   2.1   1   1   1   2   2   2   2 -
+jgi|Talst1_2|2798      -          OG0008951.ali        -            5.7e-61  196.4  60.8   3.3e-54  174.4  45.3   2.0   1   1   1   2   2   2   2 -
+jgi|Glalo1|9253        -          OG0008951.ali        -              1e-60  195.6  50.1   2.2e-60  194.5  50.1   1.5   1   1   0   1   1   1   1 -
+jgi|Botci1|11894       -          OG0008951.ali        -              1e-60  195.6  57.8   9.8e-54  172.9  40.9   2.0   1   1   1   2   2   2   2 -
+jgi|Neodi1|1104        -          OG0008951.ali        -            1.1e-60  195.5  61.0   1.3e-53  172.5  44.6   2.0   1   1   1   2   2   2   2 -
+jgi|Chagl_1|16837      -          OG0008951.ali        -            2.5e-58  187.8  52.4   4.6e-51  164.2  35.5   2.1   1   1   1   2   2   2   2 -
+jgi|Botbo1|107392      -          OG0008951.ali        -            9.5e-57  182.7  57.6   1.2e-44  143.4  42.2   2.3   1   1   1   2   2   2   2 -
+jgi|Apimo1|34390       -          OG0008951.ali        -            1.3e-56  182.2  31.6   2.1e-56  181.5  31.6   1.3   1   0   0   1   1   1   1 -
+jgi|Acrchr1|6682       -          OG0008951.ali        -            1.4e-47  152.9  32.7   1.6e-47  152.6  32.7   1.0   1   0   0   1   1   1   1 -
+jgi|Ophpic1|5086       -          OG0008951.ali        -            3.8e-43  138.5  12.1   4.1e-42  135.1  12.1   2.0   1   1   0   1   1   1   1 -
+jgi|Colfi1|276971      -          OG0008951.ali        -            1.9e-40  129.7  16.4     2e-40  129.6  16.4   1.1   1   0   0   1   1   1   1 -
+jgi|Pilidi1|361762     -          OG0008951.ali        -            1.4e-36  117.1  49.5     7e-26   82.3  34.5   2.2   1   1   1   2   2   2   2 -
+jgi|Hymvar1|223677     -          OG0008951.ali        -            1.4e-29   94.3  35.2   2.6e-27   87.0  28.3   2.0   1   1   1   2   2   2   2 -
+jgi|Bissp1|680588      -          OG0008951.ali        -            1.6e-23   74.7  13.4     2e-23   74.4  13.4   1.2   1   0   0   1   1   1   1 -
+jgi|Bissp1|680589      -          OG0008951.ali        -            3.4e-23   73.6   4.2   3.4e-23   73.6   4.2   1.1   1   0   0   1   1   1   1 -
+jgi|Talpro1|100440     -          OG0008951.ali        -            3.1e-21   67.2   1.4   3.6e-21   67.0   1.4   1.2   1   0   0   1   1   1   1 -
+jgi|CodFL1790_1|657021 -          OG0008951.ali        -            4.6e-18   56.9   6.4   4.7e-18   56.9   6.4   1.1   1   0   0   1   1   1   1 -
+jgi|Bissp1|619953      -          OG0008951.ali        -            4.1e-06   18.1   2.3   4.8e-06   17.8   2.0   1.4   1   1   0   1   1   1   1 -
+jgi|Lorju1|128498      -          OG0008951.ali        -             0.0043    8.2  11.1     0.012    6.8  11.1   1.8   1   1   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ortho_anno/OG0008951.hmm
+# Target file:     ortho_anno/OG0008951.fa
+# Option settings: hmmsearch --tblout ortho_anno/OG0008951.hmmhit ortho_anno/OG0008951.hmm ortho_anno/OG0008951.fa 
+# Current dir:     /work/yk158/pmiEndo_pub
+# Date:            Sun Apr 24 03:44:44 2022
+# [ok]

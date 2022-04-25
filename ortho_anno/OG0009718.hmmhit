@@ -1,0 +1,31 @@
+#                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name           accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#   ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+jgi|Ilyrob1|455820      -          OG0009718.ali        -           3.3e-102  331.0   2.8  3.6e-102  330.8   2.8   1.0   1   0   0   1   1   1   1 -
+jgi|Hyafin1|196117      -          OG0009718.ali        -           3.6e-101  327.6   2.8    4e-101  327.4   2.8   1.0   1   0   0   1   1   1   1 -
+jgi|Ilysp1|1578476      -          OG0009718.ali        -             4e-101  327.4   2.8  4.4e-101  327.3   2.8   1.0   1   0   0   1   1   1   1 -
+jgi|Chalo1|545629       -          OG0009718.ali        -            5.3e-99  320.5   4.7   5.9e-99  320.3   4.7   1.0   1   0   0   1   1   1   1 -
+jgi|Oidma1|51519        -          OG0009718.ali        -            5.7e-98  317.1   6.6   6.1e-98  317.0   6.6   1.0   1   0   0   1   1   1   1 -
+jgi|XylPMI703_1|207998  -          OG0009718.ali        -            5.8e-98  317.1   2.7   6.9e-98  316.8   2.7   1.0   1   0   0   1   1   1   1 -
+jgi|Bissp1|680241       -          OG0009718.ali        -            1.5e-96  312.5   1.9   1.7e-96  312.3   1.9   1.0   1   0   0   1   1   1   1 -
+jgi|Atrpi1|615390       -          OG0009718.ali        -            4.6e-96  310.9   0.8   5.4e-96  310.6   0.8   1.0   1   0   0   1   1   1   1 -
+jgi|Zalva1|585764       -          OG0009718.ali        -            3.9e-95  307.8   1.6   4.3e-95  307.7   1.7   1.0   1   0   0   1   1   1   1 -
+jgi|ThoPMI491_1|747510  -          OG0009718.ali        -            1.3e-92  299.6   4.5   1.5e-92  299.4   4.5   1.0   1   0   0   1   1   1   1 -
+jgi|MarPMI226|421938    -          OG0009718.ali        -            4.3e-92  297.9   7.9   4.7e-92  297.7   7.9   1.0   1   0   0   1   1   1   1 -
+jgi|ConPMI546|190265    -          OG0009718.ali        -            1.3e-91  296.3   2.6   1.5e-91  296.1   2.6   1.0   1   0   0   1   1   1   1 -
+jgi|Leptod1|398969      -          OG0009718.ali        -            1.7e-78  253.4  12.1     2e-78  253.2  12.1   1.0   1   0   0   1   1   1   1 -
+jgi|Conlig1|685538      -          OG0009718.ali        -            1.2e-75  244.1   6.8   2.6e-75  243.0   6.8   1.5   1   1   0   1   1   1   1 -
+jgi|PhaPMI808|797555    -          OG0009718.ali        -            2.3e-61  197.4   0.1   2.6e-61  197.2   0.1   1.0   1   0   0   1   1   1   1 -
+jgi|Lepor2|623465       -          OG0009718.ali        -              4e-43  137.8   4.5   4.9e-43  137.5   4.5   1.0   1   0   0   1   1   1   1 -
+jgi|Hymvar1|402004      -          OG0009718.ali        -            8.1e-43  136.8   3.6   9.4e-43  136.6   3.6   1.0   1   0   0   1   1   1   1 -
+jgi|MelPMI1271_1|135476 -          OG0009718.ali        -            2.1e-35  112.6   0.0   5.8e-35  111.1   0.0   1.7   1   1   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ortho_anno/OG0009718.hmm
+# Target file:     ortho_anno/OG0009718.fa
+# Option settings: hmmsearch --tblout ortho_anno/OG0009718.hmmhit ortho_anno/OG0009718.hmm ortho_anno/OG0009718.fa 
+# Current dir:     /work/yk158/pmiEndo_pub
+# Date:            Sun Apr 24 03:44:44 2022
+# [ok]

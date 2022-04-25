@@ -274,11 +274,47 @@ output DTL/GH88.tree
 7. run Ranger-DTL.mac -i rager_input.newick -o output.reconciliation
    The minimum reconciliation cost is: 170 (Duplications: 3, Transfers: 46, Losses: 26)
 
+# orthro group
+```bash
+mkdir orthofinder
+cp proteins/*.fasta orthofinder
+
+sbatch -c 32 --mem=64g --wrap="orthofinder -f orthofinder/ -t 32 -a 4"
+```
+
+
+# annotate ortho
+```bash
+mkdir ortho_anno
+rm ortho_anno/ortho_repseqs.fasta ortho_anno/ortho_repseqs_index.tsv
+groups=$(awk -F, 'NR>1 {print $1}' results/ortho_stat_sum.csv)
+for f in $groups
+  do
+    cp orthofinder/OrthoFinder/Results_Apr06/Orthogroup_Sequences/${f}.fa ortho_anno
+    sed -i s/\*//g ortho_anno/${f}.fa
+    sbatch --wrap="mafft ortho_anno/${f}.fa > ortho_anno/${f}.ali.fa"
+    sbatch --wrap="hmmbuild ortho_anno/${f}.hmm ortho_anno/${f}.ali.fa"
+    sbatch --wrap="hmmsearch --tblout ortho_anno/${f}.hmmhit ortho_anno/${f}.hmm ortho_anno/${f}.fa"
+    seqid=$(grep -v '#' ortho_anno/${f}.hmmhit | head -1 | cut -f1 -d' ')
+    echo $f$'\t'$seqid >> ortho_anno/ortho_repseqs_index.tsv
+    seqkit grep -p $seqid ortho_anno/${f}.fa | seqkit replace -p '.+' -r $f >> ortho_anno/ortho_repseqs.fasta
+done
+```
+
+Interproscan annotation online (orthofiner + arabidopsis)
+Downloand tsv
+
+```
+Rscript scripts/OG_annotate.R
+```
+
+
 # GH88
 ```bash
 blast_db=/work/yk158/blast_db/
 cd DTL
 sbatch -c 8 --mem=16g --wrap="blastp -query GH88_curate.fasta -outfmt 6 -db $blast_db/nr -taxidlist $blast_db/fungi.id -out GH88_curate.fungi.blastp"
+sbatch -c 8 --mem=16g --wrap="blastp -query GH88_curate.fasta -outfmt 6 -db $blast_db/nr -taxidlist $blast_db/basidio.id -out GH88_curate.basidio.blastp"
 sbatch -c 8 --mem=16g --wrap="blastp -query GH88_curate.fasta -outfmt 6 -db $blast_db/nr -taxidlist $blast_db/bacteria.id -out GH88_curate.bacteria.blastp"
 sbatch -c 8 --mem=16g --wrap="blastp -query GH88_curate.fasta -outfmt 6 -db $blast_db/nr -taxidlist $blast_db/animals.id -out GH88_curate.animals.blastp"
 sbatch -c 8 --mem=16g --wrap="blastp -query GH88_curate.fasta -outfmt 6 -db $blast_db/nr -taxidlist $blast_db/plants.id -out GH88_curate.plants.blastp"
